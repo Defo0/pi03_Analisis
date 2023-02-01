@@ -1,5 +1,7 @@
 # pi03_Analisis
 
+# mooc
+
 Este es el proyecto individual número 3 de la carrera de Ciencia de Datos del Bootcamp de Soy Henry.
 nos propusieron un ejercicio muy interesante relacionado con los M.O.O.C.
 
@@ -24,7 +26,7 @@ Certificación: algunos MOOC ofrecen una certificación al final del curso para 
 
 Dentro de las plataformas de M.O.O.C. mas conocidas y utilizadas nos encontramos a Coursera, que cuenta con un sistema de suscripcion, a Udemy, que cuenta con cursos gratuitos y de pago y a EDX, donde se puede estudiar de manera gratuita pero hay que pagar por la titulación. 
 
-La consigna del proyecto dice asi (mas o menos)
+## La consigna del proyecto dice asi (mas o menos)
 
 Nuestro cliente nos pide que realicemos un analisis y un dashboard hablando sobre mooc, nos facilita unas tablas con datos y nos pide una serie de requerimientos:
 
