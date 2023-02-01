@@ -1,0 +1,976 @@
+,title,n_enrolled,course_type,institution,instructors,Level,subject,language,subtitles,price,course_length_weeks,min_effort,max_effort
+0,How to Learn Online,"124,980",Self-paced on your time,edX,Nina Huntemann-Robyn Belair-Ben Piscopo,Introductory,Education & Teacher Training,English,English,49.0,2,2,3
+1,Programming for Everybody (Getting Started with Python),"293,864",Self-paced on your time,The University of Michigan,Charles Severance,Introductory,Computer Science,English,English,49.0,7,2,4
+2,CS50's Introduction to Computer Science,"2,442,271",Self-paced on your time,Harvard University,David J. Malan-Doug Lloyd-Brian Yu,Introductory,Computer Science,English,English,90.0,12,6,18
+3,The Analytics Edge,"129,555",Instructor-led on a course schedule,Massachusetts Institute of Technology,Dimitris Bertsimas-Allison O'Hair-John Silberholz-Iain Dunning,Intermediate,Data Analysis & Statistics,English,English,199.0,13,10,15
+4,Marketing Analytics: Marketing Measurement Strategy,"81,140",Self-paced on your time,"University of California, Berkeley",Stephan Sorger,Introductory,Computer Science,English,English,249.0,4,5,7
+5,Introduction to Project Management,"301,793",Self-paced on your time,University of Adelaide,Frank Schultmann-Noel Lindsay-Anton Jordaan-John Sing,Introductory,Business & Management,English,English,199.0,6,2,3
+6,Leading High-Performing Teams,"32,847",Self-paced on your time,The University of Queensland,Tyler G. Okimoto,Intermediate,Communication,English,English,5.0,10,8,10
+7,The Foundations of Happiness at Work,"67,073",Self-paced on your time,"University of California, Berkeley",Dacher Keltner-Emiliana Simon-Thomas,Introductory,Business & Management,English,English,199.0,4,2,3
+8,"Managing Study, Stress and Mental Health at University","23,061",Self-paced on your time,Curtin University,Ben Milbourn-Craig Thompson-Sonya Girdler-Frank Zimmerman,Introductory,Health & Safety,English,English,49.0,2,1,3
+9,Six Sigma: Define and Measure,"92,411",Self-paced on your time,Technische Universität München,Martin Grunow-Holly Ott,Introductory,Business & Management,English,English,99.0,8,3,4
+10,Fat Chance: Probability from the Ground Up,"66,835",Self-paced on your time,Harvard University,Benedict Gross-Joseph Harris-Emily Riehl,Introductory,Math,English,English,49.0,7,3,5
+11,Chasing your Dream: How to End Procrastination and Get a Job You Love,"44,711",Self-paced on your time,National Research Nuclear University,Pavel Kochkin,Introductory,Communication,English,English,49.0,5,2,6
+12,Bitcoin and Cryptocurrencies,"83,398",Self-paced on your time,"University of California, Berkeley",Rustie Lin-Mengyi (Gloria) Wang,Introductory,Computer Science,English,English,99.0,6,3,5
+13,English Grammar and Style,,Instructor-led on a course schedule,The University of Queensland,Roslyn Petelin,Introductory,Humanities,English,English,99.0,8,3,4
+14,Ethics in Action,"6,366",Self-paced on your time,SDG Academy,Dr. William Vendley-Jeffrey D. Sachs,Intermediate,Ethics,English,"English, Español, Русский",49.0,10,2,4
+15,Introduction to FinTech,"72,767",Self-paced on your time,University of Hong Kong,Douglas Arner-Janos Barberis-Huy Nguyen Trieu-Ross Buckley,Introductory,Economics & Finance,English,"English, 中文, 中文",199.0,6,1,3
+16,Data Science: R Basics,"528,782",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,1,2
+17,Python Basics for Data Science,"228,809",Self-paced on your time,IBM,Joseph Santarcangelo,Introductory,Data Analysis & Statistics,English,English,39.0,5,2,5
+18,The Science of Beer,"39,085",Self-paced on your time,Wageningen University & Research,Sander Breevaart-Florence Scherer-Nico van der Veen-Esther Kunst,Introductory,Food & Nutrition,English,English,49.0,6,2,4
+19,Strategic Social Media Marketing,"103,640",Instructor-led on a course schedule,Boston University,Barbara Bickart,Advanced,Business & Management,English,English,399.0,6,4,6
+20,CS50's Introduction to Artificial Intelligence with Python,"258,006",Self-paced on your time,Harvard University,David J. Malan-Brian Yu,Introductory,Computer Science,English,English,199.0,7,10,30
+21,CS50's Introduction to Game Development,"346,748",Self-paced on your time,Harvard University,David J. Malan-Colton Ogden,Intermediate,Computer Science,English,English,149.0,12,6,9
+22,Rhetoric: The Art of Persuasive Writing and Public Speaking,"320,225",Self-paced on your time,Harvard University,James Engell,Introductory,Humanities,English,English,99.0,8,2,3
+23,CS50's Web Programming with Python and JavaScript,"698,950",Self-paced on your time,Harvard University,David J. Malan-Brian Yu,Intermediate,Computer Science,English,English,90.0,12,6,9
+24,Contract Law: From Trust to Promise to Contract,"414,181",Self-paced on your time,Harvard University,Charles Fried,Intermediate,Business & Management,English,English,125.0,8,3,6
+25,"Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron","380,167",Self-paced on your time,Harvard University,David Cox,Introductory,Biology & Life Sciences,English,English,99.0,5,3,5
+26,Justice,"392,588",Self-paced on your time,Harvard University,Michael J. Sandel,Introductory,Humanities,English,"Deutsch, English, Español, Português, 中文",99.0,12,3,6
+27,Data Science: Machine Learning,"276,209",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,2,4
+28,Child Protection: Children's Rights in Theory and Practice,"212,453",Self-paced on your time,Harvard University,Jacqueline Bhabha,Introductory,Social Sciences,English,English,99.0,16,2,6
+29,IELTS Academic Test Preparation,"1,103,777",Self-paced on your time,The University of Queensland,Iain Mathieson-Martin Dutton-Megan Yucel-Stephen Walker,Introductory,Communication,English,English,99.0,8,5,10
+30,The Architectural Imagination,"406,181",Self-paced on your time,Harvard University,Lisa Haber-Thomson-K. Michael Hays-Erika Naginski-Antoine Picon,Introductory,Architecture,English,English,99.0,10,3,5
+31,TOEFL® Test Preparation: The Insider’s Guide,"1,022,489",Self-paced on your time,Educational Testing Service,Michael Knab-Cynthia Newman-Shawn Gorman-Molly Palmer,Introductory,Communication,English,English,49.0,6,2,4
+32,Principles of Biochemistry,"257,600",Self-paced on your time,Harvard University,Alain Viel-Rachelle Gaudet,Intermediate,Medicine,English,English,199.0,15,4,6
+33,Using Python for Research,"262,183",Self-paced on your time,Harvard University,"Jukka-Pekka ""JP"" Onnela",Intermediate,Computer Science,English,English,99.0,12,2,4
+34,Hinduism Through Its Scriptures,"140,782",Self-paced on your time,Harvard University,Neelima Shukla-Bhatt-Jason Smith,Introductory,Humanities,English,English,99.0,4,5,10
+35,Basic Spanish 1: Getting Started,"400,169",Self-paced on your time,Universitat Politècnica de Valencia,Prof. Ana Gimeno-Virginia González-Cristina Navarro-Begoña García Migura,Introductory,Communication,English,"English, Español",40.0,7,4,5
+36,The Health Effects of Climate Change,"110,024",Self-paced on your time,Harvard University,Aaron Bernstein-Ashish Jha,Introductory,Environmental Studies,English,English,99.0,7,3,5
+37,Inglés básico: conversacional y networking,"79,671",Self-paced on your time,Universidades Anáhuac,Judith Margarete Towle Wachenheim-Isabel Rosado Richard-Jorge Ernesto Peniche Rosales-Andrea Josefina Sansores Ruz,Introductory,Business & Management,Español,"English, Español",49.0,4,5,8
+38,Statistics and R,"314,586",Self-paced on your time,Harvard University,Rafael Irizarry-Michael Love,Intermediate,Data Analysis & Statistics,English,English,249.0,4,2,4
+39,Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),"145,011",Self-paced on your time,Harvard University,Michael Brenner-David Weitz-Pia Sörensen,Introductory,Chemistry,English,English,199.0,16,2,3
+40,Pyramids of Giza: Ancient Egyptian Art and Archaeology,"123,870",Self-paced on your time,Harvard University,Peter Der Manuelian,Introductory,Art & Culture,English,English,99.0,8,2,4
+41,"PredictionX: Omens, Oracles & Prophecies","91,566",Self-paced on your time,Harvard University,Alyssa Goodman,Introductory,Social Sciences,English,English,25.0,1,3,5
+42,Excel: Fundamentos y herramientas,"284,279",Self-paced on your time,Universitat Politècnica de Valencia,Jaime Busquets Mataix-Víctor Braquehais Acero,Introductory,Computer Science,Español,Español,50.0,8,3,4
+43,Lessons from Ebola: Preventing the Next Pandemic,"91,983",Self-paced on your time,Harvard University,Ashish Jha,Introductory,Social Sciences,English,English,49.0,4,3,5
+44,Improving Global Health: Focusing on Quality and Safety,"127,353",Self-paced on your time,Harvard University,Ashish Jha,Intermediate,Social Sciences,English,English,99.0,10,2,4
+45,CS50 for Lawyers,"87,336",Self-paced on your time,Harvard University,Doug Lloyd-David J. Malan,Introductory,Computer Science,English,English,99.0,10,3,6
+46,Data Science: Visualization,"171,258",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,1,2
+47,Christianity Through Its Scriptures,"125,051",Self-paced on your time,Harvard University,Karen L. King-Sarah Griffis,Introductory,Humanities,English,English,99.0,4,5,10
+48,The Science of Happiness,"475,614",Self-paced on your time,"University of California, Berkeley",Dacher Keltner-Emiliana Simon-Thomas,Introductory,Social Sciences,English,English,169.0,11,4,5
+49,Leaders of Learning,"231,131",Self-paced on your time,Harvard University,Richard Elmore,Introductory,Communication,English,"English, Español",99.0,10,2,4
+50,Exercising Leadership: Foundational Principles,"57,814",Self-paced on your time,Harvard University,Ronald Heifetz,Introductory,Business & Management,English,English,99.0,4,2,3
+51,Data Science: Probability,"135,859",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,1,2
+52,Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,"117,410",Self-paced on your time,Harvard University,Kathryn Parker Boudett,Intermediate,Education & Teacher Training,English,"English, Español",70.0,10,1,2
+53,"Prescription Drug Regulation, Cost, and Access: Current Controversies in Context","80,082",Self-paced on your time,Harvard University,Aaron Kesselheim-Jonathan Darrow-Ameet Sarpatwari-Jerry Avorn,Introductory,Medicine,English,English,99.0,8,2,5
+54,Introduction to Family Engagement in Education,"105,146",Self-paced on your time,Harvard University,Karen L. Mapp,Introductory,Education & Teacher Training,English,English,70.0,6,2,4
+55,Italian Language and Culture: Beginner (2019-2020),"182,462",Self-paced on your time,Wellesley College,Daniela Bartalesi-Graf,Introductory,Language,Italiano,Italiano,49.0,12,2,5
+56,Steps in Japanese for Beginners1 Part1,"53,630",Self-paced on your time,Waseda University,Naoko Kinoshita,Introductory,Language,English,"English, 日本語",49.0,5,3,5
+57,How to Write an Essay,"306,787",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Introductory,Humanities,English,English,49.0,5,5,6
+58,Energy Within Environmental Constraints,"95,324",Self-paced on your time,Harvard University,David Keith-Daniel Thorpe,Introductory,Environmental Studies,English,English,99.0,10,3,5
+59,Introduction to Probability,"97,291",Self-paced on your time,Harvard University,Joseph Blitzstein,Intermediate,Data Analysis & Statistics,English,English,99.0,10,5,10
+60,AnatomyX: Musculoskeletal Cases,"102,075",Self-paced on your time,Harvard University,"Trudy Van Houten-Michael Parker-Alexander Bick, M.D., Ph.D.",Intermediate,Medicine,English,English,99.0,7,3,6
+61,Data Science: Inference and Modeling,"88,256",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,1,2
+62,Strengthening Community Health Worker Programs,"58,626",Self-paced on your time,Harvard University,Rajesh Ramesh Panjabi,Introductory,Health & Safety,English,English,79.0,6,2,4
+63,Buddhism Through Its Scriptures,"182,295",Self-paced on your time,Harvard University,Charles Hallisey-Alexis Bader,Introductory,Humanities,English,English,99.0,4,5,10
+64,Introduction to Linux,"642,088",Self-paced on your time,The Linux Foundation,Jerry Cooperstein,Introductory,Computer Science,English,English,199.0,14,5,7
+65,"Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics","81,221",Self-paced on your time,Harvard University,I. Glenn Cohen,Introductory,Medicine,English,English,99.0,10,1,2
+66,Shakespeare's Life and Work,"48,938",Self-paced on your time,Harvard University,Stephen Greenblatt,Introductory,Humanities,English,English,49.0,4,5,7
+67,Marketing Digital: Content & Community Manager,"112,623",Self-paced on your time,Universidad Galileo,Jojo Giuffra-Miguel Morales-Rocael Hernández,Introductory,Communication,Español,Español,49.0,5,3,4
+68,Accounting and Finance,"88,243",Self-paced on your time,Indian Institute of Management Bangalore,MS Narasimhan,Intermediate,Business & Management,English,"English, हिन्दी",150.0,11,2,4
+69,Computing in Python I: Fundamentals and Procedural Programming,"141,966",Self-paced on your time,The Georgia Institute of Technology,David Joyner,Introductory,Computer Science,English,English,99.0,5,9,10
+70,"Nutrition, Exercise and Sports","51,679",Self-paced on your time,Wageningen University & Research,Dr. Marco Mensink-Rieneke Terink MSc-Pol Grootswagers MSc,Intermediate,Food & Nutrition,English,English,49.0,6,4,8
+71,Becoming an Entrepreneur,"104,760",Self-paced on your time,Massachusetts Institute of Technology,Martin Culpepper-Laurie Stach,Introductory,Business & Management,English,English,69.0,6,1,3
+72,"Religion, Conflict and Peace","74,060",Self-paced on your time,Harvard University,Diane L. Moore,Introductory,Humanities,English,English,49.0,8,4,8
+73,"Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You","61,139",Self-paced on your time,Harvard University,Sarah Carter-Ivan Gaskell-Sara Schechner-Laurel Thatcher Ulrich,Introductory,Humanities,English,English,49.0,10,1,3
+74,Academic and Business Writing,"322,701",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Introductory,Communication,English,English,49.0,6,3,5
+75,Data Science: Capstone,"62,803",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,99.0,2,15,20
+76,Basics of Computing and Programming,"37,045",Self-paced on your time,New York University,Itay Tal-Aspen Olmsted,Introductory,Computer Science,English,English,200.0,9,6,8
+77,"Fundamentals of Neuroscience, Part 2: Neurons and Networks","84,874",Self-paced on your time,Harvard University,David Cox,Introductory,Biology & Life Sciences,English,English,99.0,6,3,5
+78,Successful Negotiation: Essential Strategies and Skills,"31,369",Self-paced on your time,The University of Michigan,George Siedel,Introductory,Business & Management,English,English,49.0,7,2,4
+79,Data Science: Linear Regression,"75,310",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,1,2
+80,HTML5 and CSS Fundamentals,"335,895",Self-paced on your time,The World Wide Web Consortium (W3C),Marwa Hussein-Andrew Byrne-Adrian Leven-Gerry O'Brien,Introductory,Computer Science,English,English,199.0,6,4,6
+81,Data Science: Productivity Tools,"66,683",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,1,2
+82,Introduction to Corporate Finance,"98,093",Self-paced on your time,Columbia University,Daniel Wolfenzon,Introductory,Business & Management,English,English,225.0,4,3,4
+83,Computer Science 101,"39,540",Self-paced on your time,Stanford University,Nick Parlante,Introductory,Computer Science,English,English,149.0,6,4,6
+84,Data Science: Wrangling,"64,584",Self-paced on your time,Harvard University,Rafael Irizarry,Introductory,Data Analysis & Statistics,English,English,49.0,8,1,2
+85,A Hands-on Introduction to Engineering Simulations,"187,138",Self-paced on your time,Cornell University,Rajesh Bhaskaran,Intermediate,Engineering,English,English,199.0,6,4,6
+86,AI for Everyone: Master the Basics,"49,340",Self-paced on your time,IBM,Rav Ahuja,Introductory,Computer Science,English,English,49.0,4,1,2
+87,The Psychology of Criminal Justice,"110,086",Self-paced on your time,The University of Queensland,Blake McKimmie-Mark Horswill-Barbara Masser,Introductory,Humanities,English,English,99.0,8,1,2
+88,Machine Learning with Python: A Practical Introduction,"80,161",Self-paced on your time,IBM,Saeed Aghabozorgi,Introductory,Data Analysis & Statistics,English,English,39.0,5,4,6
+89,Analyzing Data with Python,"94,079",Self-paced on your time,IBM,Joseph Santarcangelo,Introductory,Data Analysis & Statistics,English,English,39.0,5,2,4
+90,Excel: gestión de datos,"111,785",Self-paced on your time,Universitat Politècnica de Valencia,Jaime Busquets Mataix-Víctor Braquehais Acero,Intermediate,Computer Science,Español,Español,75.0,6,4,6
+91,Probability - The Science of Uncertainty and Data,"205,615",Instructor-led on a course schedule,Massachusetts Institute of Technology,John Tsitsiklis-Dimitri Bertsekas-Patrick Jaillet-Karene Chu,Advanced,Data Analysis & Statistics,English,English,300.0,16,10,14
+92,"Fundamentals of Neuroscience, Part 3: The Brain","85,034",Self-paced on your time,Harvard University,David Cox,Introductory,Biology & Life Sciences,English,English,99.0,8,3,5
+93,Sikhism Through Its Scriptures,"44,125",Self-paced on your time,Harvard University,Harpreet Singh-Ravinder Singh-Damanpreet Singh,Introductory,Humanities,English,English,99.0,4,5,10
+94,Upper-Intermediate English: Business and Modern Life,"77,991",Self-paced on your time,Universitat Politècnica de Valencia,Prof. Ana Gimeno,Intermediate,Language,English,English,50.0,4,3,5
+95,Introduction to Probability,"97,291",Self-paced on your time,Harvard University,Joseph Blitzstein,Intermediate,Data Analysis & Statistics,English,English,99.0,10,5,10
+96,Religious Literacy: Traditions and Scriptures,"96,972",Self-paced on your time,Harvard University,Diane L. Moore-Anna Mudd,Introductory,Humanities,English,English,99.0,4,5,10
+97,Programación para todos (empezando con Python),"81,004",Self-paced on your time,The University of Michigan,Charles Severance,Introductory,Computer Science,Español,Español,49.0,7,2,4
+98,Analyzing and Visualizing Data with Power BI,"28,879",Self-paced on your time,Davidson College,Pete Benbow,Introductory,Data Analysis & Statistics,English,English,99.0,4,10,20
+99,High-Dimensional Data Analysis,"78,443",Self-paced on your time,Harvard University,Rafael Irizarry-Michael Love,Advanced,Data Analysis & Statistics,English,English,149.0,4,2,4
+100,Introduction To Music Theory,"67,029",Self-paced on your time,Berklee College of Music,George Russell,Introductory,Humanities,English,English,49.0,6,3,5
+101,Human Anatomy,"126,850",Self-paced on your time,The Hong Kong Polytechnic University,John Yuen-Benson Lau-Allen Cheong-Richard Li,Introductory,Medicine,English,English,139.0,8,2,4
+102,"CitiesX: The Past, Present and Future of Urban Life","76,874",Self-paced on your time,Harvard University,Edward Glaeser,Introductory,Social Sciences,English,"English, Português",99.0,11,5,7
+103,The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life,"24,208",Self-paced on your time,Harvard University,Michael Puett,Introductory,Philosophy & Ethics,English,English,99.0,13,1,2
+104,Entrepreneurship 101: Who is your customer?,"41,838",Self-paced on your time,Massachusetts Institute of Technology,Bill Aulet-Erdin Beshimov,Introductory,Business & Management,English,English,49.0,10,2,4
+105,"U.S. Public Policy: Social, Economic, and Foreign Policies","44,045",Self-paced on your time,Harvard University,Thomas E. Patterson,Introductory,Social Sciences,English,English,49.0,4,2,4
+106,Machine Learning with Python: from Linear Models to Deep Learning,"85,561",Instructor-led on a course schedule,Massachusetts Institute of Technology,Regina Barzilay-Tommi Jaakkola-Karene Chu,Advanced,Computer Science,English,English,300.0,15,10,14
+107,Introduction to Data Science,"43,766",Self-paced on your time,IBM,Alex Aklson,Introductory,Data Analysis & Statistics,English,English,39.0,6,3,6
+108,Circuits and Electronics 1: Basic Circuit Analysis,"52,639",Self-paced on your time,Massachusetts Institute of Technology,Anant Agarwal-Gerald Sussman-Piotr Mitros-Chris Terman,Introductory,Electronics,English,"English, 中文",169.0,5,5,7
+109,Introduction to Investments,"91,788",Self-paced on your time,Indian Institute of Management Bangalore,S.G. Badrinath,Intermediate,Business & Management,English,English,50.0,5,3,5
+110,Improving Your Business Through a Culture of Health,"54,136",Self-paced on your time,Harvard University,John McDonough-Howard Koh-Amy Edmondson-Jose Alvarez,Introductory,Business & Management,English,English,99.0,9,1,3
+111,Introduction to Linear Models and Matrix Algebra,"92,004",Self-paced on your time,Harvard University,Rafael Irizarry-Michael Love,Intermediate,Math,English,English,149.0,4,2,4
+112,DO Your Venture: Entrepreneurship For Everyone,"61,989",Self-paced on your time,Indian Institute of Management Bangalore,Suresh Bhagavatula,Introductory,Business & Management,English,"English, हिन्दी",150.0,6,3,4
+113,El valor de la creatividad y la innovación: La Economía Naranja,"23,728",Self-paced on your time,Inter-American Development Bank,Marina Casciano-Micaela Cordero-Helga Flores Trejo-Matteo Grazzi,Introductory,Art & Culture,Español,Español,25.0,8,2,4
+114,Humanitarian Response to Conflict and Disaster,"119,891",Self-paced on your time,Harvard University,Jennifer Leaning-Michael VanRooyen,Introductory,Health & Safety,English,English,99.0,5,3,4
+115,"Women Making History: Ten Objects, Many Stories","38,939",Self-paced on your time,Harvard University,Laurel Thatcher Ulrich-Jane Kamensky,Introductory,History,English,English,99.0,8,2,3
+116,Masterpieces of World Literature,"88,789",Self-paced on your time,Harvard University,David Damrosch-Martin Puchner,Introductory,Literature,English,English,149.0,12,5,7
+117,SQL for Data Science,"39,184",Self-paced on your time,IBM,Rav Ahuja,Introductory,Data Analysis & Statistics,English,English,39.0,4,2,4
+118,El cerebro y las emociones en el lenguaje,"41,279",Self-paced on your time,Universidad del Rosario,Ángela Martínez Rodríguez-Janeth Hernández Jaramillo,Introductory,Communication,Español,Español,49.0,5,4,5
+119,Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),"62,673",Self-paced on your time,Harvard University,Michael Brenner-David Weitz-Pia Sörensen,Introductory,Physics,English,English,169.0,16,2,3
+120,Python: aprender a programar,"21,613",Self-paced on your time,Universitat Politècnica de Valencia,Leonardo Salom Muñoz,Introductory,Computer Science,Español,Español,49.0,8,3,4
+121,Marketing Analytics: Competitive Analysis and Market Segmentation,"70,682",Self-paced on your time,"University of California, Berkeley",Stephan Sorger,Intermediate,Computer Science,English,English,249.0,4,5,7
+122,MalariaX: Defeating Malaria from the Genes to the Globe,"37,598",Self-paced on your time,Harvard University,Marcia Castro-Flaminia Catteruccia-Michael R. Reich-Marcel Tanner,Intermediate,Biology & Life Sciences,English,"English, Français",49.0,8,3,5
+123,Entrepreneurship in Emerging Economies,"113,602",Self-paced on your time,Harvard University,Tarun Khanna,Introductory,Business & Management,English,English,125.0,6,3,5
+124,JavaScript Introduction,"160,112",Self-paced on your time,The World Wide Web Consortium (W3C),Michel Buffa,Introductory,Computer Science,English,English,199.0,5,6,8
+125,People Management,"113,592",Self-paced on your time,Indian Institute of Management Bangalore,Vasanthi Srinivasan,Introductory,Business & Management,English,"English, हिन्दी",150.0,6,2,4
+126,Using Email for Networking in English,"57,208",Self-paced on your time,University of Washington,Daphne Mackey-Richard Moore,Introductory,Language,English,English,149.0,4,3,5
+127,Databases: Relational Databases and SQL,"20,502",Self-paced on your time,Stanford University,Jennifer Widom,Introductory,Computer Science,English,English,50.0,2,8,10
+128,C Programming: Getting Started,"104,108",Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Petra Bonfert-Taylor-Rémi Sharrock,Introductory,Computer Science,English,English,49.0,7,2,4
+129,Supply Chain Analytics,"145,049",Instructor-led on a course schedule,Massachusetts Institute of Technology,Chris Caplice,Introductory,Business & Management,English,English,199.0,15,8,12
+130,Programming for the Web with JavaScript,"91,406",Self-paced on your time,University of Pennsylvania,Chris Murphy-Swapneel Sheth,Intermediate,Computer Science,English,English,149.0,4,6,8
+131,Introduction to Digital Humanities,"37,501",Self-paced on your time,Harvard University,Peter K. Bol,Introductory,Humanities,English,English,99.0,7,2,4
+132,Upper-Intermediate English: Business and Industry,"103,704",Self-paced on your time,Universitat Politècnica de Valencia,Prof. Ana Gimeno,Intermediate,Language,English,English,50.0,4,3,5
+133,EmSAT English Preparation - Level 1,"29,101",Self-paced on your time,United Arab Emirates University,Derek Justin Brown,Introductory,Language,English,English,49.0,6,2,3
+134,Python for Data Science,"266,978",Self-paced on your time,"The University of California, San Diego",Ilkay Altintas-Leo Porter,Advanced,Data Analysis & Statistics,English,English,350.0,10,8,10
+135,Empathy and Emotional Intelligence at Work,"45,867",Self-paced on your time,"University of California, Berkeley",Dacher Keltner-Emiliana Simon-Thomas,Introductory,Business & Management,English,English,199.0,4,1,2
+136,Design Thinking and Creativity for Innovation,"47,549",Self-paced on your time,The University of Queensland,Tim Kastelle,Intermediate,Business & Management,English,English,5.0,10,8,10
+137,China and Communism,"69,104",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby,Introductory,History,English,"English, 中文",139.0,15,1,3
+138,Mandarin Chinese Level 1,"56,040",Self-paced on your time,MandarinX,Estella Chen,Introductory,Language,English,English,149.0,6,4,10
+139,Introduction to Biology - The Secret of Life,"147,512",Instructor-led on a course schedule,Massachusetts Institute of Technology,Eric S. Lander-Michelle Mischke-Graham Walker-Brian White,Introductory,Biology & Life Sciences,English,"English, 中文",150.0,16,5,10
+140,Photoshop: una herramienta para presentaciones innovadoras,"22,969",Self-paced on your time,Pontificia Universidad Javeriana,Juan Carlos Alonso Rico,Introductory,Art & Culture,Español,Español,19.0,5,8,10
+141,Causal Diagrams: Draw Your Assumptions Before Your Conclusions,"50,949",Self-paced on your time,Harvard University,Miguel Hernán,Introductory,Data Analysis & Statistics,English,English,99.0,9,2,3
+142,生活英语听说 | Conversational English Skills,"301,585",Self-paced on your time,Tsinghua University,Wenxia Zhang-Fang Yang-Glenn M. Davis-Thomas H. Piachaud,Introductory,Communication,English,English,49.0,10,2,4
+143,Shakespeare’s Othello: The Moor,"31,868",Self-paced on your time,Harvard University,Stephen Greenblatt-Bailey Sincox,Introductory,Humanities,English,English,49.0,4,5,7
+144,Basic Spanish 2: One Step Further,"67,687",Self-paced on your time,Universitat Politècnica de Valencia,Prof. Ana Gimeno-Virginia González-Cristina Navarro-Begoña García Migura,Introductory,Language,English,"English, Español",50.0,4,4,5
+145,Financial Market Analysis,"37,452",Self-paced on your time,The International Monetary Fund,Adolfo Barajas-Evan Tanner-Seung Mo Choi-Fabio Comelli,Intermediate,Economics & Finance,English,English,25.0,7,8,10
+146,CS50's Computer Science for Business Professionals,"73,208",Self-paced on your time,Harvard University,David J. Malan,Introductory,Computer Science,English,English,90.0,6,2,6
+147,Gobierno Digital,"18,883",Self-paced on your time,Inter-American Development Bank,Lea Giménez-Miguel Porrúa-Benjamin Roseth-Alejandro Pareja,Introductory,Social Sciences,Español,Español,25.0,8,1,2
+148,Upper-Intermediate English: Business and Globalization,"58,532",Self-paced on your time,Universitat Politècnica de Valencia,Prof. Ana Gimeno,Intermediate,Language,English,English,50.0,4,3,5
+149,The Opioid Crisis in America,"54,805",Self-paced on your time,Harvard University,"Gregory Curfman, MD-Catherine Finn, MSW, LCSW",Introductory,Medicine,English,English,99.0,10,1,2
+150,Gestión de Proyectos de Desarrollo,"306,286",Self-paced on your time,Inter-American Development Bank,Ernesto Mondelo-Claudia Baca,Introductory,Business & Management,Español,Español,49.0,10,3,4
+151,Statistical Learning,"27,968",Self-paced on your time,Stanford University,Trevor Hastie-Robert Tibshirani,Introductory,Data Analysis & Statistics,English,English,50.0,9,3,5
+152,Introduction to Social Psychology,"79,365",Self-paced on your time,The University of Queensland,Blake McKimmie-Roy Baumeister,Introductory,Humanities,English,English,99.0,7,1,2
+153,Artificial Intelligence (AI),"265,104",Instructor-led on a course schedule,Columbia University,Ansaf Salleb-Aouissi,Advanced,Computer Science,English,English,249.0,12,8,10
+154,American Government: Constitutional Foundations,"35,504",Self-paced on your time,Harvard University,Thomas E. Patterson,Introductory,Social Sciences,English,English,49.0,4,2,4
+155,Introducción a la inversión bursátil,"64,261",Self-paced on your time,Universitat Politècnica de Valencia,Francisco Guijarro Martínez-Fernando García García-Javier Oliver Muncharaz,Introductory,Economics & Finance,Español,Español,50.0,2,3,4
+156,Japanese Books: From Manuscript to Print,"17,581",Self-paced on your time,Harvard University,Melissa McCormick,Introductory,Art & Culture,English,English,100.0,9,1,2
+157,Foundations of Modern Finance  I,"24,108",Instructor-led on a course schedule,Massachusetts Institute of Technology,Leonid Kogan-Jiang Wang-Egor Matveyev,Advanced,Economics & Finance,English,English,450.0,12,10,14
+158,Operations Management,"126,093",Self-paced on your time,Indian Institute of Management Bangalore,B. Mahadevan,Intermediate,Business & Management,English,"English, हिन्दी",150.0,7,2,4
+159,Marketing Management,"80,010",Self-paced on your time,Indian Institute of Management Bangalore,Ashis Mishra,Intermediate,Business & Management,English,"English, हिन्दी",150.0,9,2,4
+160,Marketing enfocado en la estrategia de servicios,"24,618",Self-paced on your time,Universidad Nacional de Córdoba,Gerardo Heckmann,Introductory,Business & Management,Español,"English, Español",119.0,6,5,7
+161,Introduction to Marketing,"169,126",Self-paced on your time,University of British Columbia,Darren Dahl-Paul Cubbon,Introductory,Business & Management,English,English,150.0,6,3,5
+162,Programming Basics,"215,059",Self-paced on your time,IITBombay,Deepak B. Phatak-Supratik Chakraborty-Nagesh Karmali-Firuza Karmali (Aibara),Introductory,Computer Science,English,English,149.0,9,6,8
+163,Probability and Statistics in Data Science using Python,"106,286",Self-paced on your time,"The University of California, San Diego",Alon Orlitsky-Yoav Freund,Advanced,Data Analysis & Statistics,English,English,350.0,10,10,12
+164,HTML5 Coding Essentials and Best Practices,"241,287",Self-paced on your time,The World Wide Web Consortium (W3C),Michel Buffa,Intermediate,Computer Science,English,English,199.0,6,6,8
+165,First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra,"37,426",Self-paced on your time,Harvard University,Thomas Forrest Kelly,Introductory,Humanities,English,English,49.0,3,3,5
+166,Cell Biology: Mitochondria,"64,142",Self-paced on your time,Harvard University,Robert A. Lue,Introductory,Biology & Life Sciences,English,English,99.0,4,2,4
+167,"Algorithms: Design and Analysis, Part 1","20,163",Self-paced on your time,Stanford University,Tim Roughgarden,Intermediate,Computer Science,English,English,149.0,6,2,4
+168,Introducción al Office 365,"16,470",Self-paced on your time,Universitat Politècnica de Valencia,Jaime Busquets Mataix-Roberto Vivó-Ignacio Despujol Zabala,Introductory,Computer Science,Español,Español,75.0,7,2,3
+169,Creative Thinking: Techniques and Tools for Success,"54,787",Self-paced on your time,Imperial College London,Peter Childs,Introductory,Humanities,English,English,49.0,7,2,4
+170,Upper-Intermediate English: Business and Technology,"47,451",Self-paced on your time,Universitat Politècnica de Valencia,Prof. Ana Gimeno,Intermediate,Language,English,English,50.0,4,3,5
+171,Shakespeare's Hamlet: The Ghost,"38,331",Self-paced on your time,Harvard University,Stephen Greenblatt,Introductory,Humanities,English,English,49.0,4,5,7
+172,FlashDiet: Aprende a comer sano,"48,105",Self-paced on your time,Universitat Politècnica de Valencia,Purificación García Segovia-Mª Jesús Pagán Moreno-Cruz Martínez Rosillo-José Miguel Soriano del Castillo,Introductory,Food & Nutrition,Español,Español,50.0,5,2,3
+173,CS50's Understanding Technology,"50,030",Self-paced on your time,Harvard University,David J. Malan,Introductory,Computer Science,English,English,90.0,6,2,6
+174,Introduction to Aerospace Structures and Materials,"37,126",Self-paced on your time,Delft University of Technology,Jos Sinke-Calvin Rans-Gillian Saunders-Smits-René Alderliesten,Introductory,Engineering,English,English,50.0,8,4,6
+175,Visualizing Data with Python,"42,101",Self-paced on your time,IBM,Alex Aklson,Intermediate,Data Analysis & Statistics,English,English,39.0,5,2,4
+176,Success: Practical Thinking Skills,"24,414",Self-paced on your time,The Hong Kong Polytechnic University,Jack Chun,Introductory,Philosophy & Ethics,English,English,50.0,4,4,6
+177,English for Doing Business in Asia – Speaking,"68,422",Self-paced on your time,The Hong Kong University of Science and Technology,Sean McMinn-Delian Gaskell,Introductory,Humanities,English,English,60.0,7,3,4
+178,Nutrition and Health: Macronutrients and Overnutrition,"208,582",Self-paced on your time,Wageningen University & Research,Sander Kersten,Introductory,Biology & Life Sciences,English,English,99.0,9,6,8
+179,"Contemporary China: The People's Republic, Taiwan, and Hong Kong","66,771",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby,Introductory,History,English,"English, 中文",139.0,15,1,3
+180,Introduction to Clinical Psychology,"57,234",Self-paced on your time,The University of Queensland,Blake McKimmie-Nancy Pachana-Vanessa Cobham,Introductory,Humanities,English,English,99.0,7,1,2
+181,Modern Masterpieces of World Literature,"48,049",Self-paced on your time,Harvard University,David Damrosch-Martin Puchner,Introductory,Literature,English,English,99.0,8,3,6
+182,"Citizen Politics in America: Public Opinion, Elections, Interest Groups, and the Media","24,259",Self-paced on your time,Harvard University,Thomas E. Patterson,Introductory,Social Sciences,English,English,49.0,4,2,4
+183,Applied Scrum for Agile Project Management,"55,293",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",John Johnson,Advanced,Engineering,English,English,199.0,4,2,3
+184,Corporate Finance,"62,798",Self-paced on your time,Indian Institute of Management Bangalore,Ashok Thampy,Intermediate,Business & Management,English,"English, हिन्दी",150.0,5,3,5
+185,Judaism Through Its Scriptures,"50,540",Self-paced on your time,Harvard University,Shaye Cohen-Matthew Hass,Introductory,Humanities,English,English,99.0,4,5,10
+186,Excel avanzado: importación y análisis de datos,"47,184",Self-paced on your time,Universitat Politècnica de Valencia,Ignacio Despujol Zabala-Jaime Busquets Mataix,Advanced,Data Analysis & Statistics,Español,Español,75.0,8,3,4
+187,CSS Basics,"95,163",Self-paced on your time,The World Wide Web Consortium (W3C),Kasey Champion,Introductory,Computer Science,English,English,199.0,5,5,7
+188,Unlocking Information Security: Part I,"19,905",Self-paced on your time,IsraelX-Tel Aviv University,Avishai Wool-Dan Gittik,Intermediate,Computer Science,English,"اللغة العربية, English, עברית",149.0,6,4,6
+189,Becoming an Effective Leader,"55,937",Self-paced on your time,The University of Queensland,Terrance Fitzsimmons,Intermediate,Communication,English,English,99.0,10,8,10
+190,Digital Branding and Engagement,"122,977",Self-paced on your time,Curtin University,Sonia Dickinson,Intermediate,Communication,English,English,99.0,4,3,4
+191,Introduction to Cybersecurity,"73,021",Self-paced on your time,University of Washington,Barbara Endicott-Popovsky,Introductory,Computer Science,English,English,199.0,6,2,5
+192,General Academic English|生活英语进阶,"17,526",Self-paced on your time,Tsinghua University,Fang Yang,Introductory,Language,English,English,49.0,8,3,4
+193,Gestión de personas: Recursos Humanos,"19,687",Self-paced on your time,Universidad Nacional de Córdoba,Claudia Martínez,Introductory,Business & Management,Español,"English, Español",119.0,5,5,7
+194,From Poverty to Prosperity: Understanding Economic Development,"91,062",Self-paced on your time,University of Oxford,Paul Collier,Intermediate,Social Sciences,English,English,149.0,6,2,3
+195,Medical Terminology,"31,354",Self-paced on your time,Doane University,"Amanda McKinney, MD, FACLM",Introductory,Biology & Life Sciences,English,English,79.0,8,5,10
+196,Ancient Masterpieces of World Literature,"48,899",Self-paced on your time,Harvard University,David Damrosch-Martin Puchner,Introductory,Literature,English,English,99.0,6,3,6
+197,Shakespeare's The Merchant of Venice: Shylock,"23,283",Self-paced on your time,Harvard University,Stephen Greenblatt,Introductory,Humanities,English,English,49.0,4,5,7
+198,Gestión del estrés y Mindfulness,"15,965",Self-paced on your time,Universidades Anáhuac,Psic. José Jesús Karam Espósitos,Introductory,Health & Safety,Español,Español,49.0,4,4,5
+199,Behavioural Economics in Action,"66,764",Self-paced on your time,University of Toronto,Dilip Soman,Introductory,Business & Management,English,English,139.0,6,4,5
+200,Finance for Everyone: Smart Tools for Decision-Making,"45,029",Self-paced on your time,The University of Michigan,Gautam Kaul,Introductory,Business & Management,English,English,49.0,6,5,6
+201,Creating Innovative Business Models,"12,227",Self-paced on your time,"University System of Maryland-The University of Maryland, College Park",James Green,Introductory,Business & Management,English,English,149.0,4,2,3
+202,u.lab: Leading From the Emerging Future,"79,424",Self-paced on your time,Massachusetts Institute of Technology,Otto Scharmer-Dayna Cunningham-Kelvy Bird-Arawana Hayashi,Introductory,Business & Management,English,"English, Español, Français, עברית, Indonesian, Italiano, 日本語, Português, Türkçe",99.0,14,4,6
+203,Electric Cars: Introduction,"56,171",Self-paced on your time,Delft University of Technology,Pavol Bauer-Margot Weijnen-Frank Rieck,Intermediate,Engineering,English,English,50.0,4,4,5
+204,Inteligencia Artificial para todos: Domina los fundamentos,"11,764",Self-paced on your time,IBM,Rav Ahuja,Introductory,Computer Science,Español,Español,49.0,4,1,2
+205,Marketing Analytics,"55,228",Instructor-led on a course schedule,Columbia University,Kamel Jedidi-Asim Ansari,Advanced,Business & Management,English,English,249.0,12,8,10
+206,Introducción a la Regulación Emocional basada en Mindfulness,"20,634",Self-paced on your time,Universidad Autónoma de Madrid,Beatriz Rodríguez Vega-Carmen Bayón Pérez-Ángela Palao Tarrero-Ainoa Muñoz San José,Introductory,Health & Safety,Español,Español,49.0,4,5,6
+207,Design Thinking Fundamentals,"56,446",Self-paced on your time,Rochester Institute of Technology,Lorraine Justice-Dan Harel,Intermediate,Business & Management,English,English,299.0,6,8,12
+208,Basic Spanish 3: Getting there,"17,569",Self-paced on your time,Universitat Politècnica de Valencia,Prof. Ana Gimeno-Cristina Navarro,Introductory,Language,English,"English, Español",50.0,4,3,4
+209,Mi propia huerta orgánica,"11,346",Self-paced on your time,Universidad Nacional de Córdoba,Patricia Gil-Paola Campitelli-Laura Vargas-Leandro Carbelo,Introductory,Biology & Life Sciences,Español,Español,29.0,4,1,2
+210,Sustainability in Architecture: An Interdisciplinary Introduction,"31,352",Self-paced on your time,Universitat Politècnica de Valencia,María Valles-Planells-Elena de la Poza-Plaza-Naoko Ellis-Kas Hemmes,Intermediate,Architecture,English,English,50.0,4,3,4
+211,Gestión de riesgos en proyectos de desarrollo,"47,676",Self-paced on your time,Inter-American Development Bank,Vanessa Sayos-Santiago Fretes-Allan Quijano,Intermediate,Business & Management,Español,Español,25.0,10,2,3
+212,Python Data Structures,"36,369",Self-paced on your time,The University of Michigan,Charles Severance,Introductory,Computer Science,English,English,49.0,7,2,4
+213,The Science and Business of Biotechnology,"17,039",Self-paced on your time,Massachusetts Institute of Technology,Andrew W. Lo-Harvey F. Lodish-Zied Ben Chaouch,Intermediate,Business & Management,English,English,49.0,16,10,12
+214,Finance Essentials,"63,666",Self-paced on your time,Imperial College Business School-Imperial College London,Robert Kosowski,Introductory,Business & Management,English,English,79.0,6,2,4
+215,Introduction to the Internet of Things (IoT),"89,421",Self-paced on your time,Curtin University,Iain Murray AM-Joshua Gilchrist,Introductory,Computer Science,English,English,149.0,6,2,3
+216,'Talk to me': Improving mental health and suicide prevention in young adults,"11,481",Self-paced on your time,Curtin University,Ben Milbourn-Craig Thompson-Viktor Kacic-Sonya Girdler,Introductory,Health & Safety,English,English,139.0,6,2,3
+217,Disaster Medicine Training,"10,937",Self-paced on your time,Stanford University,Jessica Ngo,Introductory,Medicine,English,English,50.0,8,1,2
+218,Nutrition and Health: Human Microbiome,"44,079",Self-paced on your time,Wageningen University & Research,Clara Belzer,Introductory,Health & Safety,English,English,49.0,6,3,5
+219,Customer Relationship Management,"53,085",Self-paced on your time,Indian Institute of Management Bangalore,Shainesh G,Intermediate,Business & Management,English,"English, हिन्दी",50.0,6,3,5
+220,Islam Through Its Scriptures,"65,430",Self-paced on your time,Harvard University,Ali Asani,Introductory,Humanities,English,English,99.0,4,5,10
+221,Mechatronics Revolution: Fundamentals and Core Concepts,"11,619",Self-paced on your time,The Georgia Institute of Technology,Jonathan Rogers,Introductory,Engineering,English,English,149.0,16,6,8
+222,Accounting for Decision-Making,"57,710",Self-paced on your time,Indian Institute of Management Bangalore,MS Narasimhan,Intermediate,Business & Management,English,"English, हिन्दी",150.0,7,3,5
+223,C Programming: Language Foundations,"46,400",Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Petra Bonfert-Taylor-Rémi Sharrock,Introductory,Computer Science,English,English,49.0,7,2,4
+224,Big Data sin misterios,"65,564",Self-paced on your time,Inter-American Development Bank,Paula Alamán Herbera-Almudena Bonet Medina-Antonio Pita Lozano-Joaquín Melgarejo Ricca,Intermediate,Data Analysis & Statistics,Español,Español,25.0,10,4,5
+225,Becoming a Successful Leader (Inclusive Leadership Training),"215,705",Self-paced on your time,Catalyst,Deepali Bagati-​Krista Brookman-Emily Troiano,Introductory,Communication,English,English,49.0,4,1,2
+226,"English for Journalists, Part 1","50,847",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Intermediate,Communication,English,English,139.0,5,3,4
+227,Introduction to Networking,"16,134",Self-paced on your time,New York University,Rafail Portnoy-Aspen Olmsted,Introductory,Computer Science,English,English,150.0,7,3,5
+228,Accounting Essentials,"58,463",Self-paced on your time,Imperial College Business School-Imperial College London,Jeremy Fernando,Introductory,Business & Management,English,English,79.0,6,3,5
+229,Introduction to Java Programming: Starting to code in Java,"325,554",Self-paced on your time,Universidad Carlos III de Madrid,Carlos Delgado Kloos-Carmen Fernández Panadero-Iria Estévez-Ayres-Jorge Blasco,Introductory,Computer Science,English,"English, Español, Português, 中文",149.0,5,7,10
+230,European Paintings: From Leonardo to Rembrandt to Goya,"60,734",Self-paced on your time,Universidad Carlos III de Madrid,Alejandro Vergara,Introductory,Humanities,English,English,99.0,7,2,3
+231,Java Programming Fundamentals,"12,042",Self-paced on your time,Universidad Galileo,Jorge Vargas-Victor Orozco,Intermediate,Engineering,English,English,49.0,5,8,10
+232,"Hollywood: History, Industry, Art","50,033",Self-paced on your time,University of Pennsylvania,Peter Decherney,Introductory,Communication,English,English,169.0,4,3,4
+233,Data Science Tools,"15,627",Self-paced on your time,IBM,Romeo Kienzler-Svetlana Levitan-Maureen McElaney,Introductory,Data Analysis & Statistics,English,English,39.0,7,3,7
+234,Statistical Thinking for Data Science and Analytics,"198,861",Self-paced on your time,Columbia University,Andrew Gelman-David Madigan-Lauren Hannah-Eva Ascarza,Introductory,Computer Science,English,English,99.0,5,7,10
+235,Philosophy and Critical Thinking,"97,175",Self-paced on your time,The University of Queensland,Professor Deborah Brown-Dr Peter Ellerton,Introductory,Humanities,English,English,99.0,6,1,4
+236,International Law,"91,868",Self-paced on your time,Université catholique de Louvain,Pierre d’Argent,Advanced,Law,English,English,150.0,12,6,8
+237,Tourism and Travel Management,"38,503",Self-paced on your time,The University of Queensland,Sara Dolnicar-Sally Driml-Sheranne Fairley-Karen Hughes,Introductory,Business & Management,English,English,5.0,7,2,3
+238,Project Management Life Cycle,"120,019",Self-paced on your time,Rochester Institute of Technology,Leonie Fernandes,Intermediate,Business & Management,English,English,150.0,10,8,12
+239,Solar Energy,"125,069",Self-paced on your time,Delft University of Technology,Arno Smets,Introductory,Engineering,English,English,50.0,8,6,8
+240,Public Speaking,"10,129",Self-paced on your time,Rochester Institute of Technology,Keith B. Jenkins,Introductory,Communication,English,English,199.0,3,4,6
+241,Japanese Pronunciation for Communication,"62,757",Self-paced on your time,Waseda University,Takako Toda,Introductory,Communication,日本語,"English, 日本語, 한국어, 中文",99.0,5,3,5
+242,Mindfulness and Resilience to Stress at Work,"33,414",Self-paced on your time,"University of California, Berkeley",Dacher Keltner-Emiliana Simon-Thomas,Introductory,Business & Management,English,English,199.0,4,1,2
+243,Framing Your Communication to Inspire and Convince,"49,351",Self-paced on your time,Delft University of Technology,Hans de Bruijn-Jet Pagnier,Intermediate,Business & Management,English,English,125.0,5,4,5
+244,Business Foundations,"55,154",Self-paced on your time,University of British Columbia,Elicia Salzberg,Introductory,Business & Management,English,English,150.0,6,3,5
+245,The Chemistry of Life,"78,704",Self-paced on your time,Kyoto University,Motonari Uesugi,Introductory,Biology & Life Sciences,English,English,49.0,13,2,3
+246,Nutrition and Health: Micronutrients and Malnutrition,"78,266",Self-paced on your time,Wageningen University & Research,Sander Kersten-Alida Melse-Inge Brouwer-Guido Hooiveld,Intermediate,Biology & Life Sciences,English,English,99.0,7,6,8
+247,Digital Design,"12,339",Self-paced on your time,The Hong Kong University of Science and Technology,Ravindra Goonetilleke-Sai-Kit Yeung,Introductory,Design,English,English,50.0,5,5,6
+248,Machine Learning for Data Science and Analytics,"140,419",Self-paced on your time,Columbia University,Ansaf Salleb-Aouissi-Cliff Stein-David Blei-Itsik Peer,Introductory,Computer Science,English,English,99.0,5,7,10
+249,The Science of Everyday Thinking,"318,399",Self-paced on your time,The University of Queensland,Emma MacKenzie-Jason Tangen-Matthew Thompson,Introductory,Business & Management,English,English,99.0,12,2,3
+250,Gestion de projets de développement,"41,663",Self-paced on your time,Inter-American Development Bank,Gentile Senat-Vanessa Sayos del Castillo-Ernesto Mondelo,Intermediate,Business & Management,Français,Français,25.0,10,3,4
+251,Product Management Fundamentals,"11,913",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",James Green,Introductory,Business & Management,English,English,199.0,4,2,3
+252,International Human Rights Law,"74,424",Self-paced on your time,Université catholique de Louvain,Olivier De Schutter,Advanced,Law,English,English,150.0,12,6,8
+253,The Best Start in Life: Early Childhood Development for Sustainable Development,"23,139",Self-paced on your time,SDG Academy,Hirokazu Yoshikawa-Jack Shonkoff-Aisha Yousafzai-Catherine Tamis-LeMonda,Intermediate,Education & Teacher Training,English,"اللغة العربية, English, Español, हिन्दी, Português",49.0,8,2,4
+254,Data Science and Machine Learning Capstone Project,"21,809",Self-paced on your time,IBM,Sourav Mazumder-Linda Liu-Alex Aklson,Intermediate,Data Analysis & Statistics,English,English,99.0,6,3,4
+255,"Data Science for Construction, Architecture and Engineering","11,113",Self-paced on your time,The National University of Singapore,Clayton Miller,Introductory,Data Analysis & Statistics,English,English,199.0,7,4,6
+256,"Nutrition, Heart Disease and Diabetes","24,986",Self-paced on your time,Wageningen University & Research,Marianne Geleijnse-Leanne Küpers-Dr. Marco Mensink,Intermediate,Food & Nutrition,English,English,99.0,5,6,8
+257,Project Management for Development,"62,099",Self-paced on your time,Inter-American Development Bank,Claudia Baca-Ernesto Mondelo,Intermediate,Business & Management,English,English,49.0,10,3,4
+258,Introduction to Cloud Infrastructure Technologies,"86,923",Self-paced on your time,The Linux Foundation,Chris Pokorni-Chip Childers-Neependra Khare,Introductory,Computer Science,English,English,169.0,14,3,4
+259,"Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry","13,566",Self-paced on your time,Wageningen University & Research,Prof.dr.ir. Louise O. Fresco-Dr. Kim Poldner-Dr. Nishant Shah-Paulien Harmsen MSc,Introductory,Art & Culture,English,English,65.0,5,4,6
+260,Machine Learning,"150,855",Instructor-led on a course schedule,Columbia University,John W. Paisley,Advanced,Computer Science,English,English,249.0,12,8,10
+261,Introducción a la gestión de proyectos,"98,517",Self-paced on your time,Universitat Politècnica de Valencia,Alberto Palomares Chust,Introductory,Business & Management,Español,Español,50.0,5,4,5
+262,Free Cash Flow Analysis,"36,085",Self-paced on your time,Columbia University,Daniel Wolfenzon,Introductory,Business & Management,English,English,225.0,5,3,4
+263,Lean Production,"55,926",Self-paced on your time,Technische Universität München,Martin Grunow-Holly Ott,Introductory,Business & Management,English,English,99.0,6,3,4
+264,Introduction to Algebra,"131,197",Self-paced on your time,SchoolYourself,Zach Wissner-Gross-John Lee-Vivek Venkatachalam-Kenny Peng,Introductory,Math,English,English,139.0,4,4,6
+265,"LaTeX for Students, Engineers, and Scientists","11,823",Self-paced on your time,IITBombay,Deepak B. Phatak-Firuza Karmali (Aibara)-Nagesh Karmali,Introductory,Engineering,English,English,139.0,7,3,4
+266,Leading With Effective Communication (Inclusive Leadership Training),"107,770",Self-paced on your time,Catalyst,Dnika J. Travis-Alixandra Pollack-Jeff Barth,Introductory,Communication,English,English,50.0,4,1,2
+267,Anatomy: Musculoskeletal and Integumentary Systems,"51,969",Self-paced on your time,The University of Michigan,Kathleen Alsup,Introductory,Biology & Life Sciences,English,English,49.0,4,2,3
+268,"Inglés empresarial: ventas, gestión y liderazgo","10,897",Instructor-led on a course schedule,Universidades Anáhuac,Judith Margarete Towle Wachenheim-Isabel Rosado Richard-Jorge Ernesto Peniche Rosales-David John Phillips,Introductory,Business & Management,English,"English, Español",49.0,4,5,8
+269,Business Strategy from Wharton: Competitive Advantage,"26,675",Self-paced on your time,The Wharton School of the University of Pennsylvania,Nicolaj Siggelkow,Intermediate,Business & Management,English,English,199.0,6,3,4
+270,Inteligencia emocional para el liderazgo efectivo y colaboración,"14,726",Self-paced on your time,Universidades Anáhuac,Psic. Vanessa Arrigunaga Chico-Laura Villarreal González,Introductory,Social Sciences,Español,Español,49.0,4,4,5
+271,Introducción al desarrollo de aplicaciones web,"27,757",Self-paced on your time,Universidad Autónoma de Madrid,Ruth Cobos Pérez-Álvaro Ortigosa-Roberto Latorre Camino,Introductory,Computer Science,Español,Español,49.0,5,4,5
+272,"Six Sigma: Analyze, Improve, Control","56,016",Self-paced on your time,Technische Universität München,Martin Grunow-Holly Ott,Introductory,Business & Management,English,English,99.0,8,3,4
+273,Introducción a la inteligencia emocional,"18,830",Self-paced on your time,Universidades Anáhuac,Pped. Silvia Josefina Axle Echanove-Psic. Alejandro González Novelo-M.C. Jorge Carlos Hevia Orozco,Introductory,Social Sciences,Español,Español,49.0,4,3,5
+274,AP® Microeconomics,"53,664",Self-paced on your time,Massachusetts Institute of Technology,Jonathan Gruber,Introductory,Economics & Finance,English,English,49.0,12,3,4
+275,Engineering Calculus and Differential Equations,"21,535",Self-paced on your time,University of Hong Kong,Kwok Wing Chow-Kai Man Tsang,Introductory,Math,English,English,50.0,6,3,6
+276,Linear Algebra - Foundations to Frontiers,"88,570",Self-paced on your time,The University of Texas at Austin,Maggie Myers-Robert van de Geijn,Intermediate,Computer Science,English,English,49.0,15,6,10
+277,Habilidades de negociación y comunicación efectiva,"19,614",Self-paced on your time,Tecnológico de Monterrey,Daniel Meade Monteverde-Luz María Vargas Reguer,Introductory,Business & Management,Español,Español,149.0,4,5,8
+278,Effective Communication for Today's Leader,"8,862",Self-paced on your time,Tecnológico de Monterrey,Carlos Alberto Tena Sánchez,Intermediate,Business & Management,English,English,149.0,4,5,8
+279,Electric Cars: Technology,"40,972",Self-paced on your time,Delft University of Technology,Pavol Bauer-Auke Hoekstra-Gautham Ram-Marnix Wagemaker,Intermediate,Engineering,English,English,50.0,4,4,5
+280,Site Planning Online,"12,948",Self-paced on your time,Massachusetts Institute of Technology,Gary Hack-Mary Anne Ocampo,Intermediate,Design,English,English,99.0,10,4,6
+281,Macroeconometric Forecasting,"69,358",Self-paced on your time,The International Monetary Fund,Adolfo Barajas-Adina Popescu-Sam Ouliaris-Reda Cherif,Intermediate,Economics & Finance,English,English,25.0,9,8,10
+282,Administración pública y fiscal: cómo se gestiona un gobierno,"49,189",Self-paced on your time,Inter-American Development Bank,Pedro Farias-Mariano Lafuente-Miguel Porrúa-Carlos Pimenta,Introductory,Economics & Finance,Español,"Español, Español",25.0,10,3,4
+283,Fundamentals of Red Hat Enterprise Linux,"53,788",Self-paced on your time,Red Hat,Ricardo da Costa,Introductory,Computer Science,English,English,99.0,9,1,3
+284,Algorithms,"61,722",Self-paced on your time,IITBombay,Deepak B. Phatak-Nagesh Karmali-Ajit Diwan-Ganesh Ramakrishnan,Intermediate,Computer Science,English,English,149.0,6,6,8
+285,Calculus Applied!,"54,976",Self-paced on your time,Harvard University,John Wesley Cain-Juliana Belding-Peter M. Garfield,Intermediate,Math,English,English,99.0,10,3,6
+286,Precalculus,"55,576",Self-paced on your time,Arizona State University,Adrian Sannier-Sue McClure,Intermediate,Math,English,English,49.0,15,9,10
+287,Fundamentos de anatomía y técnica quirúrgica básica,"12,133",Instructor-led on a course schedule,Universidad del Rosario,Felipe González-Ricardo Miguel Luque Bernal,Introductory,Medicine,Español,Español,49.0,4,4,6
+288,Business Communications,"60,713",Self-paced on your time,University of British Columbia,Marlisse Silver Sweeney,Introductory,Business & Management,English,English,150.0,6,3,5
+289,Italian Language and Culture: Intermediate (2019-2020),"35,058",Self-paced on your time,Wellesley College,Daniela Bartalesi-Graf,Intermediate,Language,Italiano,Italiano,49.0,12,3,5
+290,International Women's Health and Human Rights,"9,796",Self-paced on your time,Stanford University,Anne Firth Murray,Introductory,Social Sciences,English,English,50.0,10,1,5
+291,Blockchain: Understanding Its Uses and Implications,"66,769",Self-paced on your time,The Linux Foundation,Ernesto Lee-Kris Bennett-Rosa Santos,Introductory,Business & Management,English,English,199.0,14,2,3
+292,"A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods","22,366",Self-paced on your time,Imperial College London,Philip Ramsden-Phil Chaffe,Intermediate,Math,English,English,49.0,7,2,4
+293,Blockchain Technology,"55,376",Self-paced on your time,"University of California, Berkeley",Rustie Lin-Nadir Akhtar,Intermediate,Computer Science,English,English,99.0,6,3,5
+294,Basics of Power BI,"8,314",Self-paced on your time,Rolls-Royce,James Hallam,Introductory,Data Analysis & Statistics,English,English,49.0,2,1,5
+295,Preparing to Network in English,"34,337",Self-paced on your time,University of Washington,Joel Ozretich-Richard Moore,Introductory,Language,English,English,149.0,6,3,5
+296,Mandarin Chinese Essentials,"36,665",Self-paced on your time,MandarinX,Estella Chen,Introductory,Language,English,English,99.0,5,4,10
+297,Human Rights: The Rights of Refugees,"84,270",Self-paced on your time,Amnesty International,Amnesty International,Introductory,Humanities,English,English,49.0,3,3,5
+298,What do Architects and Urban Planners do?,"11,046",Self-paced on your time,Wits University,Ariane Janse van Rensburg-Mawabo Msingaphantsi-Ludwig Hansen-Johan N Prinsloo,Introductory,Architecture,English,English,49.0,3,2,3
+299,"U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy","22,723",Self-paced on your time,Harvard University,Thomas E. Patterson,Introductory,Social Sciences,English,English,49.0,4,2,4
+300,Negotiation Skills and Effective Communication,"8,146",Self-paced on your time,Tecnológico de Monterrey,Luz María Vargas Reguer-Daniel Meade Monteverde,Intermediate,Business & Management,English,English,149.0,4,5,8
+301,AP® English Literature & Composition – Part 1: Stories,"15,650",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Introductory,Humanities,English,English,49.0,7,4,5
+302,"Viruses & How to Beat Them: Cells, Immunity, Vaccines","28,710",Self-paced on your time,IsraelX-Tel Aviv University,Jonathan Gershoni,Introductory,Medicine,English,English,149.0,7,2,3
+303,Alianzas: un vehículo para lograr el desarrollo sostenible,"17,554",Self-paced on your time,Inter-American Development Bank,Bernardo Guillamón-Matías Bendersky-María Cortés Puch-Guido Schmidt-Traub,Introductory,Social Sciences,Español,English,25.0,10,3,4
+304,Designing and Creating Skirts,"13,954",Self-paced on your time,The Hong Kong Polytechnic University,Tanya Dove-Kristina Shin-Jalice Cheng-Marco Rebora,Introductory,Design,English,English,99.0,5,3,5
+305,Cómo Aprender Online,"7,958",Self-paced on your time,edX,Nina Huntemann-Robyn Belair-Ben Piscopo-Marina Pastor,Introductory,Education & Teacher Training,Español,"English, Español",49.0,2,2,3
+306,Computing in Python II: Control Structures,"31,511",Self-paced on your time,The Georgia Institute of Technology,David Joyner,Introductory,Computer Science,English,English,99.0,5,9,10
+307,Facebook Ads: Cómo utilizar el poder de la publicidad en Facebook,"29,614",Self-paced on your time,Universidad Galileo,Jojo Giuffra-Miguel Morales-Rocael Hernández,Introductory,Communication,Español,Español,49.0,5,3,4
+308,Machine Learning Fundamentals,"82,008",Self-paced on your time,"The University of California, San Diego",Sanjoy Dasgupta,Advanced,Data Analysis & Statistics,English,English,350.0,10,8,10
+309,Pre-University Calculus,"103,224",Self-paced on your time,Delft University of Technology,Bart van den Dries-Roelof Koekoek-Wolter Groenevelt-Fokko van de Bult,Introductory,Math,English,English,50.0,8,6,8
+310,Tsinghua Chinese: Start Talking with 1.3 Billion People,"58,834",Self-paced on your time,Tsinghua University,Xia Ding-Xiaoning Wang-Li Lu-Yuan Li,Introductory,Language,English,English,49.0,6,2,3
+311,Deep Learning with Python and PyTorch,"36,195",Self-paced on your time,IBM,Joseph Santarcangelo,Intermediate,Data Analysis & Statistics,English,English,99.0,6,2,4
+312,Diseña presentaciones eficaces con Powerpoint,"36,663",Self-paced on your time,Universitat Politècnica de Valencia,Miguel Ferrando Bataller-Ignacio Despujol-Linda Castañeda Quintero,Introductory,Computer Science,Español,Español,50.0,3,4,10
+313,World of Wine: From Grape to Glass,"81,839",Self-paced on your time,University of Adelaide,Kerry Wilkinson-Cassandra Collins-David Jeffery-Paul Grbin,Introductory,Science,English,English,199.0,6,2,3
+314,Sustainable Cities,"16,619",Self-paced on your time,SDG Academy,Aromar Revi-Joshua Castellino-Jeffrey D. Sachs-Susan Parnell,Intermediate,Environmental Studies,English,"English, हिन्दी",49.0,9,4,6
+315,Introduction to Developmental Psychology,"38,060",Self-paced on your time,The University of Queensland,Blake McKimmie-Virginia Slaughter-Mark Nielsen-Nicole Nelson,Introductory,Humanities,English,English,99.0,8,1,2
+316,Creativity & Entrepreneurship,"69,413",Self-paced on your time,Berklee College of Music,Panos Panay,Introductory,Business & Management,English,English,49.0,4,3,5
+317,College Algebra and Problem Solving,"103,010",Self-paced on your time,Arizona State University,Adrian Sannier-Sue McClure,Introductory,Math,English,English,49.0,15,8,9
+318,Academic writing for clarity and meaning,"16,220",Self-paced on your time,Wits University,Peter Alkema-Nomusa Mazonde-Terri Carmichael,Introductory,Education & Teacher Training,English,English,49.0,2,2,3
+319,Financial Development and Financial Inclusion,"13,853",Self-paced on your time,The International Monetary Fund,Ralph Chami-Sami Ben Naceur-Dyna Heng-Dmitriy Rozhkov,Intermediate,Economics & Finance,English,English,25.0,7,8,10
+320,Global Public Health,"17,273",Self-paced on your time,SDG Academy,K. Srinath Reddy-Richard Cash-Vinod Paul-Rob Yates,Intermediate,Health & Safety,English,English,49.0,10,4,6
+321,Embedded Systems - Shape The World: Microcontroller Input/Output,"69,182",Self-paced on your time,The University of Texas at Austin,Jonathan Valvano-Ramesh Yerraballi,Intermediate,Computer Science,English,English,49.0,8,8,10
+322,Introduction to Animal Behaviour,"42,135",Self-paced on your time,Wageningen University & Research,Marc Naguib-James Savage-Lysanne Snijders,Introductory,Biology & Life Sciences,English,English,49.0,6,4,6
+323,Circular Economy: An Introduction,"50,240",Self-paced on your time,Delft University of Technology,Ken Webster-Conny Bakker-David Peck-Ester van der Voet,Introductory,Business & Management,English,English,50.0,7,3,6
+324,Public Financial Management,"23,288",Self-paced on your time,The International Monetary Fund,Staff of the Fiscal Affairs Department,Intermediate,Economics & Finance,English,English,25.0,8,4,6
+325,Anatomy: Human Neuroanatomy,"49,319",Self-paced on your time,The University of Michigan,Kelli A. Sullivan,Introductory,Biology & Life Sciences,English,English,49.0,8,3,4
+326,Android: Introducción a la Programación,"85,786",Self-paced on your time,Universitat Politècnica de Valencia,Jesús Tomás Gironés,Introductory,Computer Science,Español,Español,50.0,10,4,5
+327,The Ancient Greek Hero,"51,744",Instructor-led on a course schedule,Harvard University,Gregory Nagy-Leonard Muellner-Kevin McGrath-Keith DeStone,Introductory,Humanities,English,English,99.0,18,8,12
+328,Agile Leadership Principles and Practices,"31,838",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",John Johnson,Advanced,Engineering,English,English,199.0,4,2,3
+329,How to Code: Simple Data,"98,113",Self-paced on your time,University of British Columbia,Gregor Kiczales,Introductory,Computer Science,English,English,125.0,7,2,3
+330,Cybersecurity and Privacy in the IoT,"21,440",Self-paced on your time,Curtin University,Iain Murray AM-Nazanin Mohammadi-Eleanor Sandry,Introductory,Computer Science,English,English,199.0,5,4,6
+331,Strategic Management,"71,085",Self-paced on your time,Indian Institute of Management Bangalore,P D Jose-Rejie George Pallathita-Sai Yayavaram,Introductory,Business & Management,English,"English, हिन्दी",150.0,5,3,5
+332,Introducción a la ciencia de datos y sus aplicaciones,"7,303",Self-paced on your time,IBM,Alex Aklson,Introductory,Data Analysis & Statistics,Español,Español,39.0,6,3,6
+333,"Biochemistry: Biomolecules, Methods, and Mechanisms","18,692",Instructor-led on a course schedule,Massachusetts Institute of Technology,Michael Yaffe-Mary Ellen Wiltrout-Darcy Gordon-Monika Avello,Intermediate,Biology & Life Sciences,English,English,150.0,12,3,6
+334,Astronomía Virtual,"10,500",Self-paced on your time,Universidad Nacional de Córdoba,Guillermo Goldes,Introductory,Science,Español,"English, Español",29.0,7,5,7
+335,Nutrition and Cancer,"27,144",Self-paced on your time,Wageningen University & Research,Ellen Kampman-Fränzel van Duijnhoven-Dieuwertje Kok,Intermediate,Food & Nutrition,English,English,99.0,5,6,8
+336,Build your very first iOS app,"31,570",Instructor-led on a course schedule,Curtin University,Dr David A. McMeekin-Tristan W. Reed,Introductory,Computer Science,English,English,149.0,8,8,10
+337,Object-Oriented Programming,"93,633",Self-paced on your time,IITBombay,Deepak B. Phatak-Supratik Chakraborty-Nagesh Karmali-Firuza Karmali (Aibara),Introductory,Computer Science,English,English,149.0,4,6,8
+338,Introduction to Jenkins,"7,233",Self-paced on your time,The Linux Foundation,Deepika Gautam,Introductory,Computer Science,English,English,199.0,10,2,3
+339,Conducting an Informational Interview,"15,594",Self-paced on your time,University of Washington,Joel Ozretich-Richard Moore,Introductory,Language,English,English,99.0,8,3,5
+340,Liderazgo y comportamiento organizacional,"21,419",Self-paced on your time,Tecnológico de Monterrey,Elliott Kruse,Introductory,Business & Management,Español,Español,149.0,4,5,8
+341,Creative Coding,"18,660",Instructor-led on a course schedule,New York University,Kevin Siwoff,Introductory,Design,English,English,249.0,14,8,10
+342,Análisis estadístico con Excel,"22,717",Self-paced on your time,Universidad Galileo,Samuel Reyes Gómez,Introductory,Data Analysis & Statistics,Español,Español,49.0,4,3,5
+343,Introducción a la Ingeniería del Software,"17,931",Self-paced on your time,Universidad Autónoma de Madrid,Miren Idoia Alarcón Rodríguez,Introductory,Computer Science,Español,Español,49.0,5,4,5
+344,Computer Graphics,"98,553",Self-paced on your time,"The University of California, San Diego",Ravi Ramamoorthi,Intermediate,Computer Science,English,"English, 中文",99.0,6,6,12
+345,Data Science: Computational Thinking with Python,"78,232",Self-paced on your time,"University of California, Berkeley",Ani Adhikari-John DeNero-David Wagner,Introductory,Computer Science,English,English,199.0,5,4,6
+346,Comunicación efectiva para el líder actual,"18,470",Self-paced on your time,Tecnológico de Monterrey,Carlos Alberto Tena Sánchez,Introductory,Communication,Español,Español,149.0,4,5,8
+347,Debate y argumentación,"10,954",Self-paced on your time,Universidad del Rosario,Diego Fernando Duarte Leal,Introductory,Humanities,Español,Español,49.0,4,4,6
+348,Deep Learning with Tensorflow,"37,564",Self-paced on your time,IBM,Saeed Aghabozorgi,Intermediate,Data Analysis & Statistics,English,English,99.0,5,2,4
+349,Machine Learning (aprendizaje automático) con Python: una introducción práctica,"39,155",Self-paced on your time,IBM,Saeed Aghabozorgi-Adrián Tozzi,Introductory,Computer Science,Español,Español,49.0,5,4,6
+350,Essential Human Biology: Cells and Tissues,"67,961",Self-paced on your time,University of Adelaide,Mario Ricci-Rachel Gibson-Sophie Karanicolas-​Catherine Snelling,Introductory,Medicine,English,English,169.0,5,2,3
+351,"Writing, Presenting and Submitting Scientific Papers in English | 英文科技论文写作与学术报告","35,720",Self-paced on your time,Tsinghua University,Xiaohong Guan,Intermediate,Communication,English,English,49.0,5,2,3
+352,Computing in Python III: Data Structures,"27,239",Self-paced on your time,The Georgia Institute of Technology,David Joyner,Introductory,Computer Science,English,English,99.0,5,9,10
+353,Introduction to Internet of Things (IoT),"6,703",Self-paced on your time,Rolls-Royce,James Hallam,Introductory,Data Analysis & Statistics,English,English,49.0,2,1,5
+354,Nutrition and Health: Food Risks,"51,493",Self-paced on your time,Wageningen University & Research,Ivonne M.C.M. Rietjens-Marcel H. Zwietering-Martine Reij-Jochem Louisse,Introductory,Biology & Life Sciences,English,English,49.0,8,6,8
+355,Mechanics: Kinematics and Dynamics,"35,529",Self-paced on your time,Massachusetts Institute of Technology,Deepto Chakrabarty-Peter Dourmashkin-Anna Frebel-Analia Barrantes,Intermediate,Physics,English,English,49.0,12,10,12
+356,Storytelling for Social Change,"30,313",Self-paced on your time,The University of Michigan,Anita Gonzalez,Introductory,Communication,English,English,49.0,5,1,3
+357,Introduction to Data Analytics for Managers,"39,113",Self-paced on your time,The University of Michigan,Amitabh Sinha-Sanjeev Kumar,Introductory,Business & Management,English,English,49.0,6,2,4
+358,Qualitative Research Methods: Conversational Interviewing,"21,972",Self-paced on your time,Massachusetts Institute of Technology,Susan Silbey-Meghan Perdue,Intermediate,Humanities,English,English,49.0,3,2,3
+359,International Project Management,"45,145",Self-paced on your time,Rochester Institute of Technology,Celine Gullace-Leonie Fernandes,Advanced,Business & Management,English,English,150.0,9,8,12
+360,Software Development Fundamentals,"51,402",Self-paced on your time,University of Pennsylvania,Arvind Bhusnurmath,Intermediate,Computer Science,English,English,149.0,4,6,8
+361,"First Nights - Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots","17,484",Self-paced on your time,Harvard University,Thomas Forrest Kelly,Introductory,Humanities,English,English,49.0,3,3,5
+362,Critical Thinking & Problem Solving,"6,558",Self-paced on your time,Rochester Institute of Technology,Mike Johansson,Introductory,Communication,English,English,199.0,3,4,6
+363,Data Analysis Essentials,"42,262",Self-paced on your time,Imperial College Business School-Imperial College London,David Lefevre-Catarina Sismeiro,Introductory,Business & Management,English,English,79.0,6,4,6
+364,Master Control in Supply Chain Management and Logistics,"31,326",Self-paced on your time,Chalmers University of Technology,Per Olof Arnäs-Ola Hultkrantz,Introductory,Business & Management,English,English,49.0,7,4,5
+365,Work and Employment for a Sustainable Future,"6,528",Self-paced on your time,SDG Academy,Jeffrey D. Sachs-Jeemol Unni-Martha Chen-Kailash Satyarthi,Intermediate,Economics & Finance,English,English,49.0,6,2,4
+366,Foundations of Data Structures,"54,075",Self-paced on your time,IITBombay,Deepak B. Phatak-Nagesh Karmali-Ajit Diwan-Ganesh Ramakrishnan,Intermediate,Computer Science,English,English,149.0,6,6,8
+367,"Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis","31,024",Self-paced on your time,The International Monetary Fund,Paolo Dudine-Adolfo Barajas-Eric Verreydt-Luisa Zanforlin,Intermediate,Economics & Finance,English,English,25.0,6,8,10
+368,IoT System Design: Software and Hardware Integration,"13,608",Self-paced on your time,Waseda University,Keiji Kimura-Nozomu Togawa-Yoshio Miki,Intermediate,Computer Science,English,English,99.0,4,4,6
+369,English for Doing Business in Asia – Writing,"44,252",Self-paced on your time,The Hong Kong University of Science and Technology,Sean McMinn-Delian Gaskell,Introductory,Humanities,English,English,60.0,7,3,4
+370,Working in Teams: A Practical Guide,"43,981",Self-paced on your time,The University of Queensland,Lydia Kavanagh-David Neil,Introductory,Humanities,English,English,49.0,4,6,8
+371,Introducción a los encofrados y las cimbras en obra civil y edificación,"16,029",Self-paced on your time,Universitat Politècnica de Valencia,Víctor Yepes Piqueras,Introductory,Engineering,Español,Español,50.0,4,2,3
+372,AI Chatbots without Programming,"35,440",Self-paced on your time,IBM,Antonio Cangiano,Introductory,Computer Science,English,English,99.0,2,2,4
+373,Introducción a la Ciencia de Datos y el Big Data,"16,268",Self-paced on your time,Tecnológico de Monterrey,Jesús Aguilar,Intermediate,Data Analysis & Statistics,Español,Español,49.0,4,3,5
+374,Just Money: Banking as if Society Mattered,"25,553",Self-paced on your time,Massachusetts Institute of Technology,J. Phillip Thompson-Lily Steponaitis-Katrin Kaeufer-Alice Maggio,Introductory,Business & Management,English,English,49.0,16,3,4
+375,Introducción a R,"6,431",Self-paced on your time,Universidades Anáhuac,César Iván Cobos May-Víctor Cruz Morales,Introductory,Data Analysis & Statistics,Español,Español,49.0,4,5,8
+376,Computing in Python IV: Objects & Algorithms,"28,112",Self-paced on your time,The Georgia Institute of Technology,David Joyner,Introductory,Computer Science,English,English,99.0,5,9,10
+377,Adobe Illustrator: aprende a crear presentaciones de impacto,"18,613",Self-paced on your time,Pontificia Universidad Javeriana,Juan Carlos Lemus Romero,Introductory,Design,Español,Español,15.0,5,9,10
+378,Teaching Critical Thinking through Art with the National Gallery of Art,"18,595",Self-paced on your time,The Smithsonian Institution,Julie Carmean,Introductory,Education & Teacher Training,English,"English, Español, Français, 中文",25.0,16,3,4
+379,Word intermedio: herramientas de formato y productividad,"10,265",Self-paced on your time,Universitat Politècnica de Valencia,Andrés Lloret Salom,Intermediate,Computer Science,Español,Español,50.0,6,4,5
+380,Introducción a las finanzas: Principios de valoración,"17,344",Self-paced on your time,Universidad del Rosario,Rafael Serrano-Laura Natalia López,Intermediate,Economics & Finance,Español,Español,49.0,4,6,10
+381,Aprende a diseñar jardines verticales y cuadros vivos,"6,341",Self-paced on your time,Universidad Nacional de Córdoba,Equipo Campus Virtual,Introductory,Biology & Life Sciences,Español,Español,29.0,4,1,2
+382,"Anatomy: Cardiovascular, Urinary, and Respiratory Systems","36,917",Self-paced on your time,The University of Michigan,Glenn M. Fox,Introductory,Biology & Life Sciences,English,English,49.0,4,2,3
+383,Software Engineering: Introduction,"35,524",Self-paced on your time,University of British Columbia,Reid Holmes,Advanced,Computer Science,English,English,125.0,6,8,10
+384,Structure of Materials,"13,042",Self-paced on your time,Massachusetts Institute of Technology,Silvija Gradečak-Jessica Sandland,Intermediate,Engineering,English,English,150.0,16,6,8
+385,Fundamentos de fotografía documental,"13,036",Self-paced on your time,Universidad del Rosario,Luis Alberto Cardozo Acosta,Introductory,Art & Culture,Español,Español,49.0,6,4,6
+386,AP® Italian Language and Culture (2020-2021),"39,398",Self-paced on your time,Wellesley College,Daniela Bartalesi-Graf,Advanced,Humanities,Italiano,Italiano,49.0,12,3,8
+387,Computer Hardware and Operating Systems,"9,715",Self-paced on your time,New York University,Daniel Katz-Braunschweig-Aspen Olmsted,Introductory,Computer Science,English,English,150.0,6,3,5
+388,Marketing Management,"43,415",Instructor-led on a course schedule,"The University of Maryland, College Park-University System of Maryland",Judy Frels-David Godes-P.K. Kannan-Mary Beth Furst,Advanced,Business & Management,English,English,214.0,7,8,10
+389,You Can Innovate: User  Innovation & Entrepreneurship,"18,974",Self-paced on your time,Massachusetts Institute of Technology,Eric von Hippel-Erdin Beshimov,Introductory,Business & Management,English,English,49.0,10,2,4
+390,Analytics in Python,"82,210",Instructor-led on a course schedule,Columbia University,,Intermediate,Business & Management,English,,249.0,12,8,10
+391,Bases Matemáticas: Álgebra,"35,811",Self-paced on your time,Universitat Politècnica de Valencia,Alicia Herrero Debón,Introductory,Math,Español,Español,50.0,4,3,4
+392,HTML5 Apps and Games,"86,850",Self-paced on your time,The World Wide Web Consortium (W3C),Michel Buffa,Advanced,Computer Science,English,English,199.0,4,6,8
+393,MATLAB and Octave for Beginners,"68,706",Self-paced on your time,École polytechnique fédérale de Lausanne,Simone Deparis,Introductory,Computer Science,English,English,139.0,4,5,6
+394,AP Physics 1,"43,401",Self-paced on your time,Rice University,Matt Wilson-Gigi Nevils-Jason Hafner,Introductory,Physics,English,English,49.0,18,3,4
+395,The Divine Comedy: Dante's Journey to Freedom,"12,005",Self-paced on your time,Georgetown University,Frank Ambrosio-Francesco Ciabattoni-Jo Ann Moran Cruz-Eddie Maloney,Introductory,Humanities,English,English,49.0,8,9,10
+396,Linux Basics: The Command Line Interface,"32,726",Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Petra Bonfert-Taylor-Rémi Sharrock,Introductory,Computer Science,English,English,49.0,7,3,5
+397,Entrepreneurial Operations: Launching a Startup,"23,808",Self-paced on your time,Babson College,Jennifer Bailey,Intermediate,Business & Management,English,English,149.0,4,4,6
+398,Maths Essentials,"44,642",Self-paced on your time,Imperial College Business School-Imperial College London,David Lefevre,Introductory,Business & Management,English,English,79.0,6,2,5
+399,"Marketing Analytics: Products, Distribution and Sales","50,588",Self-paced on your time,"University of California, Berkeley",Stephan Sorger,Intermediate,Computer Science,English,English,249.0,4,5,7
+400,Marketing Innovative Products and Services,"6,293",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Lola Koiki,Introductory,Business & Management,English,English,149.0,4,2,3
+401,Just Reading and Writing in English | 生活英语读写,"33,303",Self-paced on your time,Tsinghua University,,Introductory,Art & Culture,English,English,149.0,15,2,4
+402,Introduction to Java Programming – Part 1,"270,376",Self-paced on your time,The Hong Kong University of Science and Technology,Ting-Chuen Pong-Tony W K Fung-Leo P M Fan,Introductory,Computer Science,English,English,99.0,5,3,5
+403,Comunicación y Redacción Digital,"7,165",Self-paced on your time,Universidades Anáhuac,Abraham Torres,Introductory,Communication,Español,Español,29.0,4,3,4
+404,Monetary Policy Analysis and Forecasting,"6,616",Self-paced on your time,The International Monetary Fund,Mikhail Pranovich,Advanced,Economics & Finance,English,English,25.0,6,8,10
+405,Basic Analytical Chemistry,"19,010",Self-paced on your time,The University of Tokyo,Takeaki Ozawa-Liang-da Chiu,Introductory,Chemistry,English,English,49.0,6,3,4
+406,Identifying Entrepreneurial Opportunities,"11,922",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",James Green,Introductory,Business & Management,English,English,149.0,4,2,3
+407,"ChinaX Book Club: Five Authors, Five Books, Five Views of China","5,855",Self-paced on your time,Harvard University,David Wang,Introductory,Literature,English,English,139.0,5,1,2
+408,Astrophysics: Cosmology,"83,322",Self-paced on your time,Australian National University,Brian Schmidt-Paul Francis,Intermediate,Physics,English,English,50.0,10,2,4
+409,Japanese Culture and Language (I) |日语与日本文化（1）,"18,489",Self-paced on your time,Tsinghua University,Feng Feng-Gao Yang-Miyazaki Izumi,Introductory,Art & Culture,中文,"日本語, 中文",139.0,10,3,5
+410,COVID-19 Training for Healthcare Workers,"5,742",Self-paced on your time,Stanford University,Matthew Strehlow-S.V. Mahadevan,Introductory,Medicine,English,English,10.0,2,1,10
+411,The Rise of Superheroes and Their Impact On Pop Culture,"31,368",Self-paced on your time,The Smithsonian Institution,Stan Lee-Michael Uslan-David Uslan-Christopher Robichaud,Introductory,Humanities,English,English,50.0,6,1,2
+412,Introduction to Aeronautical Engineering,"99,971",Self-paced on your time,Delft University of Technology,Jacco M. Hoekstra-Jos Sinke-Mark Voskuijl-Nando Timmer,Introductory,Engineering,English,English,50.0,7,10,12
+413,Diseño de Jardines,"5,683",Self-paced on your time,Universidad Nacional de Córdoba,Patricia Gil-Paola Campitelli-Laura Vargas-Melisa Marinsaldi,Introductory,Biology & Life Sciences,Español,Español,29.0,4,1,2
+414,"Introducción al griego clásico: lengua, nombres y mitología","18,849",Self-paced on your time,Universidad Autónoma de Madrid,Helena González-Vaquerizo-Araceli Striano Corrochano-Raquel Fornieles Sánchez,Introductory,Language,Español,Español,49.0,5,4,5
+415,Deep Learning Fundamentals with Keras,"32,140",Self-paced on your time,IBM,Alex Aklson,Intermediate,Data Analysis & Statistics,English,English,99.0,5,2,4
+416,Existential Well-being Counseling: A Person-centered Experiential Approach,"48,439",Self-paced on your time,KU Leuven University,Mia Leijssen-Siebrecht Vanhooren,Introductory,Humanities,English,English,49.0,12,6,8
+417,Solid Waste Management,"7,668",Self-paced on your time,World Bank Group,OLC and SURR ,Introductory,Environmental Studies,English,English,5.0,6,2,3
+418,Retail Fundamentals,"37,558",Self-paced on your time,Dartmouth College,Santiago Gallino-Antonio Moreno-Garcia,Intermediate,Business & Management,English,English,99.0,4,3,5
+419,Greatest Unsolved Mysteries of the Universe,"93,965",Self-paced on your time,Australian National University,Brian Schmidt-Paul Francis,Intermediate,Physics,English,English,50.0,9,2,4
+420,"Money Markets, Foreign Exchange and Time Value of Money","12,230",Self-paced on your time,NYIF,Jack Farmer-Chris Thomas,Introductory,Economics & Finance,English,English,199.0,4,1,2
+421,Gestión de Contenidos Digitales y Marketing Turístico de Ciudad,"14,627",Self-paced on your time,Pontificia Universidad Javeriana,Hernán Restrepo-Mario Enrique Morales Rincón-Adriana Caicedo Caicedo-Omar Gamboa,Introductory,Communication,Español,Español,49.0,4,9,10
+422,Designing the User Experience,"6,416",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Cait von Schnetlage,Introductory,Business & Management,English,English,199.0,4,2,3
+423,Introduction to Bioconductor,"36,370",Self-paced on your time,Harvard University,Rafael Irizarry-Michael Love-Vincent Carey,Intermediate,Data Analysis & Statistics,English,English,149.0,4,2,4
+424,Connected Strategy,"10,355",Self-paced on your time,The Wharton School of the University of Pennsylvania,Nicolaj Siggelkow-Christian Terwiesch,Intermediate,Business & Management,English,English,199.0,6,2,4
+425,Hybrid Vehicles,"18,294",Instructor-led on a course schedule,Chalmers University of Technology,Sven Andersson-Anders Grauers,Advanced,Engineering,English,English,249.0,6,10,20
+426,First Nights - Handel's Messiah and Baroque Oratorio,"18,029",Self-paced on your time,Harvard University,Thomas Forrest Kelly,Introductory,Humanities,English,English,49.0,3,3,5
+427,Statistical Inference and Modeling for High-throughput Experiments,"51,590",Self-paced on your time,Harvard University,Rafael Irizarry-Michael Love,Intermediate,Data Analysis & Statistics,English,English,149.0,4,2,4
+428,First Nights - Monteverdi’s L’Orfeo and the Birth of Opera,"13,300",Self-paced on your time,Harvard University,Thomas Forrest Kelly,Introductory,Humanities,English,English,49.0,3,3,5
+429,18th-Century Opera: Handel & Mozart,"18,331",Self-paced on your time,Harvard University,Thomas Forrest Kelly,Introductory,Music,English,English,99.0,5,3,4
+430,Introduction to video game development with Unity,"7,605",Self-paced on your time,Universitat Politècnica de Valencia,Jordi Linares Pellicer,Intermediate,Computer Science,English,English,50.0,6,3,4
+431,Best Practices for Project Management Success,"46,610",Self-paced on your time,Rochester Institute of Technology,Leonie Fernandes,Intermediate,Business & Management,English,English,150.0,11,8,12
+432,Fundamentos de la Tecnología Blockchain,"5,473",Self-paced on your time,Pontificia Universidad Javeriana,Juan Pablo Mejía Caicedo,Introductory,Economics & Finance,Español,Español,49.0,5,7,10
+433,Información financiera y su análisis,"5,473",Self-paced on your time,Tecnológico de Monterrey,Iván Adolfo Valdovinos Hernández,Advanced,Economics & Finance,Español,Español,49.99,4,5,8
+434,Coaching Skills for Learner-Centred Conversations,"8,089",Self-paced on your time,Imperial College London,Arti Maini,Introductory,Education & Teacher Training,English,English,49.0,4,1,2
+435,Intellectual Property Law and Policy: Part 1,"43,993",Self-paced on your time,University of Pennsylvania,R. Polk Wagner,Intermediate,Law,English,English,169.0,6,2,3
+436,Robotics,"68,199",Instructor-led on a course schedule,Columbia University,Matei Ciocarlie,Advanced,Computer Science,English,English,249.0,10,8,10
+437,La gestion des ressources humaines,"6,824",Self-paced on your time,HEC Montréal,Richard Blain-Patrick Dubé,Introductory,Business & Management,Français,Français,99.0,7,1,2
+438,Writing for Social Justice,"9,927",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Introductory,Humanities,English,English,50.0,4,4,5
+439,Steps in Japanese for Beginners1 Part2,"8,080",Self-paced on your time,Waseda University,Naoko Kinoshita,Introductory,Language,English,"English, 日本語",99.0,5,3,5
+440,Case Studies in Functional Genomics,"26,850",Self-paced on your time,Harvard University,Rafael Irizarry-Michael Love-Vincent Carey,Advanced,Data Analysis & Statistics,English,English,149.0,5,2,4
+441,Essential Career Skills for Investment Banking and Finance,"11,655",Self-paced on your time,NYIF,Jerome Wong,Introductory,Business & Management,English,English,49.0,2,3,4
+442,Data Structures and Software Design,"30,609",Self-paced on your time,University of Pennsylvania,Chris Murphy,Intermediate,Computer Science,English,English,149.0,4,8,10
+443,Unconscious Bias: From Awareness to Action,"26,659",Self-paced on your time,Catalyst,Vandana Juneja,Introductory,Communication,English,English,49.0,3,1,2
+444,Cybersecurity for Critical Urban Infrastructure,"5,306",Self-paced on your time,Massachusetts Institute of Technology,Dr. Lawrence Susskind-Jungwoo Chun-Gregory Falco-Daniel Weitzner,Advanced,Computer Science,English,English,100.0,4,3,5
+445,"Agile Process, Project, and Program Controls","16,339",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",John Johnson,Advanced,Engineering,English,English,199.0,4,2,3
+446,Risk Management in Development Projects,"13,263",Self-paced on your time,Inter-American Development Bank,Vanessa Sayos del Castillo-Santiago Fretes-Allan Quijano,Intermediate,Business & Management,English,English,25.0,10,2,3
+447,"Pintura europea: Leonardo, Rembrandt, Goya","32,635",Self-paced on your time,Universidad Carlos III de Madrid,Alejandro Vergara,Introductory,Humanities,Español,Español,29.0,7,2,3
+448,Risk & Return,"21,970",Self-paced on your time,Columbia University,Daniel Wolfenzon,Introductory,Business & Management,English,English,225.0,4,3,4
+449,Project Management of Engineering Projects: Preparing for Success,"42,834",Instructor-led on a course schedule,Delft University of Technology,Hans L. M. Bakker-Marcel J. C. M. Hertogh-Marian G. C. Bosch-Rekveldt,Intermediate,Business & Management,English,English,99.0,10,4,6
+450,Supply Chain Dynamics,"75,464",Instructor-led on a course schedule,Massachusetts Institute of Technology,Chris Caplice-Yossi Sheffi-Bruce Arntzen-Alexis Bateman,Advanced,Business & Management,English,English,299.0,13,8,12
+451,AWS Developer: Building on AWS,"54,249",Self-paced on your time,Amazon Web Services,Russell Sayers-Heiwad Osman,Advanced,Computer Science,English,English,149.0,6,3,4
+452,Financial Accounting Made Fun: Eliminating Your Fears,"36,787",Self-paced on your time,Babson College,Peter Wilson,Introductory,Business & Management,English,English,199.0,4,4,6
+453,PredictionX: John Snow and the Cholera Epidemic of 1854,"17,713",Self-paced on your time,Harvard University,Alyssa Goodman,Introductory,History,English,English,25.0,1,3,5
+454,Gestión de operaciones,"9,512",Self-paced on your time,Universidad Nacional de Córdoba,Fernando Perotti,Introductory,Business & Management,Español,"English, Español",119.0,6,5,7
+455,Microeconomics & Business,"10,962",Self-paced on your time,Doane University,"Arinna Butler Roxa, MBA",Introductory,Economics & Finance,English,English,79.0,8,10,18
+456,Inteligencia artificial: Chatbots sin programación,"5,001",Self-paced on your time,IBM,Antonio Cangiano,Introductory,Computer Science,Español,English,49.0,2,2,4
+457,Diseño e innovación de modelo de negocios,"7,180",Self-paced on your time,Tecnológico de Monterrey,Luis Antonio Marquez-Heine,Advanced,Business & Management,Español,English,99.0,4,5,8
+458,Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs),"29,171",Self-paced on your time,World Bank Group,Julius Gwyer-Demet Cabbar-Ian MacDonald-Sander Glas,Introductory,Economics & Finance,English,English,5.0,4,4,6
+459,Business Communication,,Self-paced on your time,Rochester Institute of Technology,Andrea Hickerson-Keri Barone,Introductory,Communication,English,English,199.0,3,4,6
+460,Gestão de riscos em projetos,"8,771",Self-paced on your time,Inter-American Development Bank,Vanessa Sayos del Castillo-Santiago Fretes-Tiago Pena Pereira,Intermediate,Business & Management,Português,Português,25.0,10,3,4
+461,Vocal Recording Technology,"52,369",Self-paced on your time,Berklee College of Music,Prince Charles Alexander,Introductory,Engineering,English,English,49.0,6,5,6
+462,Agua 2.0: empresas eficientes para el siglo XXI,,Self-paced on your time,Inter-American Development Bank,Sergio Campos-Corinne Cathala-Federico Pérez,Introductory,Business & Management,Español,Español,25.0,8,2,3
+463,IoT Sensors and Devices,"33,072",Self-paced on your time,Curtin University,Iain Murray AM-Cesar Ortega-Sanchez,Introductory,Computer Science,English,English,199.0,5,4,6
+464,Introducción a las tecnologías para la Educación,"31,533",Self-paced on your time,Universitat Politècnica de Valencia,Miguel Ferrando Bataller-Ignacio Despujol-Linda Castañeda Quintero,Introductory,Computer Science,Español,Español,49.0,5,3,4
+465,Fundamentos de la guitarra eléctrica y acústica,"13,124",Self-paced on your time,Berklee College of Music,Thaddeus Hogarth,Introductory,Music,Español,Español,49.0,6,2,5
+466,e-Learning on Digital Agriculture,"6,238",Self-paced on your time,World Bank Group,OLC and SURR ,Introductory,Environmental Studies,English,English,5.0,5,2,3
+467,Exploring GraphQL: A Query Language for APIs,"9,503",Self-paced on your time,The Linux Foundation,Allison Colyer-Rohit Ravikoti,Introductory,Computer Science,English,English,149.0,7,1,2
+468,EmSAT English Preparation - Level 2,"7,346",Self-paced on your time,United Arab Emirates University,Kevin Rooney,Intermediate,Language,English,English,49.0,6,2,3
+469,The Data Science Method,"7,868",Self-paced on your time,IBM,Alex Aklson,Introductory,Data Analysis & Statistics,English,English,39.0,7,3,7
+470,"Plato, Socrates, and the Birth of Western Philosophy | 西方哲学精神探源","21,291",Self-paced on your time,Tsinghua University,Xiaochao Wang,Introductory,Humanities,English,"English, 中文",49.0,16,1,3
+471,"Cosmic Rays, Dark Matter, and the Mysteries of the Universe","12,888",Self-paced on your time,Waseda University,Shoji Torii-Holger Motz,Intermediate,Physics,English,English,49.0,4,3,5
+472,Macroeconomic Diagnostics,"23,408",Self-paced on your time,The International Monetary Fund,Dimitre Milkov-Evan Tanner-Adolfo Barajas-Maksym Ivanyna,Intermediate,Economics & Finance,English,English,25.0,6,6,8
+473,BioStatistics,"14,937",Self-paced on your time,Doane University,Michael Kangas,Introductory,Biology & Life Sciences,English,English,79.0,8,5,10
+474,Results-Based Project Management: Monitoring and Evaluation,"32,810",Self-paced on your time,Wits University,Kieron Crawley-Candice Morkel-Takunda Chirau,Intermediate,Business & Management,English,English,199.0,8,3,4
+475,Estrategias y estilos de negociación,"12,639",Self-paced on your time,Tecnológico de Monterrey,Daniel Meade Monteverde-Luz María Vargas Reguer,Introductory,Business & Management,Español,English,149.0,4,5,8
+476,Políticas efectivas de desarrollo infantil,"64,387",Self-paced on your time,Inter-American Development Bank,Florencia Lopez Boo,Intermediate,Social Sciences,Español,"English, Español, Português",25.0,10,4,5
+477,Alzheimer’s Disease & Dementia Care,"5,763",Self-paced on your time,Salisbury University-University System of Maryland,Mary DiBartolo,Intermediate,Medicine,English,English,49.0,5,2,3
+478,Understanding Classroom Interaction,"27,114",Self-paced on your time,University of Pennsylvania,Betsy R. Rymes,Introductory,Education & Teacher Training,English,English,49.0,5,2,3
+479,Sign Language Science: Emergence and Evolution of Sign Language,"8,313",Self-paced on your time,Georgetown University,Ted Supalla,Introductory,Language,English,English,99.0,4,3,5
+480,International Humanitarian Law,"31,419",Self-paced on your time,Université catholique de Louvain,Raphaël Van Steenberghe-Jerôme de Hemptinne,Advanced,Law,English,English,150.0,12,4,12
+481,"Educación de calidad para todos: equidad, inclusión y atención a la diversidad","25,111",Self-paced on your time,Universidad Autónoma de Madrid,Gerardo Echeita-Elena Martin-Marta Sandoval-Cecilia Simón,Introductory,Education & Teacher Training,Español,Español,49.0,6,3,5
+482,Introduction to Astrophysics,"20,802",Self-paced on your time,École polytechnique fédérale de Lausanne,Frédéric COURBIN-Vivien Bonvin-Thibault Kuntzer-Pierre North,Introductory,Physics,English,English,139.0,7,3,4
+483,Epidemics I,"10,618",Self-paced on your time,University of Hong Kong,Gabriel M. Leung-Kwok-Yung Yuen-Joseph Wu-Mark Jit,Introductory,Medicine,English,"English, 中文, 中文",139.0,5,2,3
+484,Introducción a la genética y la evolución,"15,297",Self-paced on your time,Universidad Autónoma de Madrid,Miguel Pita Domínguez,Introductory,Biology & Life Sciences,Español,Español,49.0,3,2,3
+485,Fundamentals of Macroeconomics,"17,820",Self-paced on your time,Universidad Carlos III de Madrid,Ángel Hernando-Veciana-Esteban Nicolini,Introductory,Economics & Finance,English,English,129.0,6,2,3
+486,"Blockchain and FinTech: Basics, Applications, and Limitations","22,011",Self-paced on your time,University of Hong Kong,Siu Ming Yiu,Introductory,Computer Science,English,"English, 中文",199.0,6,3,4
+487,Molecular Biology - Part 2: Transcription and Transposition,"18,168",Self-paced on your time,Massachusetts Institute of Technology,Stephen P. Bell-Tania A. Baker-Mary Ellen Wiltrout-Nathaniel Schafheimer,Advanced,Biology & Life Sciences,English,"English, 中文",99.0,7,4,8
+488,"One Planet, One Ocean","12,166",Self-paced on your time,SDG Academy,Martin Visbeck-Avan Antia,Intermediate,Environmental Studies,English,English,49.0,6,4,6
+489,Reputation Management in a Digital World,"39,672",Self-paced on your time,Curtin University,Bridget Tombleson-Katharina Wolf,Intermediate,Communication,English,English,99.0,6,3,4
+490,Google Ads: publicidad efectiva,"12,084",Self-paced on your time,Universidad Galileo,Jojo Giuffra-Miguel Morales,Introductory,Business & Management,Español,Español,49.0,5,2,4
+491,Introducción a la energía solar fotovoltaica: El módulo fotovoltaico,"14,673",Self-paced on your time,Universitat Politècnica de Valencia,Salvador Seguí Chilet,Intermediate,Engineering,Español,Español,50.0,4,3,4
+492,Computer Vision Fundamentals with Watson and OpenCV,"7,032",Self-paced on your time,IBM,Yi Leng Yao-Sacchit Chadha-Nayef Abou Tayoun,Introductory,Computer Science,English,English,99.0,14,7,14
+493,Japanese Business Management,"14,852",Self-paced on your time,Waseda University,Jusuke JJ Ikegami,Intermediate,Business & Management,English,English,129.0,4,3,5
+494,Introduction to Cloud Computing,,Self-paced on your time,IBM,Rav Ahuja,Introductory,Computer Science,English,English,49.0,6,1,2
+495,Fundamentos de logística,"7,397",Self-paced on your time,LOGYCA,Pedro Alejandro Aguilar Santamaría-Jesus David Valencia Escarraga,Introductory,Engineering,Español,Español,29.0,5,4,8
+496,Sustainable Urban Development,"45,760",Self-paced on your time,Delft University of Technology-Wageningen University & Research-Delft University & Wageningen University,Arjan van Timmeren-Huub H.M. Rijnaarts-Mariette Overschie-Marc Spiller,Introductory,Social Sciences,English,English,50.0,7,4,6
+497,Introduction to Biomedical Imaging,"56,485",Self-paced on your time,The University of Queensland,Graham Galloway-David Reutens-Ian Brereton-Gail Durbridge,Introductory,Medicine,English,English,99.0,12,4,5
+498,Introducción a la programación en Java: empezando a programar,"23,321",Self-paced on your time,Universidad Carlos III de Madrid,Carlos Delgado Kloos-Carmen Fernández Panadero-Iria Estévez-Ayres-Jorge Blasco,Introductory,Computer Science,Español,Español,49.0,5,7,10
+499,"Circuits and Electronics 2: Amplification, Speed, and Delay","9,665",Self-paced on your time,Massachusetts Institute of Technology,Anant Agarwal-Gerald Sussman-Piotr Mitros-Chris Terman,Intermediate,Electronics,English,"English, 中文",169.0,5,7,9
+500,China’s Political and Intellectual Foundations: From Sage Kings to Confucius,"47,083",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby,Introductory,History,English,"English, 中文",139.0,15,1,3
+501,Introduction to DevOps and Site Reliability Engineering,"8,697",Self-paced on your time,The Linux Foundation,Gourav Shah,Introductory,Computer Science,English,English,149.0,10,1,2
+502,SQL aplicado en la  ciencia de datos,,Self-paced on your time,IBM,Rav Ahuja,Introductory,Data Analysis & Statistics,Español,Español,39.0,4,2,4
+503,Sign Language Science: Factors Contributing to Nature Structure,,Self-paced on your time,Georgetown University,Ted Supalla,Introductory,Language,English,English,99.0,4,3,5
+504,Gender and Intersectionality,,Self-paced on your time,The University of Iceland,Giti Chandra-Thomas Brorsen Smidt,Introductory,Humanities,English,English,50.0,6,2,5
+505,Digital Transformation in Business,"10,118",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Henry Lucas-Ritu Agarwal-Anandasivam Gopal-Joseph P. Bailey,Advanced,Business & Management,English,English,214.0,7,8,10
+506,Designing and Creating Trousers,"7,544",Self-paced on your time,The Hong Kong Polytechnic University,Tanya Dove-Jalice Cheng-Kristina Shin-Marco Rebora,Introductory,Design,English,English,99.0,5,3,5
+507,Introducción a la teoría política: conceptos y grandes pensadores,"11,741",Self-paced on your time,Università degli Studi di Napoli Federico II,Fernando Vallespín,Introductory,Social Sciences,Español,Español,59.0,7,4,6
+508,"Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion","11,426",Self-paced on your time,SDG Academy,Joshua Castellino-Sarah Bradshaw,Intermediate,Social Sciences,English,"English, Русский",49.0,11,2,4
+509,Industry 4.0: How to Revolutionize your Business,"28,404",Self-paced on your time,The Hong Kong Polytechnic University,Eric Tsui-Jay Lee-Norbert Gronau-Doug Vogel,Introductory,Business & Management,English,English,50.0,6,6,8
+510,Desafíos y oportunidades en la economía digital,"47,792",Self-paced on your time,Inter-American Development Bank,Ana María Rodríguez-Ortiz-Ignacio De León-Miguel Porrúa-María Inés Vasquez Rossi,Introductory,Economics & Finance,Español,Español,25.0,10,2,3
+511,Pensamiento crítico: toma de decisiones razonadas,"16,853",Self-paced on your time,Tecnológico de Monterrey,Eduardo Pérez Gorostieta,Introductory,Business & Management,Español,Español,149.0,4,5,8
+512,"MathTrackX: Polynomials, Functions and Graphs",,Self-paced on your time,University of Adelaide,Dr Danny Stevenson-Dr David Butler-Dr Brendan Harding-Dr Melissa Humphries,Introductory,Math,English,English,79.0,4,3,6
+513,Sustainable Food Security: Crop Production,"35,367",Self-paced on your time,Wageningen University & Research,Ken Giller-​Harrie Lovenstein-Gerrie van de Ven,Intermediate,Biology & Life Sciences,English,English,49.0,6,6,8
+514,Network and Security Foundations,"7,301",Self-paced on your time,Western Governors University,Gerri Light-Ryan Whisler,Introductory,Computer Science,English,English,299.7,8,9,10
+515,Cannabis Cultivation and Processing,"7,419",Self-paced on your time,Doane University,"Dan Ricker-Jazmin Oliver-Andrea Holmes, PhD",Introductory,Environmental Studies,English,English,179.0,3,5,10
+516,"Data, Models and Decisions in Business Analytics","36,289",Instructor-led on a course schedule,Columbia University,,Advanced,Business & Management,English,,249.0,12,8,10
+517,Data Structures Fundamentals,"42,381",Self-paced on your time,"The University of California, San Diego",Daniel Kane-Alexander S. Kulikov-Michael Levin-Neil Rhodes,Intermediate,Computer Science,English,English,99.0,6,8,10
+518,Shaping Work of the Future,"22,246",Self-paced on your time,Massachusetts Institute of Technology,Thomas Kochan-Barbara Dyer-Elisabeth Reynolds-Inez von Weitershauen,Introductory,Business & Management,English,English,49.0,8,4,5
+519,Introducción a la robótica e industria 4.0,"7,056",Self-paced on your time,Universidades Anáhuac,Luis Alberto Muñoz Ubando-David Alberto Sansores Peraza-Daniel Alejandro Sansores Peraza,Introductory,Computer Science,Español,Español,49.0,3,4,5
+520,Fighting for Equality: 1950–2018,"9,274",Self-paced on your time,Columbia University,Alice Kessler-Harris-Nick Juravich-Columbia University Center for Teaching and Learning-New-York Historical Society,Intermediate,History,English,English,50.0,10,2,3
+521,"Design Thinking: Ideation, Iteration and Communication","14,629",Self-paced on your time,Rochester Institute of Technology,Mike Johansson,Intermediate,Business & Management,English,English,299.0,6,8,12
+522,Negotiation Strategies and Styles,,Self-paced on your time,Tecnológico de Monterrey,Luz María Vargas Reguer-Daniel Meade Monteverde,Intermediate,Business & Management,English,English,149.0,4,5,8
+523,Crear música con tecnología,"10,961",Self-paced on your time,Berklee College of Music,Loudon Sterns,Introductory,Music,Español,Español,49.0,6,3,5
+524,Análisis de datos: Diseño y Visualización de Tableros,"18,368",Self-paced on your time,Delft University of Technology,Felienne Hermans,Intermediate,Computer Science,Español,"English, Español",49.0,8,4,6
+525,Comunicación estratégica: gestión de crisis e imagen pública,"7,017",Self-paced on your time,Pontificia Universidad Javeriana,Andrés Ricardo Quintero,Introductory,Communication,Español,Español,49.0,4,2,4
+526,"Understanding Agribusiness, Value Chains, and Consumers in Global Food Systems","14,052",Self-paced on your time,University of Adelaide,Professor Wendy Umberger-Elizabeth Gunner-Craig Johns-Dr. Alexandra Peralta,Intermediate,Business & Management,English,English,199.0,4,2,3
+527,Unlocking Information Security: Part II,"6,426",Self-paced on your time,IsraelX-Tel Aviv University,Avishai Wool-Dan Gittik,Intermediate,Computer Science,English,"اللغة العربية, English, עברית",149.0,6,4,6
+528,Human Rights Defenders,"27,338",Self-paced on your time,Amnesty International,Amnesty International,Introductory,Social Sciences,English,English,49.0,4,4,5
+529,Product Design: The Delft Design Approach,"87,539",Self-paced on your time,Delft University of Technology,Annemiek van Boeijen-Jaap J.J. Daalhuizen,Intermediate,Business & Management,English,English,79.0,7,6,8
+530,Introduction to Psychology | 心理学概论,"30,731",Self-paced on your time,Tsinghua University,Kaiping Peng,Introductory,Philosophy & Ethics,中文,English,139.0,13,3,5
+531,Circuits and Electronics 3: Applications,"9,347",Self-paced on your time,Massachusetts Institute of Technology,Anant Agarwal-Gerald Sussman-Piotr Mitros-Chris Terman,Intermediate,Electronics,English,"English, 中文",169.0,7,8,10
+532,Vaccines: from smallpox to technologies of the future,"6,166",Self-paced on your time,KU Leuven University,Johan Neyts-Corinne Vandermeulen-Steven Van Gucht-Marta Romano,Intermediate,Medicine,English,English,49.0,6,3,5
+533,Le management,"6,273",Self-paced on your time,HEC Montréal,Gilles Cazabon,Introductory,Business & Management,Français,Français,149.0,5,2,3
+534,Circular Economy for a Sustainable Built Environment,"8,032",Self-paced on your time,Delft University of Technology,Tillmann Klein-Marcel Bilow-Arnout Sabbe-Mo Smit,Intermediate,Architecture,English,English,50.0,6,3,5
+535,Agile Innovation and Problem Solving Skills,"12,667",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",John Johnson,Advanced,Engineering,English,English,199.0,4,2,3
+536,International Investment Law,"23,335",Instructor-led on a course schedule,Université catholique de Louvain,Yannick Radi,Advanced,Law,English,English,150.0,10,6,8
+537,Animation and CGI Motion,"36,827",Instructor-led on a course schedule,Columbia University,Eitan Grinspun,Advanced,Computer Science,English,English,249.0,12,8,10
+538,Terrorism and Counterterrorism,"28,580",Self-paced on your time,Georgetown University,Daniel Byman-Christine Fair-Bruce Hoffman-Paul Pillar,Introductory,Humanities,English,English,49.0,7,8,10
+539,Découvrir le marketing,"30,030",Instructor-led on a course schedule,Université catholique de Louvain,Chantal de Moerloose-Claude Pecheux-Anne-Laure Bartier,Intermediate,Business & Management,Français,Français,150.0,10,3,5
+540,Solar Energy: Photovoltaic (PV) Energy Conversion,"38,041",Instructor-led on a course schedule,Delft University of Technology,Arno Smets-Miro Zeman-René van Swaaij,Advanced,Engineering,English,English,250.0,12,10,11
+541,Introduction to Actuarial Science,"52,667",Self-paced on your time,Australian National University,Adam Butt,Introductory,Data Analysis & Statistics,English,English,49.0,8,2,4
+542,PredictionX: Lost Without Longitude,"9,114",Self-paced on your time,Harvard University,Alyssa Goodman,Introductory,History,English,English,49.0,1,2,5
+543,Information Technology Foundations,"6,388",Self-paced on your time,Western Governors University,Gerri Light-Ryan Whisler,Introductory,Computer Science,English,English,399.6,6,9,10
+544,Introducción a la Inteligencia Artificial de Watson,,Self-paced on your time,IBM,Rav Ahuja,Introductory,Computer Science,Español,Español,49.0,8,4,8
+545,Dealing with Power and Dynamics: Discover Your Leadership Style and Influence Stakeholders,"16,013",Self-paced on your time,Delft University of Technology,Hans de Bruijn-Gerdien de Vries,Intermediate,Business & Management,English,English,125.0,5,4,5
+546,Instructional Design and Technology: Learning Theories,"21,296",Instructor-led on a course schedule,University System of Maryland-University of Maryland Global Campus,Randy Hansen,Intermediate,Education & Teacher Training,English,English,299.0,8,8,10
+547,"Algorithms: Design and Analysis, Part 2",,Self-paced on your time,Stanford University,Tim Roughgarden,Intermediate,Computer Science,English,English,149.0,6,2,4
+548,The Math of Data Science: Linear Algebra,"6,746",Self-paced on your time,Rice University,Stephen Wang,Intermediate,Math,English,English,159.0,8,6,8
+549,Introducción al quirófano,,Self-paced on your time,Universidades Anáhuac,Fernando Azcoitia Moraila,Intermediate,Medicine,Español,Español,49.0,6,3,4
+550,The Hardware of a Quantum Computer,"20,052",Self-paced on your time,Delft University of Technology,Lieven Vandersypen-Menno Veldhorst-Koen Bertels-Leo Di Carlo,Intermediate,Physics,English,English,79.0,6,6,8
+551,Grabar y mezclar música,"10,856",Self-paced on your time,Berklee College of Music,Peter Bell,Introductory,Music,Español,Español,49.0,4,3,5
+552,Leadership focused on Human Flourishing,,Self-paced on your time,Tecnológico de Monterrey,Santiago José Vázquez Blanco,Intermediate,Business & Management,English,English,149.0,4,5,8
+553,Automata Theory,,Self-paced on your time,Stanford University,Jeffrey D. Ullman,Advanced,Computer Science,English,English,129.0,7,5,10
+554,¡Conceptos básicos de Python para Data Science!,,Self-paced on your time,IBM,Joseph Santarcangelo,Introductory,Data Analysis & Statistics,Español,Español,49.0,5,2,5
+555,Herramientas para el Análisis de Big Data,"8,118",Self-paced on your time,Tecnológico de Monterrey,Jesús Aguilar,Intermediate,Data Analysis & Statistics,Español,Español,49.0,4,3,5
+556,Foundations of Central Bank Law,"6,169",Self-paced on your time,The International Monetary Fund,Wouter Bossu-Hans Weenink-Catalina Margulis-Jess Cheng,Intermediate,Law,English,English,25.0,6,2,6
+557,C Programming: Modular Programming and Memory Management,"18,690",Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Petra Bonfert-Taylor-Rémi Sharrock,Introductory,Computer Science,English,English,49.0,7,2,4
+558,Enseñanza temprana de matemáticas y ciencias,"8,250",Self-paced on your time,Inter-American Development Bank,Rosangela Bando-Emma Naslund-Hadley,Introductory,Education & Teacher Training,Español,Español,25.0,10,1,2
+559,Entrepreneurship 102: What can you do for your customer?,"11,275",Self-paced on your time,Massachusetts Institute of Technology,Bill Aulet-Erdin Beshimov,Introductory,Business & Management,English,English,49.0,10,2,4
+560,Italian Language and Culture: Advanced (2019-2020),"24,667",Self-paced on your time,Wellesley College,Daniela Bartalesi-Graf,Advanced,Language,Italiano,Italiano,49.0,12,3,5
+561,Introduction to Marketing,,Self-paced on your time,The University of Edinburgh,Ewelina Lacka-Malcolm Kirkup-Asanka de Silva-Antonia Gieschen,Introductory,Business & Management,English,English,149.0,6,2,3
+562,Origins of the Human Mind,"11,812",Self-paced on your time,Kyoto University,Tetsuro Matsuzawa,Introductory,Science,English,English,49.0,5,2,3
+563,Introduction to Geometry,"61,824",Self-paced on your time,SchoolYourself,Zach Wissner-Gross-John Lee-Vivek Venkatachalam-Kenny Peng,Introductory,Math,English,English,50.0,14,4,6
+564,The Future of Work: Preparing for Disruption,"43,125",Self-paced on your time,World Bank Group,Federica Saliola-Aart Kraay-Truman G. Packard-Shwetlena Sabarwal,Introductory,Economics & Finance,English,"اللغة العربية, English, Español, Français, Русский, 中文",5.0,5,3,5
+565,Clinical Reasoning Process,"5,367",Self-paced on your time,Université de Montréal,Nathalie Caire Fon,Introductory,Medicine,English,English,149.0,6,2,4
+566,Datos para la efectividad de las políticas públicas,"80,425",Self-paced on your time,Inter-American Development Bank,Ivette Fis de Melo-Norma Palomino,Introductory,Data Analysis & Statistics,Español,Español,25.0,10,4,5
+567,Media Law,"7,253",Instructor-led on a course schedule,New York University,Beth Rosenberg-Erik Dykema,Introductory,Art & Culture,English,English,249.0,14,8,10
+568,Líderes para la Gestión en Seguridad Ciudadana y Justicia,"12,826",Self-paced on your time,Inter-American Development Bank,Olga Espinoza-Eduardo Pazinato-Alejandra Mera-Hung-En Sung,Intermediate,Social Sciences,Español,Español,25.0,10,4,5
+569,"Diseña, fabrica y programa tu propio robot","25,024",Self-paced on your time,Universitat Politècnica de Valencia,Leopoldo Armesto Ángel,Introductory,Engineering,Español,Español,75.0,6,8,10
+570,Pivoting to Online Teaching: Research and Practitioner Perspectives,"5,289",Self-paced on your time,University of Texas at Arlington,George Siemens-Justin Dellinger-Matt Crosslin-Tanya Joosten,Introductory,Education & Teacher Training,English,English,139.0,6,3,5
+571,Circular Economy: An Interdisciplinary Approach,"10,281",Self-paced on your time,Wageningen University & Research,Emiel Wubben-Alistair Beames-Gert Jan Hofstede-Dr. Kim Poldner,Advanced,Business & Management,English,English,149.0,6,16,24
+572,Calculus 1B: Integration,"44,669",Instructor-led on a course schedule,Massachusetts Institute of Technology,David Jerison-Gigliola Staffilani-Jennifer French-Karene Chu,Intermediate,Math,English,English,100.0,15,6,10
+573,Algorithmic Design and Techniques,"40,620",Self-paced on your time,"The University of California, San Diego",Pavel Pevzner-Daniel Kane-Alexander S. Kulikov-Michael Levin,Intermediate,Computer Science,English,English,99.0,6,8,10
+574,Drinking Water Treatment,"51,918",Self-paced on your time,Delft University of Technology,Luuk Rietveld-Doris van Halem,Intermediate,Engineering,English,English,50.0,7,6,8
+575,Fundamentos de información financiera y contable,"7,789",Self-paced on your time,Universidades Anáhuac,Laura Avila Rodríguez-Lourdes Rojas Cataño,Intermediate,Economics & Finance,Español,Español,49.0,5,5,7
+576,Les principes de la finance,"44,037",Self-paced on your time,Université catholique de Louvain,Catherine D'Hondt-Isabelle Platten,Intermediate,Business & Management,Français,Français,150.0,13,4,7
+577,Music Technology Foundations,"34,550",Self-paced on your time,University of Adelaide,Luke Harrald-Christian Haines-Stephen Whittington,Introductory,Computer Science,English,English,169.0,6,2,3
+578,The Entrepreneurial Mindset,"31,077",Self-paced on your time,Babson College,Dennis J. Ceru,Introductory,Business & Management,English,English,149.0,6,4,6
+579,"Anatomy: Gastrointestinal, Reproductive and Endocrine Systems","26,453",Self-paced on your time,The University of Michigan,Kathleen Alsup-Glenn M. Fox-Kelli A. Sullivan,Introductory,Biology & Life Sciences,English,English,49.0,5,2,3
+580,Risk Management and Credit Principles,"9,028",Self-paced on your time,NYIF,Tracy Williams,Advanced,Economics & Finance,English,English,199.0,6,2,3
+581,Steps in Japanese for Beginners1 Part3,"6,169",Self-paced on your time,Waseda University,Naoko Kinoshita-Kaori Sano-Yukiyo HAMAKAWA,Introductory,Language,English,English,99.0,5,3,5
+582,Structural Materials: Selection and Economics,"9,752",Self-paced on your time,Massachusetts Institute of Technology,Thomas Eagar-Jessica Sandland,Introductory,Engineering,English,English,50.0,3,2,3
+583,Algorithm Design and Analysis,"39,137",Self-paced on your time,University of Pennsylvania,Sampath Kannan,Intermediate,Computer Science,English,English,149.0,4,6,8
+584,Estructuras de Datos con Python,,Self-paced on your time,The University of Michigan,Charles Severance,Introductory,Computer Science,Español,Español,49.0,7,2,4
+585,Mandarin Chinese for Business,"12,384",Self-paced on your time,MandarinX,Estella Chen,Intermediate,Language,English,English,149.0,6,4,10
+586,Bases Matemáticas: Números y terminología,"26,060",Self-paced on your time,Universitat Politècnica de Valencia,Antonio José Guirao Sánchez-Santiago Moll López,Intermediate,Math,Español,Español,50.0,4,3,4
+587,Arab-Islamic History: From Tribes to Empires,"17,321",Self-paced on your time,IsraelX-Tel Aviv University,Miri Shefer-Mossensohn,Introductory,Humanities,English,English,149.0,8,3,4
+588,Human-Computer Interaction I: Fundamentals & Design Principles,"9,010",Self-paced on your time,The Georgia Institute of Technology,David Joyner,Introductory,Computer Science,English,English,99.0,6,5,6
+589,Modeling and simulation of multibody systems,,Instructor-led on a course schedule,Université catholique de Louvain,Paul Fisette-Maxime Raison,Intermediate,Engineering,English,English,50.0,14,10,11
+590,The Science of Parenting,"37,538",Self-paced on your time,"The University of California, San Diego",David Barner,Introductory,Social Sciences,English,English,49.0,5,3,5
+591,Inclusive Teaching: Supporting All Students in the College Classroom,"9,899",Self-paced on your time,Columbia University,Columbia University Center for Teaching and Learning-Amanda M. Jungels-Chandani Patel-Amanda Irvin,Introductory,Education & Teacher Training,English,English,49.0,6,2,3
+592,Analytics for Decision Making,"31,031",Self-paced on your time,Babson College,Rick Cleary-Nathan Karst-Davit Khachatryan-George Recck,Introductory,Business & Management,English,English,249.0,4,4,6
+593,Principios de Análisis e Instrumentos Financieros,,Self-paced on your time,Universidades Anáhuac,Ricardo Cristhian Morales Pelagio-Joel Álvarez Bautista,Intermediate,Economics & Finance,Español,Español,49.0,5,5,7
+594,Energy Principles and Renewable Energy,"19,520",Instructor-led on a course schedule,The University of Queensland,Simon Smart,Advanced,Energy & Earth Sciences,English,English,375.0,14,10,12
+595,DNA: Biology’s Genetic Code,"35,162",Self-paced on your time,Rice University,Elizabeth Eich-Daniel J. Catanese,Intermediate,Biology & Life Sciences,English,English,169.0,6,4,6
+596,Music For Wellness,"19,728",Self-paced on your time,Berklee College of Music,Suzanne Hanser-Annette Philip,Introductory,Humanities,English,English,49.0,4,3,5
+597,Mining Massive Datasets,"5,311",Self-paced on your time,Stanford University,Jeffrey D. Ullman-Jure Leskovec-Anand Rajaraman,Advanced,Computer Science,English,English,149.0,7,5,10
+598,Introduction to Electrical and Electronic Engineering - 電気電子工学入門 -,"25,041",Self-paced on your time,Tokyo Institute of Technology,Akira Chiba-Akira Matsuzawa-Shinsuke Miyajima-Ayaka Saito,Introductory,Engineering,English,"English, 日本語",50.0,4,2,3
+599,A travel by Spanish America: Spanish for beginners,,Self-paced on your time,Universidad del Rosario,Diana Alejandra Hincapié Moreno-María Liliana Labrador Morales-Diana Rocío Umaña Buitrago,Introductory,Language,Español,Español,49.0,4,4,6
+600,Introducción a la Inteligencia Artificial,"11,184",Self-paced on your time,Universidades Anáhuac,Román Alberto Zamarripa Franco,Introductory,Computer Science,Español,Español,49.0,4,4,5
+601,Introducción a la Inteligencia Artificial: Principales Algoritmos,,Self-paced on your time,Universidad Galileo,Jorge Samayoa-Eduardo Corpeño-Preng Biba-Julio Fajardo,Introductory,Computer Science,Español,Español,49.0,4,4,5
+602,Digital Security and Human Rights,"11,443",Self-paced on your time,Amnesty International,Amnesty International,Introductory,Social Sciences,English,English,49.0,3,1,2
+603,Critical thinking: reasoned decision making,"6,923",Self-paced on your time,Tecnológico de Monterrey,Eduardo Pérez Gorostieta,Introductory,Business & Management,English,English,149.0,4,5,8
+604,Introduction to the Internet of Things,"7,581",Self-paced on your time,Universitat Politècnica de Valencia,Leopoldo Armesto Ángel,Introductory,Electronics,English,English,50.0,6,5,6
+605,Trading - Fundamentals of Technical Analysis,,Self-paced on your time,NYIF,Michael Carr,Introductory,Economics & Finance,English,English,199.0,6,2,3
+606,Riñones: conoce sus funciones para mejorar tu salud y calidad de vida,"20,261",Self-paced on your time,Universidad Autónoma de Madrid,Alberto Ortiz Arduan-María Dolores Sánchez Niño-María Vanessa Pérez Gómez,Introductory,Medicine,Español,Español,49.0,6,3,5
+607,Design Thinking: Empathizing to Understand the Problem,"13,340",Self-paced on your time,Rochester Institute of Technology,Jennifer Englert,Intermediate,Business & Management,English,English,299.0,6,8,12
+608,Storytelling in the Workplace,,Self-paced on your time,Rochester Institute of Technology,Ammina Kothari,Introductory,Communication,English,English,199.0,3,4,6
+609,Marketing Analytics: Price and Promotion Analytics,"41,021",Self-paced on your time,"University of California, Berkeley",Stephan Sorger,Intermediate,Computer Science,English,English,249.0,4,5,7
+610,Implementation of Data Structures,"27,761",Self-paced on your time,IITBombay,Deepak B. Phatak-Nagesh Karmali-Ajit Diwan-Ganesh Ramakrishnan,Intermediate,Computer Science,English,English,149.0,6,6,8
+611,Activism and Citizen Journalism through Media,"7,460",Self-paced on your time,Wits University,Paul McNally-Boikaego Seadira-Susan Stos-Zandile Mashaba,Introductory,Communication,English,English,49.0,4,2,3
+612,Electric and Conventional Vehicles,"22,089",Instructor-led on a course schedule,Chalmers University of Technology,Sven Andersson-Anders Grauers,Advanced,Engineering,English,English,249.0,6,10,20
+613,Big Data Fundamentals,"40,106",Self-paced on your time,University of Adelaide,Frank Neumann-Vahid Roostapour-Aneta Neumann-Wanru (Kelly) Gao,Intermediate,Computer Science,English,English,199.0,10,8,10
+614,Sustainable Food Security: The value of systems thinking,"26,600",Self-paced on your time,Wageningen University & Research,Gerrie van de Ven-I.J.M. de Boer-Carolien Kroeze-Eddie Bokkers,Introductory,Biology & Life Sciences,English,English,49.0,6,8,10
+615,Knowledge Management and Big Data in Business,"69,064",Self-paced on your time,The Hong Kong Polytechnic University,W.B. Lee-Klaus Tochtermann-Usama Fayyad-Eric Tsui,Introductory,Business & Management,English,English,50.0,8,6,8
+616,Uso efectivo del tiempo,"6,409",Self-paced on your time,Pontificia Universidad Javeriana,Alvaro Figueroa Cabrera,Introductory,Economics & Finance,Español,Español,49.0,6,6,8
+617,C Programming: Pointers and Memory Management,"19,171",Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Petra Bonfert-Taylor-Rémi Sharrock,Introductory,Computer Science,English,English,49.0,7,2,4
+618,Astrophysics: The Violent Universe,"65,711",Self-paced on your time,Australian National University,Brian Schmidt-Paul Francis,Intermediate,Physics,English,English,50.0,10,2,4
+619,Landscape Ecology,"8,644",Self-paced on your time,ETH Zurich,Felix Kienast-Gregor Martius-Janet Silbernagel-Sima Fakheran,Intermediate,Environmental Studies,English,English,50.0,14,2,4
+620,IoT Programming and Big Data,"21,591",Self-paced on your time,Curtin University,Iain Murray AM,Introductory,Computer Science,English,English,199.0,5,4,6
+621,AWS: Getting Started with Cloud Security,"8,192",Self-paced on your time,Amazon Web Services,Rudy Chetty-Hong Pham,Introductory,Computer Science,English,English,49.0,4,2,4
+622,Introducción a la gravedad cuántica de lazos,"7,360",Self-paced on your time,Universidad Nacional de Córdoba,Jorge Pullin,Introductory,Science,Español,"English, Español",50.0,5,5,7
+623,Introduction to the Music Business,"46,607",Self-paced on your time,Berklee College of Music,John P. Kellogg,Introductory,Business & Management,English,English,49.0,6,2,4
+624,Introducción a la programación en C: Tipos de datos y estructuras,"13,480",Self-paced on your time,Universidad Autónoma de Madrid,Germán Montoro Manrique-Alejandro Sierra Urrecho,Introductory,Computer Science,Español,Español,49.0,4,2,4
+625,Visualización de Datos y Storytelling,"5,980",Self-paced on your time,Tecnológico de Monterrey,Jesús Aguilar,Intermediate,Data Analysis & Statistics,Español,Español,49.0,4,3,5
+626,Negociación exitosa: Estrategias y habilidades esenciales (en español),,Self-paced on your time,The University of Michigan,George Siedel,Introductory,Business & Management,Español,Español,49.0,7,2,4
+627,"Feeding a Hungry Planet: Agriculture, Nutrition and Sustainability","10,488",Self-paced on your time,SDG Academy,Achim Dobermann-Ken Giller-Jessica Fanzo-Upmanu Lall,Intermediate,Environmental Studies,English,"English, Русский",49.0,7,3,5
+628,Macroeconomics - The Basics,,Self-paced on your time,Doane University,"Arinna Butler Roxa, MBA",Introductory,Economics & Finance,English,English,79.0,8,10,18
+629,Fundamentals of Financial Mathematics and Capital Budgeting,"5,410",Self-paced on your time,NYIF,Douglas Carroll,Introductory,Economics & Finance,English,English,99.0,4,1,2
+630,Gestión participativa: motivación y liderazgo organizacional,"23,441",Self-paced on your time,Universitat Politècnica de Valencia,Juan A. Marin-García-Cristina Santandreu Mascarell-Amable Juárez Tárrega,Intermediate,Business & Management,Español,Español,79.0,8,3,4
+631,Herramientas de ciencia de datos: uso práctico,,Self-paced on your time,IBM,Romeo Kienzler-Svetlana Levitan-Maureen McElaney,Introductory,Data Analysis & Statistics,Español,Español,39.0,7,3,7
+632,Bienestar para el desarrollo personal y profesional,,Self-paced on your time,Universidades Anáhuac,J. Armando Barriguete Meléndez-Adriana Viladoms Portugal,Intermediate,Health & Safety,Español,"English, Español",29.0,5,5,7
+633,Energía eléctrica: conceptos y principios básicos,"9,762",Self-paced on your time,Tecnológico de Monterrey,Manuel Macías García-Rodolfo Anaya Zamora-Cornelio Contreras Hinojosa,Intermediate,Engineering,Español,Español,49.0,7,4,5
+634,Market Segmentation Analysis,"17,055",Self-paced on your time,The University of Queensland,Sara Dolnicar-Bettina Grün-Friedrich Leisch,Intermediate,Business & Management,English,English,99.0,5,6,8
+635,Pensamento crítico: tomada de decisões fundamentadas,,Self-paced on your time,Tecnológico de Monterrey,Eduardo Pérez Gorostieta,Introductory,Business & Management,Português,Português,149.0,4,5,8
+636,AP® English Literature & Composition – Part 2: Poems,"5,719",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Introductory,Humanities,English,English,49.0,7,4,5
+637,"Electrical, Optical & Magnetic Materials and Devices","16,905",Self-paced on your time,Massachusetts Institute of Technology,Caroline Ross-Jessica Sandland,Intermediate,Engineering,English,English,150.0,16,8,12
+638,Advanced Cardiac Imaging: Cardiac Computed Tomography (CT),,Self-paced on your time,University of Hong Kong,Dr. Ming-Yen Ng-Dr. Varut Vince Vardhanabhuti-Guest speaker: Dr. Suhny Abbara-Guest speaker:  Dr. Ed Nicol,Introductory,Medicine,English,"English, Français, 中文, 中文",99.0,4,2,3
+639,How to Design a Successful Business Model,"33,656",Self-paced on your time,Delft University of Technology,Harry Bouwman-Mark de Reuver-Timber Haaker,Introductory,Business & Management,English,"Deutsch, English, Español, Français",99.0,8,2,4
+640,Ecodesign for Cities and Suburbs,"28,472",Self-paced on your time,University of British Columbia,Jonathan Barnett-Larry Beasley,Introductory,Environmental Studies,English,,99.0,6,4,5
+641,Agile Software Development,"37,158",Self-paced on your time,ETH Zurich,Bertrand Meyer,Introductory,Computer Science,English,English,50.0,6,2,3
+642,Diseño de sistemas de información gerencial para intranet con Microsoft Access,"9,144",Self-paced on your time,Universidad del Rosario,Claudia Alejandra Castillo Chavarro-Juan Manuel Sánchez Barrero,Intermediate,Computer Science,Español,Español,49.0,4,6,10
+643,Essentials of Program Strategy and Evaluation,,Self-paced on your time,Stanford University,Paul Brest,Introductory,Philanthropy,English,English,50.0,4,5,10
+644,Gestão de Projetos de Desenvolvimento,"28,337",Self-paced on your time,Inter-American Development Bank,Luiz Claudio Faria-Vanessa Sayos del Castillo-Ernesto Mondelo,Introductory,Business & Management,Português,Português,49.0,10,3,4
+645,Innovation: From Plan to Product,"12,918",Self-paced on your time,The University of Queensland,Tim Kastelle-Anna Jenkins-John Steen,Intermediate,Business & Management,English,English,249.0,10,8,10
+646,Introduction to Database Queries,,Self-paced on your time,New York University,Aspen Olmsted,Introductory,Computer Science,English,English,166.0,5,6,8
+647,Climate Change: Carbon Capture and Storage,"10,551",Self-paced on your time,The University of Edinburgh,Mathieu Lucquiaud-Mark Wilkinson-MennatAllah Labib,Introductory,Engineering,English,English,49.0,5,2,3
+648,Reservoir Geomechanics,"5,280",Self-paced on your time,Stanford University,Mark D. Zoback,Introductory,Energy & Earth Sciences,English,English,129.0,10,3,6
+649,Fundamentos de administración estratégica,,Self-paced on your time,Universidades Anáhuac,Gregorio Barcala Rubio-Mauricio De Anda Hernández,Intermediate,Business & Management,Español,Español,49.0,5,5,7
+650,IoT System Architecture: Design and Evaluation,"5,914",Self-paced on your time,Waseda University,Hironori Washizaki-Kenji Tei,Introductory,Computer Science,English,English,99.0,3,3,5
+651,Noongar Language and Culture,"10,858",Self-paced on your time,Curtin University,Marion Kickett-Simon Forrest,Introductory,Language,English,English,139.0,6,2,3
+652,Sorting Truth From Fiction: Civic Online Reasoning,,Instructor-led on a course schedule,Massachusetts Institute of Technology,Justin Reich-Sam Wineburg,Introductory,Education & Teacher Training,English,English,49.0,4,2,4
+653,Sustainable Food Security: Food Access,"18,943",Self-paced on your time,Wageningen University & Research,Marrit van den Berg-Hilde Bras-Jeroen Candel-Jessica Duncan,Introductory,Social Sciences,English,English,49.0,6,6,8
+654,Bases Matemáticas: Integrales,"23,703",Self-paced on your time,Universitat Politècnica de Valencia,Antonio José Guirao Sánchez,Introductory,Math,Español,Español,50.0,5,4,5
+655,Epidemics II,"8,565",Self-paced on your time,University of Hong Kong,Gabriel M. Leung-Joseph Wu-Guan Yi-Malik Peiris,Introductory,Medicine,English,"English, 中文, 中文",139.0,3,2,3
+656,Derechos humanos: Los derechos de las personas refugiadas,"28,398",Self-paced on your time,Amnesty International,Amnistía Internacional,Introductory,Humanities,Español,Español,49.0,3,3,5
+657,Sign Language Science: Factors Contributing to Natural Learning,,Self-paced on your time,Georgetown University,Ted Supalla,Introductory,Language,English,English,99.0,4,3,5
+658,Big Data Analytics,"43,009",Self-paced on your time,University of Adelaide,Lewis Mitchell-Simon Tuke-David Suter,Intermediate,Computer Science,English,English,199.0,10,8,10
+659,"A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods","6,594",Self-paced on your time,Imperial College London,Philip Ramsden-Phil Chaffe,Intermediate,Math,English,English,49.0,7,2,4
+660,ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible,"16,028",Self-paced on your time,Universitat Politècnica de Valencia,Carola Calabuig Tormo-María Ángeles Abellán López-Antonio Miguel Nogués Pedregal-Irene Belmonte Martín,Introductory,Social Sciences,Español,"English, Español",25.0,6,3,4
+661,Achieving Product-Market Fit,,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",James Green,Introductory,Business & Management,English,English,199.0,4,2,3
+662,Culture and Law: The East Asian Perspective,,Self-paced on your time,Waseda University,Maji C. Rhee,Introductory,Social Sciences,English,English,49.0,3,4,6
+663,Fundamentals of Market Structure,"32,049",Self-paced on your time,NYIF,Chris White,Introductory,Economics & Finance,English,English,25.0,1,1,2
+664,Protecting Children in Humanitarian Settings,"7,246",Self-paced on your time,Columbia University,Hanna-Tina Fischer-Mark Canavera-Michael G. Wessells,Intermediate,Social Sciences,English,English,50.0,12,3,5
+665,How to Achieve the Sustainable Development Goals,"12,719",Self-paced on your time,SDG Academy,Jeffrey D. Sachs,Intermediate,Environmental Studies,English,"English, Русский",49.0,7,4,6
+666,Aprendizaje y Enseñanza en la Era Digital,"16,954",Self-paced on your time,Universidad Galileo,Carlos Alario-Hoyos-Rocael Hernández-Miguel Morales-Mónica De La Roca,Intermediate,Education & Teacher Training,Español,Español,49.0,4,4,5
+667,From Atoms to Stars: How Physics Explains Our World,"15,914",Self-paced on your time,National Research Nuclear University,Andrey S. Olchak,Intermediate,Physics,English,"English, Русский",49.0,4,2,3
+668,The Threat of Nuclear Terrorism,,Self-paced on your time,Stanford University,William Perry,Introductory,History,English,English,50.0,5,1,5
+669,Introducción a Matemáticas para Finanzas y Negocios,,Self-paced on your time,Tecnológico de Monterrey,Luis A. Hernández Arámburo,Advanced,Economics & Finance,Español,Español,49.99,5,5,8
+670,Ingeniería de aeropuertos: diseño del lado aire según OACI (ICAO),,Self-paced on your time,Universitat Politècnica de Valencia,Ignacio Despujol,Intermediate,Engineering,Español,Español,75.0,7,4,5
+671,Liderazgo inclusivo,,Self-paced on your time,Universidad Carlos III de Madrid,Carmen Paz-Aparicio-María José Sánchez Bueno-Fernando Muñoz Bullón,Intermediate,Business & Management,Español,Español,29.0,5,3,5
+672,مساق اللّغة العربيّة,,Self-paced on your time,United Arab Emirates University,باسلة موسى جلو,Introductory,Language,اللغة العربية,اللغة العربية,49.0,8,3,4
+673,"Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet","8,330",Self-paced on your time,Delft University of Technology,Koen Bertels-Carmen G. Almudever-David Elkouss-Nader Khammassi,Intermediate,Physics,English,English,79.0,6,6,8
+674,Contemporary Issues in World Politics,"11,426",Self-paced on your time,Università degli Studi di Napoli Federico II,İlter Turan-Mehmet Ali Tuğtan,Introductory,Social Sciences,English,English,59.0,7,4,6
+675,More Fun with Prime Numbers,"10,604",Self-paced on your time,Kyoto University,Tetsushi Ito,Intermediate,Math,English,English,49.0,5,1,2
+676,Enterprise Selling,"5,020",Self-paced on your time,Queen’s University,Jim Hamilton,Introductory,Business & Management,English,English,149.0,6,4,6
+677,Climate Change: Financial Risks and Opportunities,"9,977",Self-paced on your time,Imperial College Business School-Imperial College London,Charles Donovan,Intermediate,Economics & Finance,English,English,79.0,4,2,10
+678,Caer o No caer. El Secreto de las Estructuras.,"20,939",Self-paced on your time,Universidad Carlos III de Madrid,Carlos Santiuste-José Fernández Sáez-Ramón Zaera-José Luis Pérez Castellanos,Introductory,Engineering,Español,Español,29.0,8,2,3
+679,Mandarin Chinese Level 2,"8,784",Self-paced on your time,MandarinX,Estella Chen,Introductory,Language,English,English,149.0,6,4,10
+680,Design Thinking: Prototyping and User Testing,"10,769",Self-paced on your time,Rochester Institute of Technology,Jennifer Englert-Melissa Dawson,Intermediate,Business & Management,English,English,299.0,6,8,12
+681,Bases Matemáticas: Derivadas,"24,301",Self-paced on your time,Universitat Politècnica de Valencia,Santiago Moll López-José Antonio Moraño Fernández,Introductory,Math,Español,Español,50.0,5,3,4
+682,Buscar en Internet,"27,320",Self-paced on your time,Universitat Politècnica de Valencia,Jaime Busquets-Ana María Checa Rubio-Ignacio Despujol,Introductory,Computer Science,Español,Español,49.0,7,3,4
+683,Big Data and Education,"14,909",Self-paced on your time,University of Pennsylvania,Ryan Baker,Advanced,Data Analysis & Statistics,English,English,169.0,8,6,12
+684,Model-Based Automotive Systems Engineering,"13,857",Instructor-led on a course schedule,Chalmers University of Technology,Jonas Fredriksson,Advanced,Engineering,English,English,249.0,7,10,20
+685,Introduction to Hyperledger Blockchain Technologies,"138,884",Self-paced on your time,The Linux Foundation,Alexandra Groetsema-Arianna Groetsema-Navroop Sahdev-Nathalie Salami,Introductory,Business & Management,English,English,199.0,14,3,4
+686,MathTrackX: Integral Calculus,,Self-paced on your time,University of Adelaide,Dr Danny Stevenson-Dr Brendan Harding-Dr Melissa Humphries-Dr David Butler,Introductory,Math,English,English,79.0,4,3,6
+687,Solar Energy Engineering: Comprehensive Exams,,Self-paced on your time,Delft University of Technology,Arno Smets-Miro Zeman-René van Swaaij-Olindo Isabella,Advanced,Engineering,English,English,250.0,8,4,6
+688,Mercados de capital y participantes claves,"7,210",Self-paced on your time,NYIF,Jack Farmer,Introductory,Economics & Finance,Español,Español,49.0,2,1,2
+689,Introducción al desarrollo de videojuegos con Unity,"27,474",Self-paced on your time,Universitat Politècnica de Valencia,Jordi Linares Pellicer,Intermediate,Computer Science,Español,Español,50.0,6,3,4
+690,Incorporating Renewable Energy in Electricity Grids,"10,430",Self-paced on your time,Imperial College London,Ajay Gambhir,Intermediate,Energy & Earth Sciences,English,English,49.0,6,2,5
+691,Herramientas de la Inteligencia de Negocios,"24,130",Self-paced on your time,Universidad Galileo,Jorge Samayoa-Preng Biba,Introductory,Data Analysis & Statistics,Español,Español,49.0,5,5,6
+692,Overview & Management of Parkinson’s Disease,,Self-paced on your time,Salisbury University-University System of Maryland,Mary DiBartolo,Intermediate,Medicine,English,English,49.0,5,2,3
+693,Conociendo los costos,,Self-paced on your time,Universidades Anáhuac,Laura Avila Rodríguez-Lourdes Rojas Cataño,Intermediate,Economics & Finance,Español,Español,49.0,5,5,7
+694,Sprint Planning for Faster Agile Team Delivery,"10,654",Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",John Johnson,Advanced,Engineering,English,English,199.0,4,2,3
+695,Introduction to Water and Climate,"36,320",Self-paced on your time,Delft University of Technology,Caroline Katsman-Herman Russchenberg-Hubert Savenije-Marcel Stive,Intermediate,Engineering,English,English,50.0,10,6,8
+696,The Medieval Icelandic Sagas,"11,176",Self-paced on your time,The University of Iceland,Hjalti Snær Ægisson-Beth Rogers,Intermediate,Humanities,English,English,50.0,6,2,3
+697,Visual Presentation,,Self-paced on your time,Rochester Institute of Technology,Lori Marra,Introductory,Communication,English,English,199.0,3,4,6
+698,Community Engagement: Collaborating for Change,"11,818",Self-paced on your time,The University of Michigan,Community Engagement Course Team,Introductory,Social Sciences,English,English,49.0,6,2,4
+699,Introducción al Internet de las Cosas (IoT),"6,322",Self-paced on your time,Universitat Politècnica de Valencia,Leopoldo Armesto Ángel,Introductory,Electronics,Español,Español,50.0,6,5,6
+700,"Proteins: Alignment, Analysis and Structure","23,560",Instructor-led on a course schedule,University System of Maryland-University of Maryland Global Campus,James Coker,Advanced,Biology & Life Sciences,English,English,249.0,8,8,10
+701,AI Applications with Watson,"9,173",Self-paced on your time,IBM,Rav Ahuja,Intermediate,Computer Science,English,English,99.0,3,2,4
+702,Data Analytics and Visualization in Health Care,"7,304",Self-paced on your time,Rochester Institute of Technology,Travis Masonis-Matthew Phillips-Jodi Lubba-Johnny Brown,Advanced,Data Analysis & Statistics,English,English,249.0,8,8,10
+703,Question Everything: Scientific Thinking in Real Life,"34,279",Self-paced on your time,The University of Queensland,Noël Chan-Scott Jones-Derek McDowall-Anthony Mewing,Introductory,Math,English,English,59.0,8,2,4
+704,Introduction to Lifestyle Medicine,"9,002",Self-paced on your time,Doane University,"Amanda McKinney, MD, FACLM",Introductory,Biology & Life Sciences,English,English,79.0,8,5,10
+705,"Social Work Practice with Individuals, Families, and Small Groups","16,134",Self-paced on your time,The University of Michigan,Mary Ruffolo,Advanced,Social Sciences,English,English,199.0,8,8,10
+706,Gateway to Medicine: An Introduction to the Field of Medicine|走近医学,"6,938",Self-paced on your time,Tsinghua University,Ying Qiu-Bogen Song-Shuang Chao-Fei Wang,Introductory,Medicine,中文,"English, 中文",49.0,10,1,3
+707,Indian & Tibetan River of Buddhism,"6,738",Self-paced on your time,Columbia University,Robert A.F. Thurman-Columbia University Center for Teaching and Learning,Intermediate,Humanities,English,English,49.99,12,2,4
+708,Compostaje Orgánico en Casa,,Instructor-led on a course schedule,Universidad Nacional de Córdoba,Paola Andrea Campitelli,Introductory,Environmental Studies,Español,Español,29.0,5,4,5
+709,Financial Analysis for Decision Making,"39,156",Self-paced on your time,Babson College,Mark Potter,Introductory,Business & Management,English,English,199.0,4,4,6
+710,Lifestyle Medicine Treatments of Chronic Disease – Part 1,"5,668",Self-paced on your time,Doane University,"Amanda McKinney, MD, FACLM",Intermediate,Medicine,English,English,179.0,2,10,15
+711,Building Containerized Applications on AWS,"6,128",Self-paced on your time,Amazon Web Services,Seph Robinson-Morgan Willis-Rick Hurst-Alana Layton,Intermediate,Computer Science,English,English,99.0,5,2,4
+712,Effective Communication for Program and Project Stakeholders and Teams,,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Bill Brantley,Introductory,Business & Management,English,English,199.0,5,3,5
+713,Biobased Products for a Sustainable (Bio)economy,"6,951",Self-paced on your time,DelftXRWTHx-Delft University of Technology-RWTH Aachen University,Juergen Rabenhorst-Manfred Kircher-Lars M. Blank-Frank Hollmann,Introductory,Biology & Life Sciences,English,English,50.0,10,5,6
+714,Social Work Practice: Advocating Social Justice and Change,"19,603",Self-paced on your time,The University of Michigan,Mary Ruffolo-Barbara Hiltz-Katie Richards-Schuster,Introductory,Social Sciences,English,English,49.0,5,2,3
+715,Anthropology of Current World Issues,"44,821",Instructor-led on a course schedule,The University of Queensland,Gerhard Hoffstaedter-David Trigger-Anna Cristina Pertierra-Annie Ross,Introductory,Humanities,English,English,99.0,9,2,4
+716,Buyer Behaviour and Analysis,"19,717",Instructor-led on a course schedule,Curtin University,Isaac Cheah,Advanced,Communication,English,English,199.0,12,8,10
+717,Idea Development: Create and Implement Innovative Ideas,"11,501",Self-paced on your time,The University of Queensland,Anna Jenkins,Intermediate,Business & Management,English,English,249.0,10,8,10
+718,Analysis of Transport Phenomena I: Mathematical Methods,"9,169",Instructor-led on a course schedule,Massachusetts Institute of Technology,Martin Bazant,Advanced,Engineering,English,English,149.0,17,10,12
+719,Leading the Organization,"14,998",Self-paced on your time,The University of Queensland,Richard O’Quinn,Intermediate,Business & Management,English,English,249.0,10,8,10
+720,"Financial Programming and Policies, Part 2: Program Design","19,330",Self-paced on your time,The International Monetary Fund,Adina Popescu-Antonio David-Alfredo Baldini-Evan Tanner,Intermediate,Economics & Finance,English,English,25.0,7,6,8
+721,Introduction to Open Source Networking Technologies,"17,436",Self-paced on your time,The Linux Foundation,Reza Toghraee,Introductory,Computer Science,English,English,169.0,14,3,4
+722,Deep Learning Essentials,"5,018",Self-paced on your time,Université de Montréal,Mirko Bronzi-Golnoosh Farnadi-Gaétan Marceau Caron-Jeremy Pinto,Intermediate,Computer Science,English,English,149.0,5,4,6
+723,Estadística Aplicada a los Negocios,"25,295",Self-paced on your time,Universidad Galileo,Jorge Samayoa-Preng Biba,Introductory,Data Analysis & Statistics,Español,Español,49.0,5,5,6
+724,"English for Journalists, Part 2","22,814",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Intermediate,Communication,English,English,49.0,5,3,4
+725,Teaching & Learning in the Diverse Classroom,"7,104",Instructor-led on a course schedule,Cornell University,Mathew L. Ouellett-Melina Ivanchikova,Introductory,Education & Teacher Training,English,English,99.0,5,2,4
+726,Fundamentals of Microeconomics | Fundamentos de Microeconomía,"18,456",Self-paced on your time,Universidad Carlos III de Madrid,Ángel Hernando-Veciana-Geovani Hiniesto Bazan-Jose María Aguilar-Sebastian Panthoefer,Introductory,Social Sciences,English,"English, Español",129.0,7,2,3
+727,Migrating to the AWS Cloud,,Self-paced on your time,Amazon Web Services,Seph Robinson-Sean Rinn,Intermediate,Computer Science,English,English,49.0,4,2,4
+728,IoT Networks and Protocols,"22,136",Self-paced on your time,Curtin University,Iain Murray AM-Nazanin Mohammadi-Siavash Khaksar,Introductory,Computer Science,English,English,199.0,5,4,6
+729,"American Prophet: The Inner Life and Global Vision of Martin Luther King, Jr.",,Self-paced on your time,Stanford University,Clayborne Carson,Introductory,History,English,English,50.0,11,2,4
+730,China’s First Empires and the Rise of Buddhism,"46,053",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby,Introductory,History,English,"English, 中文",139.0,15,1,3
+731,Apnea y Trastornos del Sueño,"14,902",Self-paced on your time,Pontificia Universidad Javeriana,Felipe Uriza-Liliana Otero M.,Introductory,Health & Safety,Español,Español,49.0,10,9,10
+732,Educación sobre el cambio climático,"23,253",Self-paced on your time,Inter-American Development Bank,Emma Naslund-Hadley-Juan Paredes,Introductory,Education & Teacher Training,Español,Español,25.0,10,4,5
+733,Quantum Mechanics: A First Course,,Instructor-led on a course schedule,Massachusetts Institute of Technology,Barton Zwiebach-Alex Shvonski,Advanced,Physics,English,English,149.0,18,10,15
+734,Urban Sewage Treatment,"40,408",Self-paced on your time,Delft University of Technology,Jules van Lier-Merle de Kreuk,Intermediate,Engineering,English,English,50.0,7,6,8
+735,Doing Gender and Why it Matters,"6,826",Self-paced on your time,University of Hong Kong,Karen Laidler-Carmen Tong-Puja Kapai,Introductory,Social Sciences,English,English,99.0,6,1,2
+736,Producción musical y su efecto en la composición,"7,869",Self-paced on your time,Berklee College of Music,Enrique Gonzalez Muller,Introductory,Music,Español,Español,49.0,6,3,5
+737,"Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors","12,425",Self-paced on your time,The Hong Kong University of Science and Technology,Mansun Chan,Intermediate,Electronics,English,"English, 中文",70.0,8,2,4
+738,"19th-Century Opera: Meyerbeer, Wagner, & Verdi","9,340",Self-paced on your time,Harvard University,Thomas Forrest Kelly,Introductory,Music,English,English,99.0,6,3,5
+739,Modelos predictivos con Machine Learning,"5,102",Self-paced on your time,Universidades Anáhuac,Eduardo Rodríguez  del Angel-Jorge Alberto Cerecedo Cordoba,Intermediate,Computer Science,Español,Español,49.0,4,6,8
+740,Quantitative Marketing Research,,Self-paced on your time,Indian Institute of Management Bangalore,Prithwiraj Mukherjee,Introductory,Business & Management,English,English,50.0,5,3,4
+741,Les fondements de la stratégie d’entreprise,"33,021",Instructor-led on a course schedule,Université catholique de Louvain,Régis Coeurderoy-Alain Vas,Introductory,Business & Management,Français,Français,150.0,10,3,6
+742,Solar Energy: Integration of Photovoltaic Systems in Microgrids,"20,068",Instructor-led on a course schedule,Delft University of Technology,Seyedmahdi Izadkhast-Laura Ramirez-Pavol Bauer,Advanced,Engineering,English,English,250.0,9,10,11
+743,"Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability","12,630",Self-paced on your time,Delft University of Technology,Arie van Deursen-Maurício Aniche,Intermediate,Computer Science,English,English,99.0,5,3,5
+744,Probability and Statistics I:  A Gentle Introduction to Probability,,Self-paced on your time,The Georgia Institute of Technology,David Goldsman,Intermediate,Data Analysis & Statistics,English,English,199.0,3,6,10
+745,Introducción a las ecuaciones diferenciales,"9,868",Self-paced on your time,Universidad Galileo,"Alberth Alvarado, Ph.D.-Henry Campos",Intermediate,Math,Español,Español,49.0,7,4,6
+746,Agile Mindset Introduction,,Self-paced on your time,Rolls-Royce,James Hallam,Introductory,Data Analysis & Statistics,English,English,49.0,2,1,5
+747,Tropical coastal ecosystems,"23,031",Self-paced on your time,The University of Queensland,Ove Hoegh-Guldberg-Sophie Dove-Cath Lovelock-Pete Mumby,Introductory,Biology & Life Sciences,English,English,99.0,9,4,5
+748,Modern China’s Foundations: The Manchus and the Qing,"47,166",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby-Mark C. Elliott,Introductory,History,English,"English, 中文",139.0,15,1,3
+749,El método de ciencia de datos,,Self-paced on your time,IBM,Alex Aklson,Introductory,Data Analysis & Statistics,Español,Español,39.0,7,3,7
+750,AWS Developer: Deploying on AWS,"25,244",Self-paced on your time,Amazon Web Services,Seph Robinson-Rafael Lopes-Russell Sayers,Advanced,Computer Science,English,English,149.0,6,3,4
+751,Autonomous Mobile Robots,"62,362",Self-paced on your time,ETH Zurich,Roland Siegwart-Margarita Chli-Marco Hutter-Davide Scaramuzza,Intermediate,Computer Science,English,English,50.0,15,4,8
+752,Gestión por resultados para gobiernos subnacionales,"65,955",Self-paced on your time,Inter-American Development Bank,Mauricio García Moreno-Roberto García López,Introductory,Business & Management,Español,Español,25.0,10,3,4
+753,Introduction to Sociology,"10,412",Self-paced on your time,The University of Texas of the Permian Basin,Joanna Hadjicostandi,Introductory,Social Sciences,English,English,139.0,6,4,6
+754,Transformación digital en las empresas,,Self-paced on your time,Pontificia Universidad Javeriana,ANDRES FELIPE VELASQUEZ-PEDRO PABLO MORA,Introductory,Business & Management,Español,Español,49.0,7,5,6
+755,Desafios e oportunidades na economia digital,"6,913",Self-paced on your time,Inter-American Development Bank,​Ana María Rodríguez-Ortiz-Agustina Calatayud-Pau Puig-Diego Molano,Introductory,Economics & Finance,Português,Português,25.0,10,2,3
+756,"Cellular Solids Part 1: Structures, Properties and Engineering Applications","7,186",Self-paced on your time,Massachusetts Institute of Technology,Lorna J. Gibson-Jessica Sandland,Advanced,Engineering,English,English,99.0,9,11,13
+757,Introduction to Statistical Methods for Gene Mapping,"15,419",Self-paced on your time,Kyoto University,Ryo Yamada,Advanced,Data Analysis & Statistics,English,English,49.0,4,2,3
+758,Cómo vivir una vida saludable y activa,"8,990",Self-paced on your time,Universidad Autónoma de Madrid,Rocío Fernández-Ballesteros-María Márquez González-Mª del Pilar Montero López-Ángeles Molina Martínez,Introductory,Social Sciences,Español,Español,49.0,5,3,4
+759,Mandarin Chinese Level 3,"8,418",Self-paced on your time,MandarinX,Estella Chen,Intermediate,Language,English,English,149.0,6,4,10
+760,Databases: Advanced Topics in SQL,,Self-paced on your time,Stanford University,Jennifer Widom,Introductory,Computer Science,English,English,50.0,2,8,10
+761,Data for Effective Policy Making,"13,797",Self-paced on your time,Inter-American Development Bank,Norma Palomino-Ivette Fis de Melo,Introductory,Math,English,English,25.0,10,3,4
+762,C Programming: Using Linux Tools and Libraries,"13,912",Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Petra Bonfert-Taylor-Rémi Sharrock,Intermediate,Computer Science,English,English,49.0,7,4,5
+763,Lernen objekt-orientierter Programmierung,"10,657",Instructor-led on a course schedule,Technische Universität München,Peter Hubwieser-Johannes Krugel-Marc Berges-Alexandra Funke,Introductory,Computer Science,Deutsch,Deutsch,49.0,6,3,5
+764,Cybersecurity: The CISO's View,"21,507",Self-paced on your time,University of Washington,Barbara Endicott-Popovsky,Introductory,Computer Science,English,English,199.0,6,2,5
+765,Fundamentals of Java EE Development,"10,129",Self-paced on your time,Red Hat,Will Dinyes,Intermediate,Computer Science,English,English,99.0,7,1,3
+766,"Instructional Design: Digital Media, New Tools and Technology","16,419",Self-paced on your time,University System of Maryland-University of Maryland Global Campus,Randy Hansen,Intermediate,Education & Teacher Training,English,English,299.0,8,8,10
+767,Molecular Biology – Part 3: RNA Processing and Translation,"16,520",Self-paced on your time,Massachusetts Institute of Technology,Stephen P. Bell-Tania A. Baker-Mary Ellen Wiltrout-Sera Thornton,Advanced,Biology & Life Sciences,English,"English, 中文",99.0,8,4,8
+768,Power and Responsibility: Doing Philosophy with Superheroes,"8,517",Self-paced on your time,The Smithsonian Institution,Christopher Robichaud,Introductory,Art & Culture,English,English,49.0,5,1,5
+769,Aprendizaje automático y ciencia de datos,"13,994",Self-paced on your time,Universitat Politècnica de Valencia,José Hernández-Orallo-María José Ramírez Quintana-Fernando Martínez Plumed,Intermediate,Computer Science,Español,Español,50.0,5,4,5
+770,Sustainable Urban Freight Transport: A Global Perspective,"7,769",Self-paced on your time,Delft University of Technology,Lóránt Tavasszy-Ron van Duin-Tharsis Teoh-Eiichi Taniguchi,Introductory,Engineering,English,English,50.0,5,4,6
+771,MathTrackX: Statistics,,Self-paced on your time,University of Adelaide,Dr Melissa Humphries-Dr David Butler-Dr Brendan Harding-Dr Danny Stevenson,Introductory,Math,English,English,79.0,4,3,6
+772,Técnicas Cuantitativas y Cualitativas para la Investigación,"29,885",Self-paced on your time,Universitat Politècnica de Valencia,Adela García Aracil-Isabel Neira Gómez-Fernando Jiménez Sáez-José Félix Lozano Aguilar,Intermediate,Data Analysis & Statistics,Español,Español,65.0,6,2,3
+773,Strategic Applications of IT Project & Program Management,"17,914",Self-paced on your time,University of Washington,Debra Hildebrand,Introductory,Business & Management,English,English,199.0,6,2,5
+774,Advanced Bioconductor,"26,063",Self-paced on your time,Harvard University,Rafael Irizarry-Michael Love,Advanced,Data Analysis & Statistics,English,English,149.0,4,2,4
+775,What Every Provider Should Know: Clinical Fundamentals,,Self-paced on your time,Stanford University,Matthew Strehlow-S.V. Mahadevan-Rebecca Walker,Introductory,Medicine,English,English,50.0,10,4,6
+776,Análisis e interpretación de información económica y financiera,"5,891",Self-paced on your time,Pontificia Universidad Javeriana,Gregorio Gandini,Intermediate,Economics & Finance,Español,Español,49.0,5,6,8
+777,AWS IoT: Developing and Deploying an Internet of Things,"8,884",Self-paced on your time,Amazon Web Services,Bobbie Atristain-Adam Becker-Neel Mitra-Wes Gruver,Intermediate,Computer Science,English,English,99.0,4,2,5
+778,Measuring Sustainable Development,,Self-paced on your time,SDG Academy,Guido Schmidt-Traub-Guillaume Lafortune-Jessica Espey,Intermediate,Data Analysis & Statistics,English,English,25.0,5,1,3
+779,Embedded Systems - Shape The World: Multi-Threaded Interfacing,"27,814",Self-paced on your time,The University of Texas at Austin,Jonathan Valvano-Ramesh Yerraballi,Intermediate,Computer Science,English,English,49.0,8,8,10
+780,Hong Kong Cinema through a Global Lens | 全球化下的香港电影,"12,458",Instructor-led on a course schedule,University of Hong Kong,Aaron Magnan-Park-Stacilee Ford-Gina Marchetti,Introductory,Humanities,English,"English, 中文",50.0,6,4,6
+781,Image Processing and Analysis for Life Scientists,"8,621",Self-paced on your time,École polytechnique fédérale de Lausanne,Arne Seitz-Romain Guiet-Olivier Burri-Nicolas Chiaruttini,Intermediate,Data Analysis & Statistics,English,English,199.0,7,2,3
+782,La protección del menor,"7,654",Self-paced on your time,Universidad Autónoma de Madrid,Juan Antonio Chinchilla Peinado-Mónica Domínguez Martín-Liborio Hierro Sánchez-Pescador-Maravillas Espín Sáez,Introductory,Law,Español,Español,49.0,5,3,5
+783,Globalization: Past and Future,"10,127",Self-paced on your time,SDG Academy,Jeffrey D. Sachs,Introductory,History,English,"English, Русский",25.0,4,2,4
+784,Star Trek: Inspiring Culture and Technology,"6,521",Self-paced on your time,The Smithsonian Institution,Margaret Weitekamp-Scott Mantz,Introductory,History,English,English,40.0,7,1,3
+785,Qué funciona en educación: políticas educativas basadas en evidencia,"15,701",Self-paced on your time,Inter-American Development Bank,Emiliana Vegas,Introductory,Education & Teacher Training,Español,Español,25.0,10,3,4
+786,"Introduction to Cloud Development with HTML5, CSS3, and JavaScript",,Self-paced on your time,IBM,Rav Ahuja-Upkar Lidder,Introductory,Computer Science,English,English,99.0,4,1,2
+787,Tools for Academic Engagement in Public Policy,"5,035",Self-paced on your time,Massachusetts Institute of Technology,Chappell Lawson-Daniel Pomeroy,Introductory,Communication,English,English,199.0,3,1,3
+788,Theory of Change for Development,"10,736",Self-paced on your time,Wits University,Caitlin Blaser Mapitsa-Takunda Chirau,Introductory,Social Sciences,English,English,199.0,7,3,4
+789,Monozukuri: Making Things,,Self-paced on your time,Tokyo Institute of Technology,Hiroto Tanaka-Cesar A. Hernandez Reyes,Introductory,Engineering,English,English,49.0,4,1,2
+790,Drug Discovery & Medicinal Chemistry,,Self-paced on your time,Davidson College,Erland Stevens,Intermediate,Medicine,English,English,99.0,5,5,7
+791,Digital Biomaterials,,Self-paced on your time,University of Hong Kong,Jukka Matinlinna-James Kit Hon Tsoi,Introductory,Medicine,English,English,149.0,4,2,4
+792,Natural Resources for Sustainable Development,"9,668",Self-paced on your time,SDG Academy,Lisa Sachs-Patrick Heller-NR Faculty,Intermediate,Energy & Earth Sciences,English,"اللغة العربية, English, Español, Français, Русский",49.0,12,4,6
+793,Omnichannel Strategy and Management,"15,860",Self-paced on your time,Dartmouth College,Santiago Gallino-Antonio Moreno-Garcia,Intermediate,Business & Management,English,English,99.0,4,3,5
+794,General Overview of Cannabis and the Industry’s Outlook and Professions,"5,048",Self-paced on your time,Doane University,"Jazmin Oliver-Amanda McKinney, MD, FACLM-Andrea Holmes, PhD",Introductory,Environmental Studies,English,English,199.0,4,5,10
+795,Amazon SageMaker: Simplifying Machine Learning Application Development,"11,765",Self-paced on your time,Amazon Web Services,Russell Sayers-Asim Jalis-Carl Leonard,Intermediate,Computer Science,English,English,99.0,4,2,4
+796,Formulación y nomenclatura de compuestos químicos,"12,748",Self-paced on your time,Universitat Politècnica de Valencia,Teresa Pardo Vicente-Juan Antonio Llorens Molina,Introductory,Chemistry,Español,Español,49.0,6,3,4
+797,Introducción a la factura electrónica,"5,829",Self-paced on your time,LOGYCA,Kelly Toscano-Edna Melissa Reina Calderon,Intermediate,Economics & Finance,Español,Español,49.9,4,3,4
+798,Demand and Supply Analytics,"23,585",Instructor-led on a course schedule,Columbia University,Daniel Guetta,Intermediate,Business & Management,English,English,249.0,12,8,10
+799,Advanced Algorithmics and Graph Theory with Python,"13,502",Self-paced on your time,IMT,Vincent Gripon-Patrick Meyer-Nicolas Farrugia-Carlos Eduardo Rosar Kos Lassance,Intermediate,Computer Science,English,English,49.0,6,2,4
+800,Modern Japanese Architecture Part 1: From Meiji Restoration to the Pacific War,,Self-paced on your time,Tokyo Institute of Technology,David B. Stewart,Intermediate,Architecture,English,English,59.0,5,3,5
+801,Diagramas UML estructurales para la Ingeniería del Software,"5,820",Self-paced on your time,Universitat Politècnica de Valencia,Ignacio Panach-Óscar Pastor-Ana León,Introductory,Computer Science,Español,Español,50.0,5,3,4
+802,"A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing","6,232",Self-paced on your time,Imperial College London,Philip Ramsden-Phil Chaffe,Intermediate,Math,English,English,49.0,7,2,4
+803,Fundamentos de Mecánica para Ingeniería,"14,219",Self-paced on your time,Universitat Politècnica de Valencia,Pilar Candelas Valiente-M. Ángeles Hernández Fenollosa-Constanza Rubio Michavila-Marcos Giménez Valentín,Introductory,Physics,Español,Español,49.0,6,3,4
+804,Leadership and Management for PM Practitioners in IT,"21,949",Self-paced on your time,University of Washington,Luke Panezich-Debra Hildebrand,Introductory,Business & Management,English,English,199.0,6,2,5
+805,Entrepreneurship 103: Show Me The Money,"15,184",Self-paced on your time,Massachusetts Institute of Technology,Bill Aulet-Erdin Beshimov,Introductory,Business & Management,English,English,300.0,10,2,4
+806,Historia de la ética,"9,383",Self-paced on your time,Universidad Carlos III de Madrid,Carlos Santiuste-Francisco Javier Sánz García-Carmen González Marín-Virginia Fusco,Introductory,Philosophy & Ethics,Español,Español,29.0,6,1,3
+807,Drainage in Agriculture: controlling water and salt levels in the soil,,Self-paced on your time,Wageningen University & Research,Dr. Ir. Henk Ritzema-Dr. Ir. Klaas Metselaar-Dr. Ir. Jos van Dam-Dr. Ir. Lodewijk Stuyt,Advanced,Environmental Studies,English,English,49.0,5,18,20
+808,Radio para internet con Podcast: creación y conceptos básicos,"6,460",Self-paced on your time,Universitat Politècnica de Valencia,José Ramón Díaz Sáenz Díaz Sáenz-Luisa Tolosa Robledo-Carlos Hernández Franco,Introductory,Communication,Español,Español,50.0,6,3,4
+809,Introducción a los circuitos eléctricos,"11,953",Self-paced on your time,Universidad Galileo,Preng Biba-Rodrigo Baessa-Eduardo Corpeño,Intermediate,Electronics,Español,Español,49.0,5,6,8
+810,AP® Physics 1: Challenging Concepts,"12,145",Self-paced on your time,Davidson Next,Larry Cain-Robert Morse-Peggy Bertrand,Introductory,Physics,English,English,49.0,8,2,4
+811,Introduction to Java Programming – Part 2,"71,203",Self-paced on your time,The Hong Kong University of Science and Technology,Ting-Chuen Pong-Tony W K Fung-Leo P M Fan,Introductory,Computer Science,English,English,99.0,5,3,5
+812,AP® Macroeconomics,"29,433",Self-paced on your time,Davidson Next,Clark Ross-Sally Meek,Introductory,Economics & Finance,English,English,49.0,18,2,4
+813,Climate Change Education,"12,056",Self-paced on your time,Inter-American Development Bank,Emma Naslund-Hadley-Juan Paredes,Introductory,Education & Teacher Training,English,"English, Español",25.0,10,4,5
+814,"Introducción al griego clásico: verbos, oraciones y filosofía",,Self-paced on your time,Universidad Autónoma de Madrid,Helena González-Vaquerizo-Araceli Striano Corrochano-Raquel Fornieles Sánchez,Introductory,Language,Español,Español,49.0,5,4,5
+815,Applied Deep Learning Capstone Project,"8,429",Self-paced on your time,IBM,Joseph Santarcangelo,Advanced,Data Analysis & Statistics,English,English,99.0,5,2,4
+816,FinTech Ethics and Risks,"10,696",Self-paced on your time,University of Hong Kong,David L. Bishop-David S. Lee,Introductory,Economics & Finance,English,"English, English, 中文, 中文",199.0,6,1,5
+817,User Experience (UX) Design: Human Factors and Culture in Design | 设计的人因与文化,"23,828",Self-paced on your time,Tsinghua University,Pei-Luen Patrick Rau,Advanced,Engineering,English,English,139.0,7,1,5
+818,The Conquest of Space: Space Exploration and Rocket Science,"19,926",Self-paced on your time,Universidad Carlos III de Madrid,Manuel Sanjurjo Rivo-Mario Merino-Eduardo Ahedo-Manuel Soler,Introductory,Engineering,English,English,129.0,7,3,4
+819,Business Strategy and Operations in a Biobased Economy,,Self-paced on your time,Wageningen University & Research,Emiel Wubben-Jos Bijman-Renzo Akkerman-Argyris Kanellopoulos,Advanced,Business & Management,English,English,149.0,5,12,16
+820,What Works in Education: Evidence-Based Education Policies,"5,540",Self-paced on your time,Inter-American Development Bank,Emiliana Vegas,Introductory,Education & Teacher Training,English,English,25.0,10,3,4
+821,Electric Cars: Business,"14,199",Self-paced on your time,Delft University of Technology,Frank Rieck-Roland Steinmetz-Rick Wolbertus-Bert van Wee,Intermediate,Business & Management,English,English,50.0,4,4,5
+822,Thermodynamics of Materials,,Self-paced on your time,Massachusetts Institute of Technology,Rafael Jaramillo-Jessica Sandland-John Harrold,Intermediate,Engineering,English,English,150.0,16,9,12
+823,Mechanics: Momentum and Energy,"14,846",Self-paced on your time,Massachusetts Institute of Technology,Peter Dourmashkin-George Stephans-Deepto Chakrabarty-Analia Barrantes,Intermediate,Physics,English,English,49.0,14,10,12
+824,Co-Creating Sustainable Cities,"12,415",Self-paced on your time,Delft University of Technology-Wageningen University & Research-Delft University & Wageningen University,Gert Spaargaren-Ellen van Bueren-Co-creating sustainable cities – Course contributors,Advanced,Social Sciences,English,English,49.0,8,6,8
+825,Cómo educar teniendo en cuenta la muerte,,Self-paced on your time,Universidad Autónoma de Madrid,Pablo Rodríguez Herrero-Agustín de la Herrán Gascón,Introductory,Education & Teacher Training,Español,Español,49.0,3,2,5
+826,Introduction to Animal Ethics,"6,608",Self-paced on your time,Kyoto University,Tetsuji Iseda,Introductory,Philosophy & Ethics,English,English,49.0,5,2,3
+827,Teamwork & Collaboration,,Self-paced on your time,Rochester Institute of Technology,David Neumann,Introductory,Communication,English,English,199.0,3,4,6
+828,Grant Writing and Crowdfunding for Public Libraries,"12,853",Self-paced on your time,The University of Michigan,Kristin Fontichiaro,Introductory,Humanities,English,English,49.0,4,2,3
+829,Leading Ambitious Teaching and Learning,"24,273",Self-paced on your time,The University of Michigan-Microsoft Education,Deborah Loewenberg Ball-Nell Duke-Liz Kolb-Elizabeth Birr Moje,Advanced,Education & Teacher Training,English,English,199.0,6,2,4
+830,Financing Innovative Ventures,,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Michael Pratt,Introductory,Business & Management,English,English,149.0,4,2,3
+831,"A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations",,Self-paced on your time,Imperial College London,Philip Ramsden-Phil Chaffe,Intermediate,Math,English,English,49.0,7,2,4
+832,Theories of Media and Technology,,Instructor-led on a course schedule,New York University,Scott Fitzgerald,Introductory,Art & Culture,English,English,249.0,14,8,10
+833,Introducción a la Estructura de la Materia,"11,859",Self-paced on your time,Universitat Politècnica de Valencia,Carmen Gómez Benito-Teresa Pardo Vicente-Juan Antonio Llorens Molina,Introductory,Chemistry,Español,Español,25.0,4,3,4
+834,"Batteries, Fuel Cells, and their Role in Modern Society","11,865",Self-paced on your time,Ural Federal University,Dmitry Pelegov,Introductory,Science,English,English,49.0,6,2,4
+835,Communication Skills for Dialoguing Across Difference,"60,943",Self-paced on your time,Catalyst,Tolonda M. Tolbert-Jared Cline-Audrey Gallien,Introductory,Communication,English,English,25.0,1,1,2
+836,Social Media: How Media Got Social,"13,616",Self-paced on your time,Curtin University,Tama Leaver-Gwyneth Peaty,Introductory,Communication,English,English,139.0,4,2,3
+837,"Portfolio Management, Governance, & the PMO","17,299",Self-paced on your time,University of Washington,Luke Panezich,Introductory,Business & Management,English,English,199.0,6,2,5
+838,edX101: Overview of Creating an edX Course,"22,327",Self-paced on your time,edX,Mark Rudnick-Ildi Morris,Introductory,Education & Teacher Training,English,English,99.0,1,1,2
+839,"Soy docente, ¡qué miedo! Gestiona eficazmente tus emociones",,Self-paced on your time,Universidad Autónoma de Madrid,Claudia Messina Albarenque-Tamara Ambrona Benito-Gema de Pablo González,Introductory,Education & Teacher Training,Español,Español,49.0,4,3,4
+840,Data Analysis for Decision Making,"8,342",Instructor-led on a course schedule,"The University of Maryland, College Park-University System of Maryland",P.K. Kannan-Margrét Bjarnadóttir-Kislaya Prasad-Lingling Zhang,Advanced,Business & Management,English,English,214.0,7,8,10
+841,UML Class Diagrams for Software Engineering,"33,710",Self-paced on your time,KU Leuven University,Monique Snoeck,Introductory,Computer Science,English,English,49.0,3,4,5
+842,Driving Digital Innovation through Experimentation,"16,904",Instructor-led on a course schedule,Boston University,Paul R. Carlile-Ben Lubin,Advanced,Computer Science,English,English,399.0,6,3,5
+843,Compilation Basics for Macroeconomic Statistics,"6,570",Self-paced on your time,The International Monetary Fund,Tobias (Murto) Wickens,Introductory,Data Analysis & Statistics,English,English,25.0,4,3,6
+844,Seguridad Vial en América Latina y el Caribe: de la teoría a la acción,"20,189",Self-paced on your time,Inter-American Development Bank,Dalve Soria Alves-Edgar Zamora-Marisela Ponce de León-Ana María Pinto,Introductory,Engineering,Español,Español,25.0,10,2,3
+845,From Fossil Resources to Biomass: A Chemistry Perspective,"5,464",Self-paced on your time,Wageningen University & Research,Harry Bitter-Maria Barbosa-Corjan van den Berg-Paul Struik,Advanced,Energy & Earth Sciences,English,English,149.0,5,20,28
+846,System Dynamics for Health Sciences,"15,157",Self-paced on your time,Wits University,David Rubin-Tak Igusa-Robyn Letts,Intermediate,Medicine,English,English,139.0,9,2,4
+847,Internet de las cosas (IoT) y Big Data,,Self-paced on your time,Universidad del Rosario,Jefferson Sarmiento Rojas-Daniel Alejandro Quiroga Torres-Pedro Antonio Aya Parra,Intermediate,Data Analysis & Statistics,Español,Español,49.0,4,4,6
+848,Introducción a Ciencias de Datos y Estadística Básica para Negocios,,Self-paced on your time,Tecnológico de Monterrey,José Antonio Núñez Mora,Advanced,Data Analysis & Statistics,Español,Español,49.99,4,5,8
+849,Introduction to Psychological Research Methods,"17,087",Self-paced on your time,The University of Queensland,Blake McKimmie-Wen Wu,Introductory,Humanities,English,English,99.0,7,1,2
+850,Sustainable Packaging in a Circular Economy,"6,277",Self-paced on your time,Delft University of Technology,Conny Bakker-Ruud Balkenende-Janne de Hoop-Jos Vlugter,Intermediate,Design,English,English,50.0,6,3,4
+851,Design in Healthcare: Using Patient Journey Mapping,"17,946",Self-paced on your time,Delft University of Technology,Richard H.M. Goossens,Introductory,Design,English,English,129.0,8,3,4
+852,"El manejo de plagas, malezas y enfermedades en los Sistemas de Siembra Directa",,Self-paced on your time,Universidad Nacional de Córdoba,Roberto Peralta,Intermediate,Biology & Life Sciences,Español,"English, Español",99.0,4,5,7
+853,"Electronic, Optical, and Magnetic Properties of Materials","9,717",Instructor-led on a course schedule,Massachusetts Institute of Technology,Polina Anikeeva-Jessica Sandland,Advanced,Engineering,English,English,150.0,15,11,13
+854,La España del Quijote,"13,277",Self-paced on your time,Universidad Autónoma de Madrid,Pedro García Martín,Introductory,History,Español,Español,19.0,7,5,7
+855,Risk Management for Projects,"22,269",Self-paced on your time,University of Adelaide,Frank Schultmann-Noel Lindsay-Anton Jordaan-John Sing,Introductory,Business & Management,English,English,199.0,5,2,3
+856,Smithsonian’s Objects That Define America,"9,071",Self-paced on your time,The Smithsonian Institution,Richard Kurin,Introductory,Humanities,English,English,50.0,5,1,2
+857,Creating Modern China: The Republican Period to the Present,"43,045",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby,Introductory,History,English,"English, 中文",139.0,15,1,3
+858,Discover Political Science,"6,573",Instructor-led on a course schedule,Université catholique de Louvain,Nathalie Schiffino-Leclercq-Pierre Baudewyns-Vincent Legrand-Min Reuchamps,Intermediate,Social Sciences,English,English,50.0,10,4,6
+859,Data Science: Inferential Thinking through Simulations,"17,505",Self-paced on your time,"University of California, Berkeley",Ani Adhikari-John DeNero-David Wagner,Introductory,Computer Science,English,English,199.0,5,4,6
+860,Programming for Data Science,"41,268",Self-paced on your time,University of Adelaide,Katrina Falkner-​Claudia Szabo-Nick Falkner,Introductory,Computer Science,English,English,199.0,10,8,10
+861,Public Sector Debt Statistics,,Self-paced on your time,The International Monetary Fund,Tobias (Murto) Wickens,Intermediate,Economics & Finance,English,English,25.0,6,6,8
+862,Sensor Fusion and Non-linear Filtering for Automotive Systems,"9,709",Instructor-led on a course schedule,Chalmers University of Technology,Lars Hammarstrand,Advanced,Engineering,English,English,299.0,6,10,20
+863,Creación musical con Soundcool: Introducción,,Self-paced on your time,Universitat Politècnica de Valencia,Jorge Sastre Martínez-Montse Briceño Mezquita-Elena Pelejero Ibáñez,Introductory,Music,Español,Español,30.0,5,4,5
+864,First Nights - Berlioz’s Symphonie Fantastique and Program Music in the 19th Century,"8,222",Self-paced on your time,Harvard University,Thomas Forrest Kelly,Introductory,Humanities,English,English,49.0,3,3,5
+865,The Quantum Internet and Quantum Computers: How Will They Change the World?,"15,014",Self-paced on your time,Delft University of Technology,Stephanie Wehner-Lieven Vandersypen-Menno Veldhorst,Introductory,Science,English,English,50.0,6,2,3
+866,Research Methods: An Engineering Approach,"20,444",Self-paced on your time,Wits University,Ivan Hofsajer,Introductory,Engineering,English,English,169.0,8,2,3
+867,Idealismo filosófico y cosmovisiones: cómo hacer mundos con ideas,"15,349",Self-paced on your time,Universidad Autónoma de Madrid,Felix Duque-Ángel Gabilondo-Valerio Rocco-Marcela Vélez,Introductory,Philosophy & Ethics,Español,Español,49.0,5,3,5
+868,Rise to Leadership: Become a CEO,"16,719",Self-paced on your time,Babson College,Peter Cohan,Intermediate,Business & Management,English,English,199.0,4,4,6
+869,Building a Cybersecurity Toolkit,"23,275",Self-paced on your time,University of Washington,David Aucsmith,Introductory,Computer Science,English,English,199.0,6,2,5
+870,Marketing your Android apps,,Self-paced on your time,Universidad Galileo,Jojo Giuffra-Pedro Borrayo,Intermediate,Engineering,English,English,49.0,5,6,8
+871,Embedded Systems Essentials with Arm: Getting Started,,Self-paced on your time,Arm Education,Khaled Benkrid-Shuojin Hang-Mark Allen-Tim Wilmshurst,Intermediate,Computer Science,English,English,149.0,6,3,6
+872,Life with Diabetes,"12,318",Self-paced on your time,Curtin University,Patricia Marshall,Introductory,Medicine,English,English,139.0,5,3,4
+873,Human Reproduction,"5,517",Self-paced on your time,University of Adelaide,Mario Ricci-Danijela Menicanin-Kathy Gatford-Corinna Van Den Heuvel,Intermediate,Biology & Life Sciences,English,English,169.0,6,2,3
+874,Enabling Technologies for Data Science and Analytics: The Internet of Things,"71,290",Self-paced on your time,Columbia University,Fred Jiang-Julia Hirschberg-Michael Collins-Shih-Fu Chang,Introductory,Computer Science,English,English,99.0,5,7,10
+875,Astrophysics: Exploring Exoplanets,"48,539",Self-paced on your time,Australian National University,Brian Schmidt-Paul Francis,Intermediate,Physics,English,English,50.0,9,2,4
+876,Unconventional Reservoir Geomechanics,,Self-paced on your time,Stanford University,Mark D. Zoback-Arjun H. Kohli,Introductory,Energy & Earth Sciences,English,English,129.0,10,6,8
+877,Strategic Account Management,,Self-paced on your time,Queen’s University,Jim Hamilton-Michael Cant,Introductory,Business & Management,English,English,149.0,6,4,6
+878,PyTorch Basics for Machine Learning,,Self-paced on your time,IBM,Joseph Santarcangelo,Introductory,Data Analysis & Statistics,English,English,39.0,5,4,5
+879,Diseño y Desarrollo de Recursos Multimedia para la Enseñanza Virtual,"14,266",Self-paced on your time,Universidad Galileo,Rocael Hernández Rissardini-Miguel Morales-Mónica Mishell Pérez de Santisteban-Carla Sandoval Orellana,Intermediate,Humanities,Español,Español,49.0,4,4,5
+880,Introduction to Cloud Foundry and Cloud Native Software Architecture,"24,444",Self-paced on your time,The Linux Foundation,Norm Abramovitz-Tyler Bird-Kevin Rutten,Introductory,Computer Science,English,English,169.0,14,3,4
+881,Gestión de compras eficientes para tu empresa,,Self-paced on your time,LOGYCA,Daniela Flórez Ceron-Carlos José Bello Peréz,Introductory,Engineering,Español,Español,25.0,5,3,5
+882,Know HBV And HCV,,Self-paced on your time,Stanford University,Thi Thanh Hang Pham-Samuel So,Introductory,Medicine,English,English,50.0,1,1,5
+883,The Supreme Court & American Politics,"6,216",Self-paced on your time,University of Baltimore-University System of Maryland,Lyle Denniston,Introductory,Law,English,English,29.0,8,4,7
+884,Sales Enablement & Analytics,,Self-paced on your time,Queen’s University,Michael Cant-Jim Hamilton,Introductory,Business & Management,English,English,149.0,6,4,6
+885,Inversión Extranjera como Motor del Desarrollo para América Latina y el Caribe,"16,423",Self-paced on your time,Inter-American Development Bank,Joaquim Tres-Matthew Shearer-Eddy Rekkers-Rodrigo Polanco,Intermediate,Business & Management,Español,Español,25.0,10,3,4
+886,Liderazgo en la empresa familiar,"10,969",Self-paced on your time,Tecnológico de Monterrey,Fernando Sandoval Arzaga-Juan Pablo Murra Lascurain-David Salvador Xotlanihua González,Intermediate,Business & Management,Español,Español,49.0,6,7,8
+887,Comparative Political Systems,"6,934",Self-paced on your time,Università degli Studi di Napoli Federico II,Gianfranco Pasquino,Introductory,Social Sciences,English,English,59.0,6,4,6
+888,Introducción al Derecho en la vida cotidiana,,Self-paced on your time,Universidad Autónoma de Madrid,María del Pilar Pérez Álvarez-Beatriz Gregoraci Fernández-Pilar Domínguez Lozano,Introductory,Law,Español,Español,49.0,5,5,6
+889,Cloud Computing for Enterprises,"27,241",Instructor-led on a course schedule,University System of Maryland-University of Maryland Global Campus,Patrick Appiah-Kubi-Jarrod Jordan,Intermediate,Computer Science,English,English,299.0,8,8,10
+890,Diversity and Social Justice in Social Work,"11,055",Self-paced on your time,The University of Michigan,Jamie Mitchell,Advanced,Social Sciences,English,English,199.0,8,8,10
+891,Public Library Marketing and Public Relations,"7,525",Self-paced on your time,The University of Michigan,Kristin Fontichiaro,Introductory,Humanities,English,English,49.0,4,2,3
+892,"Healthcare Finance, Economics and Risk","8,006",Self-paced on your time,Doane University,Jody Woodworth,Intermediate,Economics & Finance,English,English,199.0,5,5,10
+893,Reacciones Químicas y Cálculos Estequiométricos,"8,907",Self-paced on your time,Universitat Politècnica de Valencia,Carmen Gómez Benito-Isabel Morera Bertomeu,Introductory,Chemistry,Español,Español,49.0,6,3,4
+894,Seeking Women’s Rights: Colonial Period to the Civil War,"5,157",Self-paced on your time,Columbia University,Alice Kessler-Harris-Nick Juravich-Columbia University Center for Teaching and Learning-New-York Historical Society,Intermediate,History,English,English,50.0,10,2,3
+895,VideoX: Creating Video for the edX Platform,"12,159",Self-paced on your time,edX,Erik Brown-James Donald,Introductory,Education & Teacher Training,English,English,99.0,2,2,4
+896,Comisión de la Verdad Colombia,,Self-paced on your time,Pontificia Universidad Javeriana,Juan Daniel Cruz-Andrés Mauricio Valdivieso Collazos-Nelson Otaya-María Mónica Herrera Irurita,Introductory,History,Español,Español,29.0,5,7,10
+897,MathTrackX: Probability,,Self-paced on your time,University of Adelaide,Dr Brendan Harding-Dr Melissa Humphries-Dr David Butler-Dr Danny Stevenson,Introductory,Math,English,English,79.0,4,3,6
+898,Health Informatics for better and safer healthcare,,Self-paced on your time,IsraelX,Maxim Topaz,Introductory,Health & Safety,English,English,49.0,4,3,4
+899,Sign Language Science: Factors Contributing to Natural Change,,Self-paced on your time,Georgetown University,Ted Supalla,Introductory,Language,English,English,99.0,4,3,5
+900,Accounting System Structure and Information Management,,Self-paced on your time,NYIF,Jack Farmer,Introductory,Economics & Finance,English,English,50.0,4,1,2
+901,Sustainable Development: The Post-Capitalist Order,"7,031",Self-paced on your time,SDG Academy,Jeffrey D. Sachs,Introductory,Economics & Finance,English,English,49.0,8,2,4
+902,"Health Law, Policy, and Advocacy","6,358",Self-paced on your time,Doane University,Susan Sapp-Alice Kindschuh,Intermediate,Law,English,English,199.0,5,5,10
+903,Introduction to Haptics,,Self-paced on your time,Stanford University,Allison Okamura,Introductory,Engineering,English,English,129.0,5,1,10
+904,Gestión de inventario y portafolio,,Self-paced on your time,LOGYCA,Juan Carlos Martínez Rodríguez-Alex Fernando Bedoya Villamarín-Andrés Felipe Velandia Venegas-Maria Fernanda Torres Rojas,Introductory,Engineering,Español,Español,25.0,5,3,5
+905,Understanding Nuclear Energy,"16,015",Self-paced on your time,Delft University of Technology,Rudy Konings-Jan-Leen Kloosterman-Stefaan Pommé-Victor Hugo Sánchez Espinoza,Intermediate,Engineering,English,English,50.0,6,4,6
+906,Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo),"11,431",Self-paced on your time,Catalyst,María del Carmen Bernal González-Alejandra Moreno Maya-Deepali Bagati-Krista Brookman,Introductory,Business & Management,Español,Español,50.0,4,1,2
+907,Decision Making Under Uncertainty: Introduction to Structured Expert Judgment,,Self-paced on your time,Delft University of Technology,Tina Nane-Anca Hanea-Roger Cooke,Introductory,Business & Management,English,English,50.0,6,4,6
+908,AP® Calculus BC,"8,542",Self-paced on your time,Davidson Next,Stephen Davis-Ben Klein-Jane Wortman,Introductory,Math,English,English,49.0,11,2,4
+909,Advanced Linear Algebra: Foundations to Frontiers,,Self-paced on your time,The University of Texas at Austin,Maggie Myers-Robert van de Geijn,Advanced,Computer Science,English,English,49.0,16,8,12
+910,Entrepreneurial Opportunities,"27,182",Self-paced on your time,University of Adelaide,Noel Lindsay-Wendy Lindsay-Zrinka Tokic-Diana Lucic,Introductory,Business & Management,English,English,50.0,5,2,3
+911,Agua en América Latina: Abundancia en medio de la escasez mundial,"38,581",Self-paced on your time,Inter-American Development Bank,Jorge Ducci-Juan Mauricio Benavides-Mario Díaz Granados-Luis Alejandro Camacho,Introductory,Environmental Studies,Español,Español,25.0,10,3,4
+912,Understanding Political Concepts,"7,421",Self-paced on your time,Università degli Studi di Napoli Federico II,Mauro Calise-Werner Patzelt-Fortunato Musella-Valentina Reda,Introductory,Social Sciences,English,English,59.0,6,4,6
+913,How to Code: Complex Data,"34,190",Self-paced on your time,University of British Columbia,Gregor Kiczales,Introductory,Computer Science,English,English,125.0,6,2,3
+914,Hypersonics – from Shock Waves to Scramjets,"19,043",Self-paced on your time,The University of Queensland,Professor David J. Mee-Professor Richard G. Morgan-Professor Michael Smart-Associate Professor Vincent Wheatley,Advanced,Engineering,English,English,99.0,4,4,8
+915,Micro and Nanofabrication (MEMS),"16,094",Self-paced on your time,École polytechnique fédérale de Lausanne,Juergen Brugger-Martin Gijs,Advanced,Engineering,English,"English, Français",199.0,7,3,5
+916,Scientific Methods and Research,"7,501",Self-paced on your time,Ural Federal University,Ivan Zamoshchanskii-Kalganova Tatiana,Intermediate,Science,English,English,49.0,5,3,4
+917,Customer Centric Marketing for Entrepreneurs,"14,003",Self-paced on your time,Babson College,Beth Goldstein,Intermediate,Business & Management,English,English,149.0,4,4,6
+918,Dog Behavior: Problems and Solutions,"16,467",Self-paced on your time,Arizona State University,"Clive D.L. Wynne,",Intermediate,Social Sciences,English,English,169.0,3,4,10
+919,The Business of Mining,"20,406",Self-paced on your time,Curtin University,Felix Chan-Steve Hall-Bryan Maybee-Dan Packey,Introductory,Business & Management,English,English,139.0,4,2,3
+920,"Social Work Practice in Community Organization, Management and Policy/Evaluation","9,522",Self-paced on your time,The University of Michigan,Barbara Hiltz,Advanced,Social Sciences,English,English,199.0,8,8,10
+921,The Business of Aging in the Longevity Economy,,Self-paced on your time,Georgetown University,"Pamela A. Saunders, Ph.D.-Andrew Carle-Sonya Barsness, M.S.-Tara McMulen, Ph.D., MPH",Introductory,Social Sciences,English,English,139.0,4,1,2
+922,Understanding the Australian Health Care System,"8,343",Self-paced on your time,The University of Queensland,Cherri Ryan-Mieke van Driel-Allyson Mutch,Introductory,Medicine,English,English,59.0,9,1,2
+923,Age of Sustainable Development,"10,019",Self-paced on your time,SDG Academy,Jeffrey D. Sachs,Intermediate,Social Sciences,English,"English, Português, Русский",49.0,14,4,6
+924,Internationalization: Creating Digital Content for the World,,Self-paced on your time,University of Washington,Agustín Da Fieno Delucchi-Jorge Russo dos Santos-Pavel Soukenik,Advanced,Computer Science,English,English,199.0,4,2,5
+925,Multi-Object Tracking for Automotive Systems,"8,581",Instructor-led on a course schedule,Chalmers University of Technology,Lennart Svensson-Karl Granström-Yuxuan Xia,Advanced,Engineering,English,English,249.0,10,10,20
+926,Economics and Policies in a Biobased Economy,,Self-paced on your time,Wageningen University & Research,Justus Wesseler-Dusan Drabik-Hans van Meijl,Advanced,Energy & Earth Sciences,English,English,149.0,4,12,20
+927,Strategic Leadership in Healthcare,"6,237",Self-paced on your time,Doane University,Helen Abdali Soosan Fagan,Intermediate,Business & Management,English,English,199.0,5,5,10
+928,Terrorism and Counterterrorism: An Introduction,"14,128",Self-paced on your time,Georgetown University,Daniel Byman-Christine Fair-Bruce Hoffman-Paul Pillar,Introductory,Humanities,English,English,49.0,3,8,10
+929,Exploring Psychology's Core Concepts|走进心理学,"5,741",Self-paced on your time,Tsinghua University,Jing QIAN,Introductory,Social Sciences,English,English,139.0,6,3,5
+930,Creating Virtual Reality (VR) Apps,"22,349",Self-paced on your time,"The University of California, San Diego",Jurgen P. Schulze,Intermediate,Computer Science,English,English,99.0,6,5,7
+931,Análisis Multivariable en SPSS,,Self-paced on your time,Universidad Galileo,Samuel Reyes Gómez,Introductory,Data Analysis & Statistics,Español,Español,49.0,5,4,5
+932,Steps in Japanese for Beginners2 Part1,,Self-paced on your time,Waseda University,Naoko Kinoshita-Yukiyo HAMAKAWA,Introductory,Language,English,English,99.0,5,3,5
+933,"Competencias para buscar, mantener y promocionar en un empleo",,Self-paced on your time,Universidad Autónoma de Madrid,Dolores Izuzquiza Gasset-Pablo Rodríguez Herrero-Andrés Cabrera García-Agustín de la Herrán Gascón,Introductory,Social Sciences,Español,Español,49.0,4,3,5
+934,Dynamics and Control,"27,763",Self-paced on your time,Universitat Politècnica de Valencia,Pedro Albertos,Introductory,Engineering,English,English,50.0,6,4,5
+935,Finding Your Cybersecurity Career Path,"19,283",Self-paced on your time,University of Washington,Barbara Endicott-Popovsky,Introductory,Computer Science,English,English,199.0,6,2,5
+936,Introducción a la caligrafía y paleografía en archivos hispanos medievales y modernos,"12,674",Self-paced on your time,Universidad Carlos III de Madrid,Diego Navarro Bonilla-José Luis La Torre Merino-Eduardo Juárez Valero,Introductory,Humanities,Español,Español,29.0,6,3,4
+937,Mechanics: Rotational Dynamics,"13,183",Self-paced on your time,Massachusetts Institute of Technology,Peter Dourmashkin-George Stephans-Deepto Chakrabarty-Analia Barrantes,Intermediate,Physics,English,English,49.0,12,10,12
+938,Applying Health Coaching in Patient Care,,Self-paced on your time,Doane University,Kelsey Pruss,Introductory,Medicine,English,English,199.0,3,5,10
+939,Databases: Modeling and Theory,,Self-paced on your time,Stanford University,Jennifer Widom,Introductory,Computer Science,English,English,50.0,2,8,10
+940,"Islamic Banking: Principles, Practice and Risk Management",,Self-paced on your time,The Islamic Research and Training Institute,Azmi Omar-Ahmed Iskanderani-Khalifa M. Ali-Yahya Aleem ur Rehman,Introductory,Economics & Finance,English,English,49.0,4,3,6
+941,Liderazgo orientado al florecimiento humano,"7,911",Self-paced on your time,Tecnológico de Monterrey,Santiago José Vázquez Blanco,Introductory,Business & Management,Español,Español,149.0,4,5,8
+942,Software Construction: Object-Oriented Design,"23,100",Self-paced on your time,University of British Columbia,Gail Murphy-Elisa Baniassad,Intermediate,Computer Science,English,English,125.0,6,8,10
+943,"Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",,Self-paced on your time,The Linux Foundation,Stephen Curran-Carol Howard,Introductory,Computer Science,English,English,199.0,7,2,3
+944,Fondements de l’économie sociale et solidaire,,Instructor-led on a course schedule,Université catholique de Louvain,Marthe Nyssens,Intermediate,Social Sciences,Français,Français,50.0,12,2,3
+945,The Civil War and Reconstruction - 1861 - 1865: A New Birth of Freedom,"17,941",Self-paced on your time,Columbia University,Eric Foner-Tim Shenk-Columbia University Center for Teaching and Learning,Introductory,History,English,English,50.0,12,6,8
+946,Innovation Strategies for Electric Mobility: The StreetScooter Case,,Self-paced on your time,RWTH Aachen University,Frank T. Piller-Malte Brettel-Achim Kampker-Torsten-Oliver Salge,Intermediate,Business & Management,English,English,99.0,6,2,4
+947,Sustainable Energy,,Instructor-led on a course schedule,Massachusetts Institute of Technology,Michael Golay,Advanced,Energy & Earth Sciences,English,English,149.0,13,8,12
+948,Designing and Leading Learning Systems,"11,895",Self-paced on your time,The University of Michigan,Donald J. Peurach,Advanced,Education & Teacher Training,English,English,199.0,8,2,4
+949,How the U.S. Government Works & How to Get Involved,"5,930",Self-paced on your time,Georgetown University,Lynn Ross-Anne Cammisa-Mark Rom-Clyde Wilcox,Introductory,Social Sciences,English,English,49.0,6,4,5
+950,Inspiring and Motivating Arts and Culture Teams,"10,817",Self-paced on your time,The University of Michigan,Scott DeRue-Maxim Sytch-National Arts Strategies (NAS),Introductory,Business & Management,English,English,49.0,5,3,5
+951,Principles of Microeconomics: An Economist Way of Thinking,,Self-paced on your time,The University of Queensland,Carl Sherwood,Intermediate,Economics & Finance,English,English,149.0,6,1,2
+952,A System View of Communications: From Signals to Packets (Part 1),"34,261",Self-paced on your time,The Hong Kong University of Science and Technology,Bertram Shi-Shenghui Song,Introductory,Computer Science,English,English,60.0,7,4,6
+953,"Invasions, Rebellions, and the Fall of Imperial China","41,537",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby,Introductory,History,English,"English, 中文",139.0,15,1,3
+954,AP® English Literature & Composition – Part 3: Plays,"6,443",Self-paced on your time,"University of California, Berkeley",Maggie Sokolik,Introductory,Humanities,English,English,49.0,7,4,5
+955,Cómo implantar grupos de mejora de procesos,"28,100",Self-paced on your time,Universitat Politècnica de Valencia,Juan A. Marin-García-Julio J. García-Sabater-Julien Maheut-José Pedro García-Sabater,Introductory,Business & Management,Español,Español,150.0,8,3,4
+956,Proteins: Biology's Workforce,"25,893",Self-paced on your time,Rice University,Elizabeth Eich-Daniel J. Catanese,Intermediate,Biology & Life Sciences,English,English,169.0,5,4,6
+957,Introducción a los ritmos y relojes biológicos,"6,149",Self-paced on your time,Universidad Nacional de Córdoba,Mario Eduardo Guido-Eduardo Garbarino Pico-Ágata Carpentieri-María Ana Contin,Introductory,Science,Español,"English, Español",50.0,4,6,8
+958,Linear Algebra I: Linear Equations,,Self-paced on your time,The Georgia Institute of Technology,Greg Mayer,Intermediate,Math,English,English,199.0,3,5,6
+959,"Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications","10,205",Self-paced on your time,École polytechnique fédérale de Lausanne,Rolf Gruetter,Advanced,Engineering,English,English,169.0,7,4,5
+960,Fundamentos de Electromagnetismo para Ingeniería,"15,040",Self-paced on your time,Universitat Politècnica de Valencia,Pilar Candelas Valiente-M. Ángeles Hernández Fenollosa-Constanza Rubio Michavila-Marcos Giménez Valentín,Introductory,Physics,Español,Español,49.0,7,4,5
+961,Sustainable Food Systems: A Mediterranean Perspective,"6,480",Self-paced on your time,SDG Academy,Jeffrey D. Sachs-Alessio Cavicchi-Sonia Massari-Stefano Pascucci,Intermediate,Food & Nutrition,English,"English, Français, Italiano",49.0,10,2,4
+962,Scripting and Programming Foundations,,Self-paced on your time,Western Governors University,Gerri Light-Ryan Whisler,Introductory,Computer Science,English,English,299.7,8,9,10
+963,Using GPUs to Scale and Speed-up Deep Learning,"9,294",Self-paced on your time,IBM,Saeed Aghabozorgi,Intermediate,Data Analysis & Statistics,English,English,99.0,5,2,4
+964,StudioX: Creating a Course with edX Studio,"20,355",Self-paced on your time,edX,Nina Huntemann-Ben Piscopo,Introductory,Education & Teacher Training,English,English,99.0,3,4,6
+965,The Power of Data,,Self-paced on your time,Rolls-Royce,James Hallam,Introductory,Data Analysis & Statistics,English,English,49.0,2,1,5
+966,Introducción a las ondas gravitacionales,"8,657",Self-paced on your time,Universidad Nacional de Córdoba,Gabriela González,Introductory,Science,Español,"English, Español",50.0,4,5,7
+967,Drones and Autonomous Systems 2: Applications in Emergency Management,,Self-paced on your time,University of Maryland Global Campus-University System of Maryland,"Brian Powers, M.A.",Intermediate,Science,English,English,149.0,6,2,3
+968,MathTrackX: Differential Calculus,,Self-paced on your time,University of Adelaide,Dr Melissa Humphries-Dr Danny Stevenson-Dr David Butler-Dr Brendan Harding,Introductory,Math,English,English,79.0,4,3,6
+969,Global China: From the Mongols to the Ming,"41,902",Self-paced on your time,Harvard University,Peter K. Bol-William C. Kirby,Introductory,History,English,"English, 中文",139.0,15,1,3
+970,Leaders in Citizen Security and Justice Management for the Caribbean,,Self-paced on your time,Inter-American Development Bank,Olga Espinoza-Eduardo Pazinato-Alejandra Mera-Hung-En Sung,Intermediate,Social Sciences,English,English,25.0,10,4,5
+971,Pattern Studying and Making | 图案审美与创作,,Self-paced on your time,Tsinghua University,Yuehua Nie,Introductory,Art & Culture,中文,"English, 中文",139.0,12,3,5
+972,Computational Neuroscience: Neuronal Dynamics of Cognition,"11,246",Self-paced on your time,École polytechnique fédérale de Lausanne,Wulfram Gerstner,Advanced,Biology & Life Sciences,English,English,139.0,6,4,6
+973,Cities and the Challenge of Sustainable Development,"8,775",Self-paced on your time,SDG Academy,Jeffrey D. Sachs,Introductory,Environmental Studies,English,English,25.0,1,1,2
+974,MathTrackX: Special Functions,,Self-paced on your time,University of Adelaide,Dr David Butler,Introductory,Math,English,English,79.0,4,3,6
