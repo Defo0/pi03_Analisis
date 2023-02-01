@@ -3,7 +3,7 @@
 Este es el proyecto individual número 3 de la carrera de Ciencia de Datos del Bootcamp de Soy Henry.
 nos propusieron un ejercicio muy interesante relacionado con los M.O.O.C.
 
-¿Qué és un M.O.O.C?
+## ¿Qué és un M.O.O.C?
 
 Un mooc es un curso abierto, masivo y online.
 Los mooc se destacan por:
@@ -46,7 +46,9 @@ Redactar un reporte escrito de análisis realizado en base a sus dashboard e inc
 Cruce de datos con datasets complementarios.
 
 
-## Analisis exploratorio: dentro de este mismo repositorio se encuentra el archivo de Jupyter Notebooks en el cual realicé la limpieza, la transformacion y el analisis de los datos.
+## Analisis exploratorio: 
+
+Dentro de este mismo repositorio se encuentra el archivo de Jupyter Notebooks en el cual realicé la limpieza, la transformacion y el analisis de los datos.
 
 Dashboard: realizado en POWER Bi con 💛
 
